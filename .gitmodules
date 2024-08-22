@@ -1,0 +1,9 @@
+[submodule "siteadmin/vendor/nursestat/sacore"]
+	path = siteadmin/vendor/nursestat/sacore
+	url = https://github.com/NurseStat/SACore.git
+[submodule "siteadmin/vendor/nursestat/sahtmldocument"]
+	path = siteadmin/vendor/nursestat/sahtmldocument
+	url = https://github.com/NurseStat/SAHTMLDocument.git
+[submodule "app"]
+	path = app
+	url = https://github.com/NurseStat/NurseStat-Executive.git
