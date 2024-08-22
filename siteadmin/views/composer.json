@@ -1,0 +1,22 @@
+
+{
+    "name": "sa/coreviews",
+    "description": "Site Administrator Core Views",
+    "type": "siteadmin-views",
+    "minimum-stability": "dev",
+    "require": {
+        "sa/sa-installer-plugin": "*"
+    },
+    "require-dev": {
+
+    },
+    "suggest": {
+
+    },
+    "autoload": {
+
+    },
+    "archive": {
+        "exclude": []
+    }
+}

@@ -1,0 +1,538 @@
+
+
+
+#vue-wrapper .v-application--wrap .v-select__selections input {
+    background-color: transparent !important;
+    border-color: transparent !important;
+    width:50px !important;
+}
+#vue-wrapper .v-application--wrap .v-input__slot fieldset legend {
+    display: none !important;
+}
+
+#vue-wrapper .v-application--wrap input,
+#vue-wrapper .v-input input{
+    background-color: transparent !important;
+    border-color: transparent !important;
+}
+#vue-wrapper .v-application--wrap input.pay-rate-input {
+    text-align: center;
+    border-bottom: 1px solid #888 !important;
+    width: 100% !important;
+}
+
+
+#vue-wrapper .v-application--wrap .provider-shift-calendar .shift-calendar-sheet {
+    position: relative;
+}
+
+#vue-wrapper .v-application--wrap .provider-shift-calendar header.v-sheet {
+    z-index: 20;
+}
+
+#vue-wrapper .v-application--wrap .provider-shift-calendar .v-sheet {
+    position: relative;
+}
+
+#vue-wrapper .v-application--wrap .provider-shift-calendar .v-calendar-weekly {
+    height: 98%;
+}
+
+#vue-wrapper .v-application--wrap .sa-shift-requests-table tr {
+    padding: 10px;
+}
+
+#vue-wrapper .v-application--wrap thead tr{
+    color: rgba(0,0,0,.87) !important;
+    background: white !important;
+}
+
+#vue-wrapper a:hover, a:focus {
+    text-decoration: none;
+}
+
+#pay-period-container .v-input--checkbox {
+    display: inline;
+}
+
+#pay-period-container .v-input--checkbox .v-input__control {
+    display: inline-flex;
+    width: auto;
+}
+
+#pay-period-container #pay-period-tabs .v-autocomplete {
+    border-bottom: 1px solid gray;
+}
+
+#provider-dropdown-col .v-autocomplete {
+    padding-top: 0 !important;
+}
+
+.v-application--wrap .v-data-table__empty-wrapper td {
+    padding-top: 12px !important;
+}
+
+.w-100 {
+    width: 100%;
+}
+.h-100 {
+    height: 100%;
+}
+
+
+
+/* Custom Scrollbar */
+::-webkit-scrollbar {
+    width: 10px !important;
+}
+::-webkit-scrollbar-track {
+    background-color: #F2F2F2  !important;
+}
+::-webkit-scrollbar-thumb {
+    background: #ccc  !important;
+    border-radius: 5px  !important;
+}
+::-webkit-scrollbar-thumb:hover {
+    background: #888 !important;
+}
+
+.weekly-calendar-view ::-webkit-scrollbar-track {
+    background-color: #FFF  !important;
+}
+
+.shift-calendar-weekday-btn .v-btn__content {
+    max-width: 100%;
+}
+.day-event-checkbox {
+    max-height: 20px !important;
+    margin: 0 0 2px 0 !important;
+    padding: 0 !important;
+}
+.day-event-checkbox .mdi-checkbox-marked {
+    color: white !important;
+    caret-color: white !important;
+}
+.day-event-checkbox .v-icon {
+    transition: all 0s !important;
+}
+
+.monthly-view-shifts-btn-container {
+    width: 100%;
+    height: 60%;
+    padding: 5px;
+    background: transparent !important;
+}
+.monthly-view-shifts-btn {
+    background-color: #EEEEEE;
+    width: 96%;
+    margin-left: 2%;
+    height: 100%;
+    display: flex;
+    border-radius: 4px;
+}
+
+.month-shift-count-list {
+    padding-left: 25% !important;
+    width: 100%;
+    height: 100%;
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    margin-left: 0 !important;
+    list-style: none !important;
+}
+.month-shift-count-item {
+    font-size: 0.7rem !important;
+    line-height: 0.8;
+    flex-shrink: 1;
+}
+.month-shift-count-item > i {
+    font-size: 0.7rem !important;
+}
+.month-shift-left {
+    width: 50%;
+    flex: 1;
+}
+.month-day-shift-count-total-circle {
+    width: 30px;
+    height: 30px;
+    max-width: 100%;
+    background-color: white;
+    border-radius: 50%;
+    margin: auto 0 auto auto;
+    line-height: 1.75;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    border: 2px solid #B1B1B1;
+}
+.month-day-shift-count-total {
+    width: 100%;
+    height: 100%;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    text-align: center;
+    padding-right: 25%;
+}
+.month-shift-right {
+    width: 50%;
+    flex: 1;
+}
+
+.shift-calendar-title {
+    flex: 1;
+}
+.shift-calendar-buttons {
+    flex-grow: 1;
+    display: flex;
+    justify-content: flex-end;
+}
+.shift-calendar-buttons > button {
+    margin-left: 5px;
+    margin-right: 0;
+}
+.mass-delete-hidden {
+    display: none !important;
+}
+.shift-calendar-event-time {
+    flex-shrink: 1;
+    text-overflow:ellipsis;
+    overflow-x: hidden;
+    text-align: left;
+}
+.shift-calendar-event-name {
+    text-overflow:ellipsis;
+    overflow-x: hidden;
+    flex-grow: 2;
+}
+.shift-calendar-event-type {
+    flex: 1;
+    text-align: right;
+    justify-self: flex-end;
+}
+.v-calendar-daily__day {
+    line-height: 24px !important;
+}
+.pay-period-clock-times .v-select__selection {
+    width: 80%;
+    text-align: right;
+}
+.clock-delimiter {
+    font-size: 18px;
+    font-weight: bold;
+    padding-top: 15px !important;
+}
+.custom-timepicker {
+    background: transparent;
+    border: none !important;
+    border-bottom: 1px solid rgba(0,0,0,.42) !important;
+    color: rgba(0,0,0,.87) !important;
+    padding-left: 0 !important;
+}
+.edit-hourly-rate-field {
+    padding-top: 0 !important;
+}
+.vue__time-picker .dropdown ul li:not([disabled]).active {
+    background: #2196f3 !important;
+}
+.request-container {
+    height: 150px;
+    max-height: 210px;
+    overflow-y: auto;
+    margin-bottom: 20px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/* RESPONSIVE */@media only screen and (max-width: 400px) {
+
+    .v-card__title .v-btn {
+        font-size: 0.55rem !important;
+    }
+}
+@media only screen and (max-width: 768px) {
+    .calendar-status-filter {
+        width: 40%;
+    }
+    .calendar-status-filter:nth-child(even) {
+        float: right;
+        text-align: left !important;
+    }
+    .calendar-status-filter:last-of-type {
+        margin:auto !important;
+        display: block;
+        text-align: center !important;
+    }
+}
+@media only screen and (max-width: 959px) {
+    .shift-calendar-refresh-btn {
+        float: right;
+        margin-right: 0;
+    }
+    .shift-calendar-filters-btn {
+        float: right;
+        margin-right: 0;
+    }
+    .shift-calendar-buttons {
+        justify-content: space-between;
+    }
+    .mass-delete-hidden {
+        visibility: hidden !important;
+        display: block;
+    }
+    #shift-calendar-mass-delete-btn {
+        margin-left: 0;
+    }
+    .month-shift-left {
+        width: 100%;
+    }
+    .month-day-shift-count-total-circle {
+        margin-right: auto !important;
+    }
+    .month-day-shift-count-total {
+        padding-right: 0;
+    }
+    .month-shift-right {
+        display: none;
+    }
+    .v-card__title .v-btn {
+        font-size: 0.7rem !important;
+    }
+    .weekday-event .selecting-events {
+        display: none;
+    }
+    .v-calendar-daily__day {
+        padding: 2px 4px !important;
+    }
+}
+
+@media only screen and (min-width: 768px) and (max-width: 1199px) {
+
+    .metismenu .mm-collapse li.mm-active > a {
+        background-color: #fff !important;
+    }
+}
+
+@media only screen and (min-width: 960px) and (max-width: 1250px) {
+    .v-calendar-daily__day {
+        padding: 2px 4px !important;
+    }
+    .shift-calendar-buttons {
+        display: flex !important;
+        justify-content: space-between;
+        min-width: 100%;
+    }
+    .shift-calendar-buttons > button {
+        margin-left: 0;
+    }
+    .shift-calendar-title {
+        min-width: 100%;
+    }
+}
+
+@media only screen and (min-width: 1200px) and (max-width: 1480px) {
+    .shift-calendar-buttons > button, .shift-calendar-title > button {
+        font-size: 0.7rem !important;
+    }
+
+}
+
+
+.member-file-card {
+    width: 180px;
+    height: 240px;
+    text-align: center;
+    border: 1px solid #1976d2;
+}
+
+.member-file-icon > i {
+    font-size: 120px !important;
+}
+
+.member-file-name-container {
+    font-size: 20px;
+    width: 100%;
+    max-width: 180px;
+    overflow-x: hidden;
+    text-overflow: ellipsis;
+    text-align: center;
+    overflow-y: hidden;
+}
+
+.member-file-name {
+    color: black;
+    white-space: nowrap;
+    text-overflow: ellipsis;
+}
+
+
+#profile-form .v-application--wrap {
+    min-height: 40vh !important;
+}
+
+.member-file-icons {
+    display: flex;
+    justify-content: space-between;
+}
+.member-file-warning {
+    color: red;
+    font-weight: bold;
+}
+.member-file-tag {
+    cursor: pointer;
+}
+.member-file-tag-name {
+    color: gray;
+    font-size: 14px;
+}
+
+#profile-form .control-label {
+    margin: 0 !important;
+    padding: 12px !important;
+}
+
+#profile-form input::placeholder {
+    color: lightgray !important;
+}
+
+#profile-form .v-input--radio-group__input {
+    justify-content: center;
+}
+
+#edit-payrates th {
+    text-align: center;
+}
+
+#edit-payrates th:first-child, #edit-payrates td:first-child {
+    text-align: left !important;
+}
+
+#edit-payrates th, #edit-payrates td {
+    border: 1px solid lightgray;
+    padding: 0 5px;
+    vertical-align: middle !important;
+    text-align: center !important;
+}
+
+.nst-error-notification {
+    width: 100%;
+    padding: 20px;
+    margin-bottom: 20px;
+}
+.nst-error-notification.danger {
+    color: #a94442;
+    background-color: #f2dede;
+    border-color: #ebccd1;
+}
+.nst-error-notification.warning {
+    color: #8a6d3b;
+    background-color: #fcf8e3;
+    border-color: #faebcc;
+}
+.nst-error-header {
+    font-size: 24px;
+    font-weight: bold;
+    display: block;
+}
+.nst-error-message {
+    font-size: 18px;
+    display: block;
+}
+#reports_filter {
+    background-color: #eee;
+    padding: 20px;
+}
+.payment-clock {
+    flex-grow: 3 !important;
+    margin-right: 4px;
+}
+.payment-ampm {
+    flex: 1 !important;
+}
+.payment-clock-label {
+    font-size: 12px;
+    margin-bottom: -10px;
+}
+.vue__time-picker .drop-down {
+    height: 20em !important;
+    box-shadow: 0 4px 6px 0 rgb(32 33 36 / 28%) !important;
+}
+.vue__time-picker .select-list {
+    height: 100% !important;
+}
+.gray_dark {
+    background-color: #555 !important;
+}
+.matching {
+    background-color: #2ecc71;
+    color: white;
+    font-weight: bold;
+    border-radius: 5px;
+    padding: 0px 5px;
+}
+.nurse-info-td {
+    padding: 0px 5px;
+}
+.nurse-merge-selects {
+    height: 40px;
+}
+.vs__search {
+    background-color: white !important;
+    border: 0px solid gray !important;
+}
+
+.table-header-no-wrap th {
+    white-space: nowrap;
+}

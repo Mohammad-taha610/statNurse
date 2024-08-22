@@ -1,0 +1,13 @@
+<phpunit bootstrap="../../../../includes/bootstrap.php">
+	<testsuites>
+		<testsuite name="Testing">
+			<directory>../../../../../*/tests</directory>
+			<directory>../../../../../*/modules/*/*/tests</directory>
+		</testsuite>
+	</testsuites>
+	<php>
+		<server name="ELINKDEV" value="1"/>
+		<server name="UNITTESTING" value="1"/>
+        <server name="SERVER_NAME" value="unit-testing"/>
+	</php>
+</phpunit>

@@ -1,0 +1,80 @@
+security:
+    # https://symfony.com/doc/current/security.html#registering-the-user-hashing-passwords
+    password_hashers:
+        Symfony\Component\Security\Core\User\PasswordAuthenticatedUserInterface: 'auto'
+    # https://symfony.com/doc/current/security.html#loading-the-user-the-user-provider
+    providers:
+        users_in_memory: { memory: null }
+        db_member_users:
+            entity:
+                class: App\Entity\Nst\Member\NstMemberUsers
+                property: username
+        db_admins:
+            entity:
+                class: App\Entity\Sax\System\saUser
+                property: username
+
+    firewalls:
+        dev:
+            pattern: ^/(_(profiler|wdt)|css|images|js)/
+            security: false
+        admin_area:
+            pattern: ^/executive/admin/
+            provider: db_admins
+            form_login:
+                login_path: /siteadmin/login
+                check_path: executive_admin_login
+                username_parameter: username
+                password_parameter: password
+                default_target_path: /executive/admin/welcome
+            logout:
+                path: /executive/admin/logout
+                target: /executive/admin/login
+        main:
+            provider: db_member_users
+            pattern: ^/
+            form_login:
+                login_path: /member/login
+                check_path: executive_login
+                username_parameter: username
+                password_parameter: password
+                default_target_path: /executive/dashboard
+            remember_me:
+                secret: '%kernel.secret%'
+                lifetime: 604800  # one week in seconds
+                path: /
+            logout:
+                path: app_logout
+                target: /member/login
+        api:
+            pattern: ^/api/
+            stateless: true
+            simple_preauth:
+                authenticator: App\Security\TokenAuthenticator
+            anonymous: true
+
+    # Easy way to control access for large sections of your site
+    # Note: Only the *first* access control that matches will be used
+    access_control:
+          - { path: ^/executive/admin/login, roles: PUBLIC_ACCESS}
+          - { path: ^/executive/login, roles: PUBLIC_ACCESS }
+          # Admins/Executives only for payroll
+          - { path: ^/executive/payroll, roles: [ ROLE_PROVIDER_ADMIN, ROLE_EXECUTIVE ] }
+          # General Provider Access (Any provider or executive)
+          - { path: ^/executive, roles: [ ROLE_PROVIDER, ROLE_EXECUTIVE] }
+          - { path: ^/api, roles: IS_AUTHENTICATED_FULLY }
+
+
+
+when@test:
+    security:
+        password_hashers:
+            # By default, password hashers are resource intensive and take time. This is
+            # important to generate secure password hashes. In tests however, secure hashes
+            # are not important, waste resources and increase test times. The following
+            # reduces the work factor to the lowest possible values.
+            Symfony\Component\Security\Core\User\PasswordAuthenticatedUserInterface:
+                algorithm: auto
+                cost: 4 # Lowest possible value for bcrypt
+                time_cost: 3 # Lowest possible value for argon
+                memory_cost: 10 # Lowest possible value for argon

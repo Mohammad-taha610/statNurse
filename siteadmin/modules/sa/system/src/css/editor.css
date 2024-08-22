@@ -1,0 +1,215 @@
+body { overflow:hidden !important; }
+
+.debug { margin:5px;padding:5px; background:#FFFFFF; }
+.testing { font-size:10px; color:#333333;}
+
+.display_icon, .display_icon:hover, .display_icon:focus, .display_icon_active {
+    float:left;
+    color: black;
+    font-size: 30px;
+    padding: 6px;
+    opacity: 0.5;
+}
+.display_icon:hover, .display_icon:focus, .display_icon_active {
+    opacity: 1;
+}
+.white {
+	color:#fff;
+	}
+#display_views {
+    text-align: center;
+    bottom:25px;
+    position: absolute;
+    left: 0;
+    right: 0;
+    height: 57px;
+}
+#display_views h1 {
+    text-align:center;
+    font-size:11px;
+    font-weight:bold;
+    color:#CCCCCC;
+    margin:0;
+    padding:0;
+}
+#peToolbar {
+    box-shadow: 0px 0px 20px rgba(0,0,0,0.9);
+}
+.peToolbarSiteBackground {
+    background-color:#6f6f6f;
+    width:100%; height:100vh;
+    box-shadow: inset 0px 0px 20px rgba(0,0,0,0.9);
+    background:#6f6f6f url("/siteadmin/system/images/sa_grid_blue.png");
+
+}
+
+#toggleToolbarBox {
+    position:fixed;
+    /*top:1%;
+     right:97%; */
+
+    top: 5px;
+    left:10px;
+    z-index:1000;
+
+}
+
+.col-fixed-400, .col-fixed-none{
+    z-index:101;
+    width:320px;
+    background:#f5f5f5;
+    position:fixed;
+    height:100%;
+    overflow:hidden;
+    -webkit-transition: width 1s; /* Safari */
+    transition: width 1s;
+    display:block;
+}
+.col-fixed-none {
+    width:0;
+}
+.col-offset-400{
+    z-index:10;
+    padding-left:320px;
+
+    -webkit-transition: padding-left 1s; /* Safari */
+    transition: padding-left 1s;
+}
+.col-offset-none{
+    padding-left:0px;
+}
+
+.tab-content {
+    border: 0px solid #c5d0dc;
+    padding: 16px 12px;
+    position: relative;
+    z-index: 11;
+    margin-top:1px;
+
+    /* Permalink - use to edit and share this gradient: http://colorzilla.com/gradient-editor/#ffffff+0,ffffff+100&1+0,0+100;White+to+Transparent */
+    background: -moz-linear-gradient(top, rgba(255,255,255,1) 0%, rgba(255,255,255,0) 100%); /* FF3.6-15 */
+    background: -webkit-linear-gradient(top, rgba(255,255,255,1) 0%,rgba(255,255,255,0) 100%); /* Chrome10-25,Safari5.1-6 */
+    background: linear-gradient(to bottom, rgba(255,255,255,1) 0%,rgba(255,255,255,0) 100%); /* W3C, IE10+, FF16+, Chrome26+, Opera12+, Safari7+ */
+    filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#ffffff', endColorstr='#00ffffff',GradientType=0 ); /* IE6-9 */
+
+
+
+}
+.nav nav-tabs li:first-child {
+    margin-left:10px;
+}
+.tab-pane-property {
+    margin:0 0 5px 0;
+}
+
+.colorbox {
+    width:45px;
+    height:45px;
+    margin:0 10px 10px 0px;
+    border:1px solid #999999;
+    float:left;
+}
+
+.page_save_bar {
+    margin:20px -20px 5px -20px;
+    background-color:#f0f0f0;
+    border-top:1px solid #dddddd;
+    border-bottom:1px solid #dddddd;
+    padding:5px 20px 5px 20px;
+}
+.quick_link, .quick_link:hover {
+    color:#999999;
+    font-size:10px;
+    text-decoration:none;
+}
+.quick_link:hover {
+    color:#333333;
+}
+
+.page_tree_container .pages_table_header > div {  padding-top: 7px; font-weight: bold }
+
+.page_tree_container .tree_body > div.row {  min-height: 25px; padding: 2px }
+/*.page_tree_container .tree_body > div.row > div {  border-right: 1px solid #dddddd; min-height: 25px }*/
+.page_tree_container .tree_body > div.row:nth-child(odd) {  background-color: #f9f9f9; }
+.page_tree_container .tree_body > div.row:hover {  background-color: #f5f5f5; }
+
+.page_tree_container .page_active { color: #28c42f !important; }
+.page_tree_container .page_inactive { color: #be1715 !important; }
+.page_tree_container .tree_body .expand_collapse_button { padding: 0 5px 0 5px }
+
+/*.pe_tree_loading { position: absolute; top:300px; left: 50%  }*/
+
+.page_tree_container .drag_handle { display: inline-block; color: #b6b7b8; letter-spacing: -4px; cursor: pointer; padding: 0 7px 0 7px }
+.page_tree_container .tree_body .tree_image {
+    width: 0px;
+    display: inline-block;
+    height: 20px;
+    background-repeat: no-repeat;
+}
+
+.page_tree_container .tree_body .level1 .tree_image {
+    background-image: url(/siteadmin/system/images/tree_three_way.gif);
+    width: 16px;
+}
+
+.page_tree_container .tree_body .level2 .tree_image {
+    background-image: url(/siteadmin/system/images/tree_one_way.gif),
+    url(/siteadmin/system/images/tree_three_way.gif);
+    background-position: left, right;
+    width: 32px
+}
+
+.page_tree_container .tree_body .level3 .tree_image {
+    background-image: url(/siteadmin/system/images/tree_one_way.gif),
+    url(/siteadmin/system/images/tree_one_way.gif),
+    url(/siteadmin/system/images/tree_three_way.gif);
+    background-position: left, center, right;
+    width: 48px
+}
+
+.page_tree_container .tree_body .level4 .tree_image {
+    background-image: url(/siteadmin/system/images/tree_one_way.gif),
+    url(/siteadmin/system/images/tree_one_way.gif),
+    url(/siteadmin/system/images/tree_one_way.gif),
+    url(/siteadmin/system/images/tree_three_way.gif);
+    background-position: left, 16px, 32px, right;
+    width: 64px
+}
+
+.page_tree_container .tree_body .level5 .tree_image {
+    background-image: url(/siteadmin/system/images/tree_one_way.gif),
+    url(/siteadmin/system/images/tree_one_way.gif),
+    url(/siteadmin/system/images/tree_one_way.gif),
+    url(/siteadmin/system/images/tree_one_way.gif),
+    url(/siteadmin/system/images/tree_three_way.gif);
+    background-position: left, 16px, 32px, 48px, right;
+    width: 80px
+}
+
+.page_tree_container .tree_body .level6 .tree_image {
+    background-image: url(/siteadmin/page_editor/img/tree_one_way.gif),
+    url(/siteadmin/page_editor/img/tree_one_way.gif),
+    url(/siteadmin/page_editor/img/tree_one_way.gif),
+    url(/siteadmin/page_editor/img/tree_one_way.gif),
+    url(/siteadmin/page_editor/img/tree_one_way.gif),
+    url(/siteadmin/page_editor/img/tree_three_way.gif);
+    background-position: left, 16px, 32px, 48px, 64px, right;
+    width: 96px
+}
+
+.error_highlight { border: 2px solid red !important; }
+.error_highlight:after { content: "This field is required." }
+
+.tabbable {     position: absolute;  top: 65px;  left: 10px;  right: 0;  overflow: hidden;  right: 0;  bottom: 120px;  }
+.tab-content { overflow-y: auto; overflow-x: hidden; }
+#display_views .display_icon { float: none; position: static; }
+#navbar-container > .navbar-header.pull-right { position: absolute; right: 0; }
+
+.row > div > .pagelinkedit {
+    display:none;
+    float:right;
+    width:25px;
+}
+.row:hover > div > .pagelinkedit {
+    display:inline;
+}

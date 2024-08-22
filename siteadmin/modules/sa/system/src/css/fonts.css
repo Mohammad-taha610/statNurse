@@ -1,0 +1,48 @@
+@font-face {
+    font-family: "Arial";
+    src: local("Arial");
+}
+@font-face {
+    font-family: "Arial Black";
+    src: local("Arial Black");
+}
+@font-face {
+    font-family: "Comic Sans MS";
+    src: local("Comic Sans MS");
+}
+@font-face {
+    font-family: "Courier New";
+    src: local("Courier New");
+}
+@font-face {
+    font-family: "Georgia";
+    src: local("Georgia");
+}
+@font-face {
+    font-family: "Gibson Bold";
+    src: local("Gibson Bold");
+}
+@font-face {
+    font-family: "Impact";
+    src: local("Impact");
+}
+@font-face {
+    font-family: "Lucida Sans Unicode";
+    src: local("Lucida Sans Unicode");
+}
+@font-face {
+    font-family: "Tahoma";
+    src: local("Tahoma");
+}
+@font-face {
+    font-family: "Times New Roman";
+    src: local("Times New Roman");
+}
+@font-face {
+    font-family: "Trebuchet MS";
+    src: local("Trebuchet MS");
+}
+@font-face {
+    font-family: "Verdana";
+    src: local("Verdana");
+}

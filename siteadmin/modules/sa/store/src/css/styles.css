@@ -1,0 +1,169 @@
+.storeImageModal {
+    width: 80%;
+}
+
+.storeImageModal .modal-body {
+    text-align: center
+}
+
+.store .module .redbold {
+    font-weight: bold;
+    color: red;
+}
+
+.store .module {
+    border: 1px solid #d1d1d1;
+    min-height: 150px;
+    border-radius: 10px;
+    padding: 10px;
+    margin-bottom: 20px;
+    background-color: #f7f7f7;
+}
+
+.store .module.installed {
+    background-color: #d9edf7;
+    border-color: #bce8f1;
+}
+
+.store .module.update {
+    background-color: #dff0d8;
+    border-color: #d6e9c6;
+}
+
+
+
+.store .module .image {
+    padding: 22px 30% 22px 30%;
+    text-align: center;
+    border: 1px solid #d1d1d1;
+    border-radius: 10px;
+    background-color: #FFF;
+    display: inline-block;
+    margin-bottom: 5px;
+}
+
+.store .module .button button {
+    margin-top: 24px;
+    white-space: normal;
+}
+
+.store .module .loading {
+    text-align: center;
+}
+
+.store .module .loading .fa {
+    font-size: 70px;
+}
+
+.store .module .loading span {
+    font-size: 17px;
+    text-transform: uppercase;
+    font-weight: bold;
+}
+
+.store .module .name {
+    font-weight: bold;
+}
+
+.store .module .vendor {
+    font-size: 12px;
+    color: #989898;
+}
+
+.store .module .version {
+    font-size: 12px;
+    color: #989898;
+}
+
+.store .module .frozen_updates {
+    font-size: 12px;
+    color: #f65d20;
+    font-weight: bold;
+}
+
+.store_module_detail .details-left {
+    border-right: 1px solid #efefef;
+    padding: 5px;
+    margin-bottom: 5px;
+
+}
+
+.store_module_detail .buttonRow {
+    margin-top: 5px;
+}
+
+.store_module_detail .image {
+    padding: 22px 30px 22px 30px;
+    text-align: center;
+    border: 1px solid #d1d1d1;
+    border-radius: 10px;
+    background-color: #FFF;
+    display: inline-block;
+}
+
+.store_module_detail .name {
+    font-size: 30px;
+}
+
+.store_module_detail .storelabel {
+    padding-bottom: 15px;
+    font-size: 16px;
+    font-weight: bold;
+}
+
+.store_module_detail  .description { padding-bottom: 30px; }
+
+.store_module_detail .vendor {
+    font-size: 16px;
+    color: #989898;
+}
+
+.store_module_detail .version {
+    font-size: 16px;
+    color: #989898;
+}
+
+
+#consoleContainer {
+    position: relative;
+    width: 820px;
+    height: 420px;
+}
+
+#consoleContainer #consoleRunning {
+    position: absolute;
+    right: 50px;
+    top: 5px;
+    color: #ffffff;
+    font-size: 30px;
+}
+
+#consoleHolder {
+    margin-top: 30px;
+    background-color: black;
+    color: #e5e5e5;
+    padding: 10px;
+    width: 800px;
+    height: 400px;
+    overflow: auto;
+}
+
+#consoleHolder div {
+    min-height: 10px;
+}
+
+#consoleHolder div.red {
+    color: red;
+}
+
+#consoleHolder div.green {
+    color: #31e53c;
+}
+
+#consoleHolder div.orange {
+    color: #e57b2b;
+}
+
+#consoleHolder div.blue {
+    color: #3363e5;
+}

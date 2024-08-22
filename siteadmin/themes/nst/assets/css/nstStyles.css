@@ -1,0 +1,388 @@
+.profile-sidebar .profile-nav ul li a{
+    color:red;
+}
+.account-body {
+    background: #222 !important;
+    box-shadow: 0 0 35px 0 rgba(154, 161, 171, 0.15) !important;
+    border-radius: 5px !important;
+    padding: 50px !important;
+}
+
+.account-body h2, .account-body h5, .account-body a, .account-body label {
+    color: white !important;
+}
+
+.table table {
+    width: 100%;
+}
+
+.v-data-table>.v-data-table__wrapper>table>thead>tr>th {
+    font-size: 1rem !important;
+    font-weight: bold;
+}
+
+.v-application {
+    font-family: inherit !important;
+    background: inherit !important;
+}
+
+.v-application--wrap {
+    min-height: auto !important;
+}
+
+.v-application .title {
+    font-family: inherit !important;
+}
+
+.profile-card .form-group .form-control.no-border {
+    border: 0 !important;
+}
+
+.bdr-bottom .form-group {
+    border-bottom: 1px solid #f0f1f5;
+}
+
+.theme--light.v-application {
+    color: inherit !important;
+}
+
+.deznav .mm-collapse li.mm-active > a {
+    color: #ee4037 !important;
+}
+
+.v-application .deznav a {
+    color: #fff !important;
+}
+
+[data-sidebar-style="full"][data-layout="vertical"] .menu-toggle .deznav .metismenu li .mm-active {
+    /* background-color: white !important; */
+    margin-left: 0 !important;
+}
+.calendar-container .v-menu__content {
+    overflow-y: hidden;
+}
+.v-application td a {
+    color: inherit !important;
+}
+
+.v-calendar-weekly__day,
+.v-calendar .v-event,
+.v-btn__content {
+    position: static !important;
+}
+
+.v-card__text a {
+    color: #1976d2 !important;
+}
+
+.fade-enter-active, .fade-leave-active {
+    transition: all 0.5s
+}
+
+.fade-enter, .fade-leave-to {
+    opacity: 0;
+}
+
+.v-calendar-weekly__day .v-ripple__container {
+    opacity: 0 !important;
+}
+
+.calendar-container {
+    padding-top: 0 !important;
+}
+.calendar-container .v-sheet {
+    position: relative;
+}
+
+.header {
+    z-index: 30;
+}
+
+#return-modal {
+    top: 20%;
+}
+
+.nurse-phone, .nurse-email {
+    overflow: auto;
+}
+
+.v-application button.primary {
+    transition: color 0.15s ease-in-out, background-color 0.15s ease-in-out, border-color 0.15s ease-in-out, box-shadow 0.15s ease-in-out !important;
+}
+
+.header-search {
+    border-radius: 50px 0 0 50px !important;
+}
+.header-search:focus {
+    color: black;
+}
+
+.header-search-icon {
+    border-radius: 0 50px 50px 0 !important;
+}
+
+#pay-period-container .v-input--checkbox {
+    display: inline;
+}
+
+#pay-period-container .v-input--checkbox .v-input__control {
+    display: inline-flex;
+    width: auto;
+}
+
+#nurse-list .rounded {
+    border-radius: 1.25rem !important;
+}
+
+.primary--text {
+    color: #ee4037 !important;
+}
+.secondary--text {
+    color: #8BC740 !important;
+}
+.success--text {
+    color: #1BD084 !important;
+}
+.info--text {
+    color: #48A9F8 !important;
+}
+.warning--text {
+    color: #FE8024 !important;
+}
+.danger--text {
+    color: #FF6746 !important;
+}
+.light--text {
+    color: #F4F5F9 !important;
+}
+.dark--text {
+    color: #B1B1B1 !important;
+}
+.nurse-search-header-h4 {
+    color: black !important;
+}
+
+.v-card-rounded {
+    border-radius: 1.25rem !important;
+}
+
+.deznav {
+    z-index: 1000;
+}
+.nav-header {
+    z-index: 1001 !important;
+}
+
+.footer .copyright {
+    display: block !important;
+}
+
+.deznav-scroll .copyright {
+    position: absolute;
+    bottom: 0;
+    margin-bottom: 0;
+}
+
+#calendar-date-text {
+    margin-top: auto;
+    margin-bottom: auto;
+}
+
+.shift-calendar-filters-btn {
+    margin-right: 12px;
+}
+
+.user-card {
+    height: auto;
+    margin-bottom: 0;
+}
+
+
+
+
+
+/* Custom Scrollbar */
+::-webkit-scrollbar {
+    width: 10px !important;
+}
+::-webkit-scrollbar-track {
+    background-color: #F2F2F2  !important;
+}
+::-webkit-scrollbar-thumb {
+    background: #ccc  !important;
+    border-radius: 5px  !important;
+}
+::-webkit-scrollbar-thumb:hover {
+    background: #888 !important;
+}
+
+.weekly-calendar-view ::-webkit-scrollbar-track {
+    background-color: #FFF  !important;
+}
+
+.shift-calendar-weekday-btn .v-btn__content {
+    max-width: 100%;
+}
+.day-event-checkbox {
+    max-height: 20px;
+    margin: 0 0 2px 0;
+    padding: 0;
+}
+.day-event-checkbox .mdi-checkbox-marked {
+    color: white !important;
+    caret-color: white !important;
+}
+.day-event-checkbox .v-icon {
+    transition: all 0s !important;
+}
+
+.monthly-view-shifts-btn-container {
+    width: 100%;
+    height: 60%;
+    padding: 5px;
+    background: transparent !important;
+}
+.monthly-view-shifts-btn {
+    background-color: #EEEEEE;
+    width: 96%;
+    margin-left: 2%;
+    height: 100%;
+    display: flex;
+    border-radius: 4px;
+}
+
+.month-shift-count-list {
+    padding-left: 25% !important;
+    width: 100%;
+    height: 100%;
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    padding-top: 5px;
+    padding-bottom: 5px;
+}
+.month-shift-count-item {
+    font-size: 0.7rem !important;
+    line-height: 0.8;
+    flex-shrink: 1;
+}
+.month-shift-count-item > i {
+    font-size: 0.7rem !important;
+}
+.month-shift-left {
+    width: 50%;
+    flex: 1;
+}
+.month-day-shift-count-total-circle {
+    width: 30px;
+    height: 30px;
+    max-width: 100%;
+    background-color: white;
+    border-radius: 50%;
+    margin: auto 0 auto auto;
+    line-height: 1.75;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    border: 2px solid #B1B1B1;
+}
+.month-day-shift-count-total {
+    width: 100%;
+    height: 100%;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    text-align: center;
+    padding-right: 25%;
+}
+.month-shift-right {
+    width: 50%;
+    flex: 1;
+}
+
+.shift-calendar-title {
+    flex: 1;
+}
+.shift-calendar-buttons {
+    flex-grow: 1;
+    display: flex;
+    justify-content: flex-end;
+}
+.shift-calendar-buttons > button {
+    margin-left: 5px;
+    margin-right: 0;
+}
+.mass-delete-hidden {
+    display: none;
+}
+.shift-calendar-event-time {
+    flex-shrink: 1;
+    text-overflow:ellipsis;
+    overflow-x: hidden;
+    text-align: left;
+}
+.shift-calendar-event-name {
+    text-overflow:ellipsis;
+    overflow-x: hidden;
+    flex-grow: 2;
+}
+.shift-calendar-event-type {
+    flex: 1;
+    text-align: right;
+    justify-self: flex-end;
+}
+
+.block {
+    display: block;
+}
+
+.custom-timepicker {
+    background: transparent;
+    border: none !important;
+    border-bottom: 1px solid rgba(0,0,0,.42) !important;
+    font-size: 16px !important;
+    font-family: poppins, sans-serif;
+    padding: 5px 0;
+    margin: 10px 0;
+    font-weight: 400;
+}
+.vue__time-picker .dropdown ul li:not([disabled]).active {
+    background: #ee4037 !important;
+}
+
+.bulleted li {
+    list-style: disc inside;
+}
+.application-header {
+    display: flex;
+}
+
+.content-body #nurse-files-vue .container {
+    margin-top: 0
+}
+
+.member-file-card {
+    width: 180px;
+    text-align: center;
+    border: 1px solid #1976d2;
+}
+
+.member-file-icon > i {
+    font-size: 120px !important;
+}
+
+.member-file-name-container {
+    font-size: 20px;
+    width: 100%;
+    max-width: 180px;
+    overflow-x: hidden;
+    text-overflow: ellipsis;
+    text-align: center;
+    overflow-y: hidden;
+}
+
+.member-file-name {
+    color: black;
+    white-space: nowrap;
+    text-overflow: ellipsis;
+}

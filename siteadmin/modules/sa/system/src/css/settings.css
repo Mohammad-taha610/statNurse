@@ -1,0 +1,8 @@
+#settings-tabs .tab-pane > .row > div select, #settings-tabs .tab-pane > .row > div input[type="text"] { width: 100% }
+#settings-tabs .tab-pane > .row .widget-box { border: 1px solid #E5E5E5;  }
+#settings-tabs .tab-pane > .row .widget-main { min-height: 60px;  }
+#settings-tabs .tab-pane > .row .widget-header { border: 0; }
+#settings-tabs .tab-pane > .row .widget-header .var_name { font-size: 10px; color: rgba(37, 37, 37, 1);  display: inline-block  }
+#settings-tabs .tab-pane .select-image, #settings-tabs .tab-pane .delete-image { display: inline-block }
+#settings-tabs .tab-pane > .row  .widget-header > .widget-caption, .widget-header > :first-child { line-height: normal }
+#settings-tabs .tab-pane > .row .widget-header label { margin-bottom: 0 }

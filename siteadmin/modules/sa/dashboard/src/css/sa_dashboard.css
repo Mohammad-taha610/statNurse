@@ -1,0 +1,4 @@
+.dashboard-hover { border: 1px dotted black; height: 50px; }
+.dashboard-widgets-left-col, .dashboard-widgets-right-col, .dashboard-widgets-top-col, .dashboard-widgets-bottom-col { min-height: 0px;}
+.widget_drag_helper { width: 500px !important; height: 50px !important; overflow: hidden }
+.show_placement { min-height: 75px; background-color: #fbfbfb; border: 1px solid #dedede; }

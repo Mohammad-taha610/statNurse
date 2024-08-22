@@ -1,0 +1,6 @@
+[submodule "vendor/nursestat/sacore"]
+    path = vendor/nursestat/sacore
+    url = https://github.com/NurseStat/SACore.git
+[submodule "vendor/nursestat/sahtmldocument"]
+    path = vendor/nursestat/sahtmldocument
+    url = https://github.com/NurseStat/SAHTMLDocument.git

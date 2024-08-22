@@ -1,0 +1,43 @@
+body {
+    margin: 0;
+    font-family: "Roboto", sans-serif;
+    font-size: 0.875rem;
+    font-weight: 400;
+    line-height: 1.5;
+    color: #7e7e7e;
+    text-align: left;
+    background-color: #F2F2F2;
+}
+
+body, .app {
+    background: #fff;
+}
+
+.nurse-app-form {
+    background: #222;
+    box-shadow: 0 0 35px 0 rgba(154, 161, 171, 0.15);
+    border-radius: 5px;
+    color: #fff;
+    padding: 50px 50px !important;
+}
+
+.nurse-app-form form input {
+    color: #fff;
+}
+
+.step-primary::after,
+.btn-primary:not(:hover):not(:focus):not(:active) {
+    background-color: #ff0000 !important;
+    border-color: #ff0000 !important;
+}
+
+.step-primary::before {
+    background-color: #c20000 !important;
+}
+
+.btn-primary:hover,
+.btn-primary:focus,
+.btn-primary:active {
+    background-color: #c20000 !important;
+    border-color: #c20000 !important;
+}

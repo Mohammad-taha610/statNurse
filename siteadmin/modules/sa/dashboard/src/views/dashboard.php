@@ -1,0 +1,1 @@
+<h2>Welcome to Site Administrator. To begin please install a theme and setup some routes.</h2>

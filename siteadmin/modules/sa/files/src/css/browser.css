@@ -1,0 +1,27 @@
+#file-tree { height: 200px; overflow: auto; }
+
+.file-tree { height: 200px; overflow: auto }
+
+.file-tree .current, .file-tree .current:hover { background-color: #bfddfc }
+
+#preview { background-color: #c7ccd2; border-radius: 5px; min-height: 50px; width: 150px; max-height:150px; overflow: hidden; margin: 3px; text-align: center}
+
+.fileinfobox { height: 173px; position: relative }
+
+.actions { position: absolute; bottom: 7px; right: 7px }
+
+.warning { color: #fcf00a; font-size: 45px; padding-right: 5px }
+#warning { position: absolute; bottom: 6px; display: none }
+
+.headeruploadtoolbar { padding-top: 5px; padding-right: 5px }
+.headeruploadtoolbar .progress { display: inline-block; width: 150px; }
+.headeruploadtoolbar .delete { display: inline-block; }
+.headeruploadtoolbar .delete .button { display: inline-block; }
+.headeruploadtoolbar #uploadfilebutton { display: none; }
+/*.headeruploadtoolbar .uploadaliasbutton { font-size: 20px; cursor: pointer; }*/
+
+#folder_selection { margin: 0 5px 0 5px }
+#create_folder_container { display: inline-block }
+#buttons_container { display: inline-block }
+#buttons_container button { margin: 0 0 0 5px  }
+#search_container { display: inline-block }

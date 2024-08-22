@@ -1,0 +1,4 @@
+.sa-shift-action-log .v-data-table td.text-left,
+.sa-shift-action-log .v-data-table td.text-center {
+    line-height: 48px;
+}

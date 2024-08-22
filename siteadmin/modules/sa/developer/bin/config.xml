@@ -1,0 +1,13 @@
+<phpunit stopOnFailure="false" stopOnError="false" bootstrap="../../../../includes/app.php">
+	<testsuites>
+		<testsuite name="Testing">
+		    <directory>../../../../../*/vendor/sa/*/test</directory>
+			<directory>../../../../../*/test</directory>
+			<directory>../../../../../*/modules/*/*/test</directory>
+		</testsuite>
+	</testsuites>
+	<php>
+		<server name="UNITTESTING" value="5"/>
+        <server name="SERVER_NAME" value="unit_testing"/>
+	</php>
+</phpunit>

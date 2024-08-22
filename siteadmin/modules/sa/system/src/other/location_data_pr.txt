@@ -1,0 +1,177 @@
+PR	601	Adjuntas	Adjuntas	 	Adjuntas	1			18.1653	-66.7226		
+PR	602	Aguada	Aguada	 	Aguada	3			18.3931	-67.181		
+PR	603	Aguadilla	Aguadilla	 	Aguadilla	5			18.4559	-67.1458		
+PR	604	Aguadilla	Aguadilla	 	Aguadilla	5			18.493	-67.1396		
+PR	605	Aguadilla	Aguadilla	 	Aguadilla	5			18.4652	-67.1415		
+PR	690	San Antonio	Aguadilla	 	Aguadilla	5			18.4762	-67.1396		
+PR	703	Aguas Buenas	Aguas Buenas	 	Aguas Buenas	7			18.2504	-66.1285		
+PR	705	Aibonito	Aibonito	 	Aibonito	9			18.1281	-66.2687		
+PR	786	La Plata	Aibonito	 	Aibonito	9			18.1281	-66.2687		
+PR	610	Anasco	Anasco	 	Anasco	11			18.2887	-67.1397		
+PR	612	Arecibo	Arecibo	 	Arecibo	13			18.4507	-66.6983		
+PR	613	Arecibo	Arecibo	 	Arecibo	13			18.4581	-66.7327		
+PR	614	Arecibo	Arecibo	 	Arecibo	13			18.4297	-66.6745		
+PR	616	Bajadero	Arecibo	 	Arecibo	13			18.4448	-66.6407		
+PR	652	Garrochales	Arecibo	 	Arecibo	13			18.4573	-66.6034		
+PR	688	Sabana Hoyos	Arecibo	 	Arecibo	13			18.4297	-66.6745		
+PR	714	Arroyo	Arroyo	 	Arroyo	15			17.9675	-66.0414		
+PR	617	Barceloneta	Barceloneta	 	Barceloneta	17			18.4471	-66.5443		
+PR	794	Barranquitas	Barranquitas	 	Barranquitas	19			18.2009	-66.3072		
+PR	934	Fort Buchanan	Bayamon	 	Bayamon	21			18.3449	-66.166		
+PR	956	Bayamon	Bayamon	 	Bayamon	21			18.3267	-66.1742		
+PR	957	Bayamon	Bayamon	 	Bayamon	21			18.3666	-66.1839		
+PR	958	Bayamon	Bayamon	 	Bayamon	21			18.3449	-66.166		
+PR	959	Bayamon	Bayamon	 	Bayamon	21			18.3871	-66.159		
+PR	960	Bayamon	Bayamon	 	Bayamon	21			18.3449	-66.166		
+PR	961	Bayamon	Bayamon	 	Bayamon	21			18.4132	-66.1687		
+PR	622	Boqueron	Cabo Rojo	 	Cabo Rojo	23			17.9985	-67.1873		
+PR	623	Cabo Rojo	Cabo Rojo	 	Cabo Rojo	23			18.0622	-67.1495		
+PR	725	Caguas	Caguas	 	Caguas	25			18.213	-66.058		
+PR	726	Caguas	Caguas	 	Caguas	25			18.213	-66.058		
+PR	727	Caguas	Caguas	 	Caguas	25			18.2122	-66.0793		5
+PR	627	Camuy	Camuy	 	Camuy	27			18.4779	-66.8548		
+PR	729	Canovanas	Canovanas	 	Canovanas	29			18.3331	-65.8839		
+PR	983	Carolina	Carolina	 	Carolina	31			18.4143	-65.9773		
+PR	984	Carolina	Carolina	 	Carolina	31			18.3934	-65.9725		
+PR	985	Carolina	Carolina	 	Carolina	31			18.3457	-65.9389		
+PR	986	Carolina	Carolina	 	Carolina	31			18.3934	-65.9725		
+PR	987	Carolina	Carolina	 	Carolina	31			18.3735	-65.9599		
+PR	988	Carolina	Carolina	 	Carolina	31			18.3934	-65.9725		
+PR	962	Catano	Catano	 	Catano	33			18.4376	-66.1404		
+PR	963	Catano	Catano	 	Catano	33			18.4432	-66.1393		
+PR	736	Cayey	Cayey	 	Cayey	35			18.103	-66.1393		
+PR	737	Cayey	Cayey	 	Cayey	35			18.103	-66.1393		
+PR	735	Ceiba	Ceiba	 	Ceiba	37			18.2649	-65.5948		
+PR	742	Roosevelt Roads	Ceiba	 	Ceiba	37			18.2649	-65.5948		
+PR	638	Ciales	Ciales	 	Ciales	39			18.3362	-66.4721		
+PR	739	Cidra	Cidra	 	Cidra	41			18.1815	-66.1695		
+PR	769	Coamo	Coamo	 	Coamo	43			18.096	-66.3508		
+PR	782	Comerio	Comerio	 	Comerio	45			18.225	-66.2199		
+PR	783	Corozal	Corozal	 	Corozal	47			18.3044	-66.3305		
+PR	775	Culebra	Culebra	 	Culebra	49			18.3237	-65.2965		
+PR	646	Dorado	Dorado	 	Dorado	51			18.4361	-66.282		
+PR	738	Fajardo	Fajardo	 	Fajardo	53			18.3594	-65.6114		
+PR	740	Puerto Real	Fajardo	 	Fajardo	53			18.332	-65.6388		
+PR	650	Florida	Florida	 	Florida	54			18.3601	-66.5623		
+PR	647	Ensenada	Guanica	 	Guanica	55			17.9696	-66.9398		
+PR	653	Guanica	Guanica	 	Guanica	55			17.9725	-66.8987		
+PR	704	Aguirre	Guayama	 	Guayama	57			17.9923	-66.1393		
+PR	784	Guayama	Guayama	 	Guayama	57			17.9923	-66.1393		
+PR	656	Guayanilla	Guayanilla	 	Guayanilla	59			18.0233	-66.7869		
+PR	785	Guayama	Guayanilla	 	Guayanilla	59			18.0188	-66.7956		
+PR	965	Guaynabo	Guaynabo	 	Guaynabo	61			18.4288	-66.1154		
+PR	966	Guaynabo	Guaynabo	 	Guaynabo	61			18.3916	-66.1146		
+PR	969	Guaynabo	Guaynabo	 	Guaynabo	61			18.3623	-66.1137		
+PR	970	Guaynabo	Guaynabo	 	Guaynabo	61			18.3591	-66.1123		
+PR	971	Guaynabo	Guaynabo	 	Guaynabo	61			18.3094	-66.1136		
+PR	778	Gurabo	Gurabo	 	Gurabo	63			18.2591	-65.9746		
+PR	659	Hatillo	Hatillo	 	Hatillo	65			18.4814	-66.8087		
+PR	660	Hormigueros	Hormigueros	 	Hormigueros	67			18.1455	-67.1353		
+PR	741	Punta Santiago	Humacao	 	Humacao	69			18.1622	-65.7535		
+PR	791	Humacao	Humacao	 	Humacao	69			18.1406	-65.803		
+PR	792	Humacao	Humacao	 	Humacao	69			18.138	-65.7885		
+PR	662	Isabela	Isabela	 	Isabela	71			18.4803	-67.0282		
+PR	664	Jayuya	Jayuya	 	Jayuya	73			18.2176	-66.5983		
+PR	795	Juana Diaz	Juana Diaz	 	Juana Diaz	75			17.9974	-66.4932		
+PR	777	Juncos	Juncos	 	Juncos	77			18.2065	-65.9018		
+PR	667	Lajas	Lajas	 	Lajas	79			18.0151	-67.056		
+PR	631	Castaner	Lares	 	Lares	81			18.2692	-66.865		
+PR	669	Lares	Lares	 	Lares	81			18.296	-66.8819		
+PR	670	Las Marias	Las Marias	 	Las Marias	83			18.2521	-66.991		
+PR	771	Las Piedras	Las Piedras	 	Las Piedras	85			18.1966	-65.872		
+PR	772	Loiza	Loiza	 	Loiza	87			18.4474	-65.8994		
+PR	773	Luquillo	Luquillo	 	Luquillo	89			18.366	-65.7081		
+PR	674	Manati	Manati	 	Manati	91			18.4455	-66.4903		
+PR	606	Maricao	Maricao	 	Maricao	93			18.1729	-66.9441		
+PR	707	Maunabo	Maunabo	 	Maunabo	95			18.007	-65.8987		
+PR	680	Mayaguez	Mayaguez	 	Mayaguez	97			18.213	-67.3034		
+PR	681	Mayaguez	Mayaguez	 	Mayaguez	97			18.2113	-67.3257		
+PR	682	Mayaguez	Mayaguez	 	Mayaguez	97			18.2142	-67.3357		
+PR	676	Moca	Moca	 	Moca	99			18.3837	-67.0808		
+PR	687	Morovis	Morovis	 	Morovis	101			18.317	-66.4152		
+PR	718	Naguabo	Naguabo	 	Naguabo	103			18.2214	-65.7783		
+PR	744	Rio Blanco	Naguabo	 	Naguabo	103			18.2063	-65.7431		
+PR	719	Naranjito	Naranjito	 	Naranjito	105			18.298	-66.2298		
+PR	720	Orocovis	Orocovis	 	Orocovis	107			18.2269	-66.394		
+PR	723	Patillas	Patillas	 	Patillas	109			18.01	-66.0106		
+PR	624	Penuelas	Penuelas	 	Penuelas	111			18.0235	-66.7262		
+PR	715	Mercedita	Ponce	 	Ponce	113			18.0119	-66.5637		
+PR	716	Ponce	Ponce	 	Ponce	113			18.002	-66.6074		
+PR	717	Ponce	Ponce	 	Ponce	113			18.002	-66.6074		
+PR	728	Ponce	Ponce	 	Ponce	113			18.002	-66.6074		
+PR	730	Ponce	Ponce	 	Ponce	113			18.002	-66.6074		
+PR	731	Ponce	Ponce	 	Ponce	113			18.0383	-66.6263		
+PR	732	Ponce	Ponce	 	Ponce	113			18.0218	-66.6137		
+PR	733	Ponce	Ponce	 	Ponce	113			18.0193	-66.6192		
+PR	734	Ponce	Ponce	 	Ponce	113			17.9995	-66.6439		
+PR	780	Coto Laurel	Ponce	 	Ponce	113			18.002	-66.6074		
+PR	678	Quebradillas	Quebradillas	 	Quebradillas	115			18.453	-66.9337		
+PR	677	Rincon	Rincon	 	Rincon	117			18.3358	-67.2525		
+PR	721	Palmer	Rio Grande	 	Rio Grande	119			18.3642	-65.7783		
+PR	745	Rio Grande	Rio Grande	 	Rio Grande	119			18.3673	-65.8166		
+PR	637	Sabana Grande	Sabana Grande	 	Sabana Grande	121			18.0873	-66.9349		
+PR	751	Salinas	Salinas	 	Salinas	123			17.9985	-66.2648		
+PR	636	Rosario	San German	 	San German	125			18.1133	-67.0397		
+PR	683	San German	San German	 	San German	125			18.1133	-67.0397		
+PR	901	San Juan	San Juan	 	San Juan	127			18.4659	-66.1036		
+PR	902	San Juan	San Juan	 	San Juan	127			18.4105	-66.0605		
+PR	906	San Juan	San Juan	 	San Juan	127			18.4105	-66.0605		
+PR	907	San Juan	San Juan	 	San Juan	127			18.452	-66.0806		
+PR	908	San Juan	San Juan	 	San Juan	127			18.4105	-66.0605		
+PR	909	San Juan	San Juan	 	San Juan	127			18.4434	-66.0681		
+PR	910	San Juan	San Juan	 	San Juan	127			18.4105	-66.0605		
+PR	911	San Juan	San Juan	 	San Juan	127			18.4508	-66.0579		
+PR	912	San Juan	San Juan	 	San Juan	127			18.4442	-66.0599		
+PR	913	San Juan	San Juan	 	San Juan	127			18.4507	-66.0434		
+PR	914	San Juan	San Juan	 	San Juan	127			18.4105	-66.0605		
+PR	915	San Juan	San Juan	 	San Juan	127			18.4379	-66.0481		
+PR	916	San Juan	San Juan	 	San Juan	127			18.4105	-66.0605		
+PR	917	San Juan	San Juan	 	San Juan	127			18.4214	-66.0504		
+PR	918	San Juan	San Juan	 	San Juan	127			18.4191	-66.0623		
+PR	919	San Juan	San Juan	 	San Juan	127			18.4105	-66.0605		
+PR	920	San Juan	San Juan	 	San Juan	127			18.4068	-66.0919		
+PR	921	San Juan	San Juan	 	San Juan	127			18.3904	-66.0661		
+PR	922	San Juan	San Juan	 	San Juan	127			18.4105	-66.0605		
+PR	923	San Juan	San Juan	 	San Juan	127			18.4108	-66.0367		
+PR	924	San Juan	San Juan	 	San Juan	127			18.3964	-66.0115		
+PR	925	San Juan	San Juan	 	San Juan	127			18.4011	-66.0498		
+PR	926	San Juan	San Juan	 	San Juan	127			18.3694	-66.0628		
+PR	927	San Juan	San Juan	 	San Juan	127			18.3852	-66.072		
+PR	928	San Juan	San Juan	 	San Juan	127			18.4105	-66.0605		
+PR	929	San Juan	San Juan	 	San Juan	127			18.4105	-66.0605		
+PR	930	San Juan	San Juan	 	San Juan	127			18.4105	-66.0605		
+PR	931	San Juan	San Juan	 	San Juan	127			18.4105	-66.0605		
+PR	933	San Juan	San Juan	 	San Juan	127			18.4105	-66.0605		
+PR	935	San Juan	San Juan	 	San Juan	127			18.4105	-66.0605		
+PR	936	San Juan	San Juan	 	San Juan	127			18.3967	-66.0626		
+PR	937	San Juan	San Juan	 	San Juan	127			18.4105	-66.0605		
+PR	938	San Juan	San Juan	 	San Juan	127			18.4105	-66.0605		
+PR	939	San Juan	San Juan	 	San Juan	127			18.4105	-66.0605		
+PR	940	San Juan	San Juan	 	San Juan	127			18.4105	-66.0605		
+PR	955	San Juan	San Juan	 	San Juan	127			18.4105	-66.0605		
+PR	968	Guaynabo	San Juan	 	San Juan	127			18.4105	-66.0605		
+PR	975	San Juan	San Juan	 	San Juan	127			18.4105	-66.0605		
+PR	979	Carolina	San Juan	 	San Juan	127			18.4105	-66.0605		
+PR	981	Carolina	San Juan	 	San Juan	127			18.4105	-66.0605		
+PR	982	Carolina	San Juan	 	San Juan	127			18.4105	-66.0605		
+PR	754	San Lorenzo	San Lorenzo	 	San Lorenzo	129			18.1876	-65.9624		
+PR	685	San Sebastian	San Sebastian	 	San Sebastian	131			18.3236	-66.9722		
+PR	757	Santa Isabel	Santa Isabel	 	Santa Isabel	133			17.9912	-66.3955		
+PR	953	Toa Alta	Toa Alta	 	Toa Alta	135			18.3568	-66.257		
+PR	954	Toa Alta	Toa Alta	 	Toa Alta	135			18.3589	-66.2581		
+PR	949	Toa Baja	Toa Baja	 	Toa Baja	137			18.4319	-66.1997		
+PR	950	Toa Baja	Toa Baja	 	Toa Baja	137			18.4578	-66.1965		
+PR	951	Toa Baja	Toa Baja	 	Toa Baja	137			18.4578	-66.1965		
+PR	952	Sabana Seca	Toa Baja	 	Toa Baja	137			18.4578	-66.1965		
+PR	976	Trujillo Alto	Trujillo Alto	 	Trujillo Alto	139			18.3381	-65.9892		
+PR	977	Trujillo Alto	Trujillo Alto	 	Trujillo Alto	139			18.337	-65.9901		
+PR	978	St Just	Trujillo Alto	 	Trujillo Alto	139			18.337	-65.9901		
+PR	611	Angeles	Utuado	 	Utuado	141			18.2795	-66.8022		
+PR	641	Utuado	Utuado	 	Utuado	141			18.25	-66.699		
+PR	692	Vega Alta	Vega Alta	 	Vega Alta	143			18.4358	-66.3385		
+PR	693	Vega Baja	Vega Baja	 	Vega Baja	145			18.4431	-66.3983		
+PR	694	Vega Baja	Vega Baja	 	Vega Baja	145			18.4431	-66.3983		
+PR	765	Vieques	Vieques	 	Vieques	147			18.1233	-65.4604		
+PR	766	Villalba	Villalba	 	Villalba	149			18.1205	-66.4966		
+PR	767	Yabucoa	Yabucoa	 	Yabucoa	151			18.0455	-65.887		
+PR	698	Yauco	Yauco	 	Yauco	153			18.061	-66.8612		

@@ -1,0 +1,109 @@
+@media only screen and (max-width: 400px) {
+
+    .v-card__title .v-btn {
+        font-size: 0.55rem !important;
+    }
+}
+@media only screen and (max-width: 768px) {
+    .calendar-status-filter {
+        width: 40%;
+    }
+    .calendar-status-filter:nth-child(even) {
+        float: right;
+        text-align: left !important;
+    }
+    .calendar-status-filter:last-of-type {
+        margin:auto !important;
+        display: block;
+        text-align: center !important;
+    }
+}
+@media only screen and (max-width: 959px) {
+    .v-calendar-daily__day {
+        padding: 2px 4px !important;
+    }
+    .shift-calendar-refresh-btn {
+        float: right;
+        margin-right: 0;
+    }
+    .shift-calendar-filters-btn {
+        float: right;
+        margin-right: 0;
+    }
+    .shift-calendar-buttons {
+        justify-content: space-between;
+    }
+    .mass-delete-hidden {
+        visibility: hidden !important;
+        display: block;
+    }
+    #shift-calendar-mass-delete-btn {
+        margin-left: 0;
+    }
+    .month-shift-left {
+        width: 100%;
+    }
+    .month-day-shift-count-total-circle {
+        margin-right: auto !important;
+    }
+    .month-day-shift-count-total {
+        padding-right: 0;
+    }
+    .month-shift-right {
+        display: none;
+    }
+    .v-card__title .v-btn {
+        font-size: 0.7rem !important;
+    }
+    .weekday-event .selecting-events {
+        display: none;
+    }
+}
+
+@media only screen and (min-width: 768px) and (max-width: 1199px) {
+
+    .v-calendar-daily__day {
+        padding: 2px 4px !important;
+    }
+    .metismenu .mm-collapse li.mm-active > a {
+        background-color: #fff !important;
+    }
+}
+
+@media only screen and (min-width: 960px) and (max-width: 1250px) {
+    .shift-calendar-buttons {
+        display: flex !important;
+        justify-content: space-between;
+        min-width: 100%;
+    }
+    .shift-calendar-buttons > button {
+        margin-left: 0;
+    }
+    .shift-calendar-title {
+        min-width: 100%;
+    }
+}
+@media only screen and (min-width: 1200px) and (max-width: 1480px) {
+    .shift-calendar-buttons > button, .shift-calendar-title > button {
+        font-size: 0.7rem !important;
+    }
+
+}
+
+@media only screen and (min-width: 1300px) {
+}
+
+@media only screen and (min-width: 1400px) {
+
+}
+@media only screen and (max-width: 1900px) {
+    .application-header {
+        display: block !important;
+    }
+}
+
+@media only screen and (min-width: 1200px) and (max-width: 1263px) {
+    .nurse-contact-info {
+        display: none
+    }
+}

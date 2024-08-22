@@ -1,0 +1,201 @@
+.event-date-time {
+    border-top: 1px solid #e1e1e1;
+    border-bottom: 1px solid #e1e1e1;
+    margin: 15px 0;
+    padding: 15px;
+}
+
+.recurring-times-container {
+    background: #f1f1f1;
+    padding: 10px;
+
+    -webkit-border-radius: 0 0 3px 3px;
+    -moz-border-radius: 0 0 3px 3px;
+    border-radius: 0 0 3px 3px;
+}
+
+.recurring-times-toggle {
+    width: 100%;
+    padding: 15px 15px;
+    background: #f1f1f1;
+    border: none;
+    font-weight: bold;
+    color: #333;
+    font-size: 14px;
+    text-transform: uppercase;
+    outline: none;
+    text-align: left;
+    position: relative;
+    margin-top: 25px;
+    border-top: 1px solid #ddd;
+    border-bottom: 1px solid #ddd;
+
+    -webkit-border-radius: 3px;
+    -moz-border-radius: 3px;
+    border-radius: 3px;
+}
+
+.recurring-times-toggle:after {
+    content: '\f078';
+    position: absolute;
+    top: 50%;
+    right: 15px;
+    color: #333;
+    font-family: 'FontAwesome', serif;
+    margin-top: -12px;
+
+    -webkit-transition: transform .3s ease-in-out;
+    -moz-transition: transform .3s ease-in-out;
+    -ms-transition: transform .3s ease-in-out;
+    -o-transition: transform .3s ease-in-out;
+    transition: transform .3s ease-in-out;
+}
+
+.recurring-times-toggle:not(.collapsed):after {
+    color: #fff;
+    -webkit-transform: rotate(180deg);
+    -moz-transform: rotate(180deg);
+    -ms-transform: rotate(180deg);
+    -o-transform: rotate(180deg);
+    transform: rotate(180deg);
+}
+
+.recurring-times-toggle:not(.collapsed) {
+    color: #fff;
+    background-color: #428bca;
+
+    -webkit-border-radius: 3px 3px 0 0;
+    -moz-border-radius: 3px 3px 0 0;
+    border-radius: 3px 3px 0 0;
+}
+
+.recurring-times-toggle .recurring-dates-count {
+    padding: 10px;
+    vertical-align: middle;
+    font-size: 14px;
+    background-color: #428bca;
+
+    -webkit-border-radius: 50%;
+    -moz-border-radius: 50%;
+    border-radius: 50%;
+}
+
+.recurring-times-toggle:not(.collapsed) .recurring-dates-count {
+    color: #333;
+    background-color: #fff;
+}
+
+.single-date {
+    width: 100%;
+    margin: 5px 0;
+    display: inline-block;
+    -moz-box-sizing: border-box;
+    -webkit-box-sizing: border-box;
+    box-sizing: border-box;
+}
+
+.single-date a {
+    display: block;
+    background: #4b6b9c;
+}
+
+.single-date a > * {
+    display: inline-block;
+    vertical-align: middle;
+}
+
+.single-date a:hover, .single-date a.active {
+    background: #428bca;
+}
+
+.single-date a:hover .date, .single-date a.active .date {
+    background: #1b6aaa;
+}
+
+.single-date .date {
+    padding: 11px 0;
+    width: 65px;
+    height: 65px;
+    background: #245d24;
+    text-align: center;
+    -moz-box-sizing: border-box;
+    -webkit-box-sizing: border-box;
+    box-sizing: border-box;
+    -moz-transition: all 0.5s;
+    -webkit-transition: all 0.5s;
+    transition: all 0.5s;
+}
+
+.single-date .date span {
+    display: block;
+    color: #fff;
+}
+
+.single-date .date .day {
+    font-size: 20px;
+    line-height: 26px;
+}
+
+.single-date .date .month {
+    font-size: 11px;
+    line-height: 11px;
+    text-transform: uppercase;
+}
+
+.single-date .time {
+    width: -webkit-calc(100% - 70px);
+    width: calc(100% - 70px);
+    color: #fff;
+    text-align: left;
+    font-size: 18px;
+    float: right;
+    margin-top: 21px;
+}
+
+.single-date .time span {
+    margin-left: 10px;
+}
+
+.organizer,
+.location {
+    border: 1px solid #ddd;
+    margin-top: 25px;
+    padding: 15px;
+}
+
+.organizer .contact-detail {
+    font-weight: normal;
+}
+
+.organizer .contact-detail > i.fa {
+    color: #428bca;
+    margin-right: 10px;
+}
+
+.location {
+    text-align: left;
+    font-weight: bold;
+}
+
+.location h4 {
+    margin-bottom: 0;
+}
+
+.location p {
+    margin: 0;
+}
+
+.location i.fa {
+    color: #428bca;
+    font-size: 48px;
+}
+
+@media(max-width: 767px) {
+    .location {
+        text-align: center;
+    }
+}
+
+.event-reservation-form {
+    margin: 15px 0 25px 0;
+}

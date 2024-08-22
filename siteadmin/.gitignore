@@ -1,0 +1,12 @@
+/vendor/
+/config/
+/generated_code/
+.env
+# Exclude specific submodule directories from being ignored
+!vendor/nursestat/*
+!vendor/nursestat/sacore/*
+!vendor/nursestat/sahtmldocument/*
+
+# Ensure Git doesn't ignore the submodules themselves
+!vendor/nursestat/sacore/.git
+!vendor/nursestat/sahtmldocument/.git

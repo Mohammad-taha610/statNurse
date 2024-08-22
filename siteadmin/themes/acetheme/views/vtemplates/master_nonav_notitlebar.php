@@ -1,0 +1,1 @@
+header,header_bar,notifications,{views},footer

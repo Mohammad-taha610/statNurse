@@ -1,0 +1,48 @@
+{
+    "name": "nursestat/siteadmin",
+    "description": "NurseStat Site Administrator",
+    "type": "library",
+	"repositories": [
+		{
+			"type": "path",
+			"name": "nursestat/sacore",
+            "url": "vendor/nursestat/sacore"
+		},
+		{
+			"type": "path",
+			"name": "nursestat/sahtmldocument",
+            "url": "vendor/nursestat/sahtmldocument"
+		}
+	],
+    "require": {
+        "php": ">=8.1",
+        "picqer/php-barcode-generator": "^2.0",
+        "shuchkin/simplexlsx": "^0.8.19",
+		"mikehaertl/phpwkhtmltopdf": "*",
+        "phpoffice/phpspreadsheet": "^1.15",
+        "simshaun/recurr": "*",
+        "doctrine/orm": "<3",
+        "symfony/mime": "^5.3",
+        "quickbooks/v3-php-sdk": "^6.0",
+        "tplaner/when": "^3.1",
+        "nesbot/carbon": "*",
+        "dompdf/dompdf": "*",
+        "blueimp/jquery-file-upload": "9.9.2",
+        "ckeditor/ckeditor": "4.5.3",
+        "ext-gd": "*",
+        "recaptcha/php5": "2.0.0",
+        "johnstyle/google-authenticator": "v1.0.8",
+        "twilio/sdk": "6.36.1",
+        "paragraph1/php-fcm": "0.7",
+        "phpmailer/phpmailer": "^6.5",
+        "sensiolabs/ansi-to-html": "^1.1",
+        "ext-json": "*",
+        "geoip2/geoip2": "2.8.0",
+        "pulse00/monolog-parser": "0.0.3",
+		"nursestat/sacore": "*",
+		"nursestat/sahtmldocument": "*",
+        "doctrine/migrations": "^3.4",
+        "vlucas/phpdotenv": "^5.6"
+    },
+	"minimum-stability": "stable"
+}

@@ -1,0 +1,1 @@
+header,header_bar,titlebar,{views},footer

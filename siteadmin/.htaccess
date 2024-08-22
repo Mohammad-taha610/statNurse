@@ -1,0 +1,5 @@
+#Version SA3 1.2
+RewriteEngine on
+DirectorySlash Off
+RewriteCond %{REQUEST_FILENAME} !-f
+RewriteRule . index.php [L]

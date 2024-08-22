@@ -1,0 +1,1 @@
+header,header_bar,sidebar,titlebar,{views},sidebar_closediv,footer

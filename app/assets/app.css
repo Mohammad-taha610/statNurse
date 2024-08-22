@@ -1,0 +1,42 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@font-face {
+    font-family: 'Poppins';
+    src: url("./fonts/Poppins-Regular.ttf") format('truetype');
+    font-weight: normal;
+    font-style: normal;
+}
+
+body {
+    font-family: 'Poppins', serif;
+    background-color: #eeeeee;
+}
+
+{}
+.fc-header-toolbar.fc-today-button > button {
+    background-color: red;
+}
+
+.fc-header-toolbar.fc-toolbar.fc-toolbar-ltr button {
+    @apply text-sm;
+    @apply p-2;
+    text-transform: uppercase;
+    background-color: transparent;
+    color: black;
+}
+.fc-icon.fc-icon-chevron-left,
+.fc-icon.fc-icon-chevron-right {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.fc-event:hover, .fc-daygrid-day-events:hover, .fc-daygrid-event-harness:hover {
+    background-color: initial;
+}
+.fc-day-other {
+    background-color: #e0e0e0; /* Choose the shade of gray you prefer */
+    opacity: 0.6; /* Optionally, you can use opacity to make them appear "faded" */
+}

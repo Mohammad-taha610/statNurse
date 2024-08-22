@@ -1,0 +1,8 @@
+/* XS */
+@media(max-width: 1400px) {
+    #vue-wrapper .shift-calendar-sheet {
+        height: 200px;
+        position: relative;
+        top: 50px;
+    }
+}

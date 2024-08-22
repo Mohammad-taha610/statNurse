@@ -1,0 +1,24 @@
+{
+  "compilerOptions": {
+    "target": "esnext",
+    "module": "esnext",
+    "baseUrl": "./",
+    "moduleResolution": "node",
+    "jsx": "preserve",
+    "esModuleInterop": true,
+    "allowSyntheticDefaultImports": true,
+    "strict": true,
+    "allowJs": true,
+    "types": ["vite/client"],
+    "forceConsistentCasingInFileNames": true
+  },
+  "include": [
+    "assets/**/*.ts",
+    "assets/**/*.d.ts",
+    "assets/**/*.tsx",
+    "assets/**/*.vue"
+  ],
+  "exclude": [
+    "node_modules"
+  ]
+}

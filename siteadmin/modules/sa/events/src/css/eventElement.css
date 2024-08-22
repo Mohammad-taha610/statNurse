@@ -1,0 +1,15 @@
+.eventsContainer {
+    background: #E4E4D2;
+    overflow: hidden;
+    margin-bottom:10px;
+}
+.eventsContainer .eventDate {
+    text-align:center;
+    background:#2286A8;
+    color: #fff;
+    padding:10px;
+    font-weight: bold;
+}
+.eventsContainer .eventName {
+    padding: 10px;
+}

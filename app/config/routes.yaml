@@ -1,0 +1,15 @@
+controllers:
+    prefix: '/executive'
+    resource: ../src/Controller/
+    type: attribute
+
+executive_login:
+    path: /executive/login
+    controller: App\Controller\SecurityController::login
+
+executive_admin_login:
+    path: /executive/admin/login
+    controller: App\Controller\SecurityController::login
+hello:
+    path: /hello
+    controller: App\Controller\HelloController::hello

@@ -1,0 +1,4336 @@
+object(mikehaertl\pdftk\DataFields)#1091 (3) {
+  ["_string":"mikehaertl\pdftk\DataFields":private]=>
+  string(24485) "---
+FieldType: Text
+FieldName: topmostSubform[0].Page1[0].Last_Name_Family_Name[0]
+FieldNameAlt: Section 1. Employee Information and Attestation (Employees must complete and sign Section 1 of Form I-9 no later than the first day of employment, but not before accepting a job offer.) Enter Last Name (Family Name)
+FieldFlags: 0
+FieldJustification: Left
+---
+FieldType: Text
+FieldName: topmostSubform[0].Page1[0].First_Name_Given_Name[0]
+FieldNameAlt: Section 1., Enter First Name (Given Name)
+FieldFlags: 0
+FieldJustification: Left
+---
+FieldType: Text
+FieldName: topmostSubform[0].Page1[0].Middle_Initial[0]
+FieldNameAlt: Section 1., Enter Middle Initial
+FieldFlags: 0
+FieldJustification: Left
+---
+FieldType: Text
+FieldName: topmostSubform[0].Page1[0].Other_Last_Names_Used_if_any[0]
+FieldNameAlt: Section 1., Enter Other Last Names Used (if any).
+FieldFlags: 0
+FieldJustification: Left
+---
+FieldType: Text
+FieldName: topmostSubform[0].Page1[0].Address_Street_Number_and_Name[0]
+FieldNameAlt: Section 1., Enter Address (Street Number and Name)
+FieldFlags: 0
+FieldJustification: Left
+---
+FieldType: Text
+FieldName: topmostSubform[0].Page1[0].Apt_Number[0]
+FieldNameAlt: Section 1., Enter Apt. Number
+FieldFlags: 0
+FieldJustification: Left
+---
+FieldType: Text
+FieldName: topmostSubform[0].Page1[0].City_or_Town[0]
+FieldNameAlt: Section 1., Enter City or Town
+FieldFlags: 0
+FieldJustification: Left
+---
+FieldType: Text
+FieldName: topmostSubform[0].Page1[0].ZIP_Code[0]
+FieldNameAlt: Section 1., Enter ZIP Code
+FieldFlags: 0
+FieldJustification: Left
+---
+FieldType: Text
+FieldName: topmostSubform[0].Page1[0].Date_of_Birth_mmddyyyy[0]
+FieldNameAlt: Section 1., Enter Date of Birth (mm/dd/yyyy)
+FieldFlags: 0
+FieldJustification: Left
+---
+FieldType: Text
+FieldName: topmostSubform[0].Page1[0].U\.S\._Social_Security_Number__First_3_Numbers_[0]
+FieldNameAlt: Section 1., Enter U.S. Social Security Number (First 3 Numbers)
+FieldFlags: 25165824
+FieldJustification: Left
+FieldMaxLength: 3
+---
+FieldType: Text
+FieldName: topmostSubform[0].Page1[0].U\.S\._Social_Security_Number__Next_2_numbers_[0]
+FieldNameAlt: Section 1., Enter U.S. Social Security Number (Next 2 numbers)
+FieldFlags: 25165824
+FieldJustification: Left
+FieldMaxLength: 2
+---
+FieldType: Text
+FieldName: topmostSubform[0].Page1[0].U\.S\._Social_Security_Number__Last_4_numbers_[0]
+FieldNameAlt: Section 1., Enter U.S. Social Security Number (Last 4 numbers)
+FieldFlags: 25165824
+FieldJustification: Left
+FieldMaxLength: 4
+---
+FieldType: Text
+FieldName: topmostSubform[0].Page1[0].Employees_Email_Address[0]
+FieldNameAlt: Section 1., Enter Employee's E-mail Address
+FieldFlags: 0
+FieldJustification: Left
+---
+FieldType: Text
+FieldName: topmostSubform[0].Page1[0].Employees_Telephone_Number[0]
+FieldNameAlt: Section 1., Enter Employee's Telephone Number
+FieldFlags: 0
+FieldJustification: Left
+---
+FieldType: Button
+FieldName: topmostSubform[0].Page1[0]._1\._A_citizen_of_the_United_States[0]
+FieldNameAlt: Section 1., Select this Box for: 1. A citizen of the United States
+FieldFlags: 0
+FieldJustification: Left
+FieldStateOption: Yes
+FieldStateOption: Off
+---
+FieldType: Button
+FieldName: topmostSubform[0].Page1[0]._2\._A_noncitizen_national_of_the_United_States__See_instructions_[0]
+FieldNameAlt: Section 1., Select this Box for: 2. A noncitizen national of the United States (See instructions)
+FieldFlags: 0
+FieldJustification: Left
+FieldStateOption: Yes
+FieldStateOption: Off
+---
+FieldType: Button
+FieldName: topmostSubform[0].Page1[0]._3\._A_lawful_permanent_resident__Alien_Registration_Number_USCIS_Number__[0]
+FieldNameAlt: Section 1., Select this Box for: 3. A lawful permanent resident (Alien Registration Number/USCIS Number):
+FieldFlags: 0
+FieldJustification: Left
+FieldStateOption: Yes
+FieldStateOption: Off
+---
+FieldType: Text
+FieldName: topmostSubform[0].Page1[0].Alien_Registration_NumberUSCIS_Number_1[0]
+FieldNameAlt: Section 1., If you check Item Number 3. Enter Alien Registration Number  or U S C I S Number.
+FieldFlags: 0
+FieldJustification: Left
+---
+FieldType: Button
+FieldName: topmostSubform[0].Page1[0]._4\._An_alien_authorized_to_work_until__expiration_date__if_applicable__mmd_dd_yyyy__[0]
+FieldNameAlt: Section 1., Select this Box for:  4. An alien authorized to work until (expiration date, if applicable, mm/dd/yyyy):
+FieldFlags: 0
+FieldJustification: Left
+FieldStateOption: Yes
+FieldStateOption: Off
+---
+FieldType: Text
+FieldName: topmostSubform[0].Page1[0].expiration_date__if_applicable__mm_dd_yyyy[0]
+FieldNameAlt: Section 1., If you check Item Number 4. Select expiration date, if applicable, mm/dd/yyyy.
+FieldFlags: 0
+FieldJustification: Left
+---
+FieldType: Text
+FieldName: topmostSubform[0].Page1[0]._1_Alien_Registration_NumberUSCIS_Number[0]
+FieldNameAlt: Section 1., 1. Enter Alien Registration Number or U S C I S Number.
+FieldFlags: 0
+FieldJustification: Left
+---
+FieldType: Text
+FieldName: topmostSubform[0].Page1[0]._2_Form_I94_Admission_Number[0]
+FieldNameAlt: Section 1., 2. Enter Form I-94 Admission Number.
+FieldFlags: 0
+FieldJustification: Left
+---
+FieldType: Text
+FieldName: topmostSubform[0].Page1[0]._3_Foreign_Passport_Number[0]
+FieldNameAlt: Section 1., 3. Enter Foreign Passport Number.
+FieldFlags: 0
+FieldJustification: Left
+---
+FieldType: Text
+FieldName: topmostSubform[0].Page1[0].Country_of_Issuance[0]
+FieldNameAlt: Section 1., Enter Country of Issuance.
+FieldFlags: 8388608
+FieldJustification: Left
+---
+FieldType: Button
+FieldName: topmostSubform[0].Page1[0].I_did_not_use_a_preparer_or_translator[0]
+FieldNameAlt: Preparer and/or Translator Certification (check one):  Select this Box for:  I did not use a preparer or translator. 
+FieldFlags: 0
+FieldJustification: Left
+FieldStateOption: Yes
+FieldStateOption: Off
+---
+FieldType: Button
+FieldName: topmostSubform[0].Page1[0].A_preparer_s__and_or_translator_s__assisted_the_employee_in_completing_Section_1[0]
+FieldNameAlt: Preparer and/or Translator Certification (check one):  Select this Box for:  A preparer(s) and/or translator(s) assisted the employee in completing Section 1. 
+FieldFlags: 0
+FieldJustification: Left
+FieldStateOption: Yes
+FieldStateOption: Off
+---
+FieldType: Text
+FieldName: topmostSubform[0].Page1[0].Last_Name_Family_Name_2[0]
+FieldNameAlt: Section 1., Preparer and/or Translator Certification. Enter Last Name (Family Name).
+FieldFlags: 0
+FieldJustification: Left
+---
+FieldType: Text
+FieldName: topmostSubform[0].Page1[0].First_Name_Given_Name_2[0]
+FieldNameAlt: Section 1., Preparer and/or Translator Certification. Enter First Name (Given Name).
+FieldFlags: 0
+FieldJustification: Left
+---
+FieldType: Text
+FieldName: topmostSubform[0].Page1[0].Address_Street_Number_and_Name_2[0]
+FieldNameAlt: Section 1., Preparer and/or Translator Certification. Enter Address (Street Number and Name).
+FieldFlags: 0
+FieldJustification: Left
+---
+FieldType: Text
+FieldName: topmostSubform[0].Page1[0].City_or_Town_2[0]
+FieldNameAlt: Section 1., Preparer and/or Translator Certification. Enter City or Town.
+FieldFlags: 0
+FieldJustification: Left
+---
+FieldType: Text
+FieldName: topmostSubform[0].Page1[0].Zip_Code[0]
+FieldNameAlt: Section 1., Preparer and/or Translator Certification. Enter Zip Code.
+FieldFlags: 0
+FieldJustification: Left
+---
+FieldType: Choice
+FieldName: topmostSubform[0].Page1[0].State[0]
+FieldNameAlt: Section 1., Select State from the drop down list.
+FieldFlags: 131072
+FieldValue:  
+FieldValueDefault:  
+FieldJustification: Left
+FieldStateOption: AK
+FieldStateOptionDisplay: AL
+FieldStateOption: ID
+FieldStateOptionDisplay: HI
+FieldStateOption: VI
+FieldStateOptionDisplay: UT
+FieldStateOption: WV
+FieldStateOptionDisplay: WA
+FieldStateOption: TX
+FieldStateOptionDisplay: SD
+FieldStateOption: NY
+FieldStateOptionDisplay: NM
+FieldStateOption: IA
+FieldStateOptionDisplay: GU
+FieldStateOption: OR
+FieldStateOptionDisplay: OH
+FieldStateOption: IL
+FieldStateOptionDisplay: IA
+FieldStateOption: MA
+FieldStateOptionDisplay: KY
+FieldStateOption: MT
+FieldStateOptionDisplay: MP
+FieldStateOption: NM
+FieldStateOptionDisplay: NH
+FieldStateOption: MP
+FieldStateOptionDisplay: MN
+FieldStateOption: NE
+FieldStateOptionDisplay: NC
+FieldStateOption: AL
+FieldStateOptionDisplay: AK
+FieldStateOption: GA
+FieldStateOptionDisplay: DE
+FieldStateOption: OK
+FieldStateOptionDisplay: NY
+FieldStateOption: CO
+FieldStateOptionDisplay: CA
+FieldStateOption: NV
+FieldStateOptionDisplay: NJ
+FieldStateOption: KY
+FieldStateOptionDisplay: IN
+FieldStateOption: FL
+FieldStateOptionDisplay: DC
+FieldStateOption: HI
+FieldStateOptionDisplay: GA
+FieldStateOption: ME
+FieldStateOptionDisplay: MA
+FieldStateOption: MI
+FieldStateOptionDisplay: MD
+FieldStateOption: NJ
+FieldStateOptionDisplay: NE
+FieldStateOption: 0
+FieldStateOptionDisplay: CAN
+FieldStateOption:  
+FieldStateOptionDisplay:  
+FieldStateOption: SD
+FieldStateOptionDisplay: RI
+FieldStateOption: MEX
+FieldStateOptionDisplay: WY
+FieldStateOption: PA
+FieldStateOptionDisplay: OK
+FieldStateOption: DE
+FieldStateOptionDisplay: CT
+FieldStateOption: OH
+FieldStateOptionDisplay: NV
+FieldStateOption: NC
+FieldStateOptionDisplay: MS
+FieldStateOption: LA
+FieldStateOptionDisplay: KS
+FieldStateOption: IN
+FieldStateOptionDisplay: ID
+FieldStateOption: TN
+FieldStateOptionDisplay: SC
+FieldStateOption: AZ
+FieldStateOptionDisplay: AR
+FieldStateOption: GU
+FieldStateOptionDisplay: FL
+FieldStateOption: MN
+FieldStateOptionDisplay: ME
+FieldStateOption: RI
+FieldStateOptionDisplay: PA
+FieldStateOption: CA
+FieldStateOptionDisplay: AZ
+FieldStateOption: CT
+FieldStateOptionDisplay: CO
+FieldStateOption: AR
+FieldStateOptionDisplay: AS
+FieldStateOption: PR
+FieldStateOptionDisplay: OR
+FieldStateOption: WA
+FieldStateOptionDisplay: VI
+FieldStateOption: WI
+FieldStateOptionDisplay: VT
+FieldStateOption: VT
+FieldStateOptionDisplay: VA
+FieldStateOption: CAN
+FieldStateOptionDisplay: WV
+FieldStateOption: WY
+FieldStateOptionDisplay: WI
+FieldStateOption: 1
+FieldStateOptionDisplay: MEX
+FieldStateOption: SC
+FieldStateOptionDisplay: PR
+FieldStateOption: ND
+FieldStateOptionDisplay: MT
+FieldStateOption: MO
+FieldStateOptionDisplay: MI
+FieldStateOption: VA
+FieldStateOptionDisplay: TX
+FieldStateOption: MS
+FieldStateOptionDisplay: MO
+FieldStateOption: NH
+FieldStateOptionDisplay: ND
+FieldStateOption: KS
+FieldStateOptionDisplay: IL
+FieldStateOption: UT
+FieldStateOptionDisplay: TN
+FieldStateOption: MD
+FieldStateOptionDisplay: LA
+---
+FieldType: Choice
+FieldName: topmostSubform[0].Page1[0].State[1]
+FieldNameAlt: Section 1., Preparer and/or Translator Certification. Select State from the drop down list.
+FieldFlags: 131072
+FieldValue:  
+FieldValueDefault:  
+FieldJustification: Left
+FieldStateOption: AK
+FieldStateOptionDisplay: AL
+FieldStateOption: ID
+FieldStateOptionDisplay: HI
+FieldStateOption: VI
+FieldStateOptionDisplay: UT
+FieldStateOption: WV
+FieldStateOptionDisplay: WA
+FieldStateOption: TX
+FieldStateOptionDisplay: SD
+FieldStateOption: NY
+FieldStateOptionDisplay: NM
+FieldStateOption: IA
+FieldStateOptionDisplay: GU
+FieldStateOption: OR
+FieldStateOptionDisplay: OH
+FieldStateOption: IL
+FieldStateOptionDisplay: IA
+FieldStateOption: MA
+FieldStateOptionDisplay: KY
+FieldStateOption: MT
+FieldStateOptionDisplay: MP
+FieldStateOption: NM
+FieldStateOptionDisplay: NH
+FieldStateOption: MP
+FieldStateOptionDisplay: MN
+FieldStateOption: NE
+FieldStateOptionDisplay: NC
+FieldStateOption: AL
+FieldStateOptionDisplay: AK
+FieldStateOption: GA
+FieldStateOptionDisplay: DE
+FieldStateOption: OK
+FieldStateOptionDisplay: NY
+FieldStateOption: CO
+FieldStateOptionDisplay: CA
+FieldStateOption: NV
+FieldStateOptionDisplay: NJ
+FieldStateOption: KY
+FieldStateOptionDisplay: IN
+FieldStateOption: FL
+FieldStateOptionDisplay: DC
+FieldStateOption: HI
+FieldStateOptionDisplay: GA
+FieldStateOption: ME
+FieldStateOptionDisplay: MA
+FieldStateOption: MI
+FieldStateOptionDisplay: MD
+FieldStateOption: NJ
+FieldStateOptionDisplay: NE
+FieldStateOption: 0
+FieldStateOptionDisplay: CAN
+FieldStateOption:  
+FieldStateOptionDisplay:  
+FieldStateOption: SD
+FieldStateOptionDisplay: RI
+FieldStateOption: MEX
+FieldStateOptionDisplay: WY
+FieldStateOption: PA
+FieldStateOptionDisplay: OK
+FieldStateOption: DE
+FieldStateOptionDisplay: CT
+FieldStateOption: OH
+FieldStateOptionDisplay: NV
+FieldStateOption: NC
+FieldStateOptionDisplay: MS
+FieldStateOption: LA
+FieldStateOptionDisplay: KS
+FieldStateOption: IN
+FieldStateOptionDisplay: ID
+FieldStateOption: TN
+FieldStateOptionDisplay: SC
+FieldStateOption: AZ
+FieldStateOptionDisplay: AR
+FieldStateOption: GU
+FieldStateOptionDisplay: FL
+FieldStateOption: MN
+FieldStateOptionDisplay: ME
+FieldStateOption: RI
+FieldStateOptionDisplay: PA
+FieldStateOption: CA
+FieldStateOptionDisplay: AZ
+FieldStateOption: CT
+FieldStateOptionDisplay: CO
+FieldStateOption: AR
+FieldStateOptionDisplay: AS
+FieldStateOption: PR
+FieldStateOptionDisplay: OR
+FieldStateOption: WA
+FieldStateOptionDisplay: VI
+FieldStateOption: WI
+FieldStateOptionDisplay: VT
+FieldStateOption: VT
+FieldStateOptionDisplay: VA
+FieldStateOption: CAN
+FieldStateOptionDisplay: WV
+FieldStateOption: WY
+FieldStateOptionDisplay: WI
+FieldStateOption: 1
+FieldStateOptionDisplay: MEX
+FieldStateOption: SC
+FieldStateOptionDisplay: PR
+FieldStateOption: ND
+FieldStateOptionDisplay: MT
+FieldStateOption: MO
+FieldStateOptionDisplay: MI
+FieldStateOption: VA
+FieldStateOptionDisplay: TX
+FieldStateOption: MS
+FieldStateOptionDisplay: MO
+FieldStateOption: NH
+FieldStateOptionDisplay: ND
+FieldStateOption: KS
+FieldStateOptionDisplay: IL
+FieldStateOption: UT
+FieldStateOptionDisplay: TN
+FieldStateOption: MD
+FieldStateOptionDisplay: LA
+---
+FieldType: Text
+FieldName: topmostSubform[0].Page2[0].Last_Name_Family_Name_3[0]
+FieldNameAlt: Section 2., Employee Information from Section 1. Enter Last Name (Family Name)
+FieldFlags: 0
+FieldJustification: Left
+---
+FieldType: Text
+FieldName: topmostSubform[0].Page2[0].First_Name_Given_Name_3[0]
+FieldNameAlt: Section 2., Employee Information from Section 1. Enter  First Name (Given Name).
+FieldFlags: 0
+FieldJustification: Left
+---
+FieldType: Text
+FieldName: topmostSubform[0].Page2[0].MI[0]
+FieldNameAlt: Section 2., Employee Information from Section 1. Enter  Middle Initial.
+FieldFlags: 0
+FieldJustification: Left
+---
+FieldType: Text
+FieldName: topmostSubform[0].Page2[0].CitizenshipImmigration_Status[0]
+FieldNameAlt: Section 2., Employee Information from Section 1. Enter Citizenship or Immigration Status.
+FieldFlags: 0
+FieldJustification: Left
+---
+FieldType: Text
+FieldName: topmostSubform[0].Page2[0].List_A_-_Document_Title_1[0]
+FieldNameAlt: List A - Document Title 1
+FieldFlags: 0
+FieldJustification: Left
+---
+FieldType: Text
+FieldName: topmostSubform[0].Page2[0].List_B_-_Document_Title[0]
+FieldNameAlt: List B - Document Title
+FieldFlags: 0
+FieldJustification: Left
+---
+FieldType: Text
+FieldName: topmostSubform[0].Page2[0].List_C_-_Document_Title[0]
+FieldNameAlt: List C - Document Title
+FieldFlags: 0
+FieldJustification: Left
+---
+FieldType: Text
+FieldName: topmostSubform[0].Page2[0].List_A_-_Issuing_Authority_1[0]
+FieldNameAlt: List A - Issuing Authority 1
+FieldFlags: 0
+FieldJustification: Left
+---
+FieldType: Text
+FieldName: topmostSubform[0].Page2[0].List_B_-_Issuing_Authority[0]
+FieldNameAlt: List B - Issuing Authority
+FieldFlags: 0
+FieldJustification: Left
+---
+FieldType: Text
+FieldName: topmostSubform[0].Page2[0].List_C_-_Issuing_Authority[0]
+FieldNameAlt: List C - Issuing Authority
+FieldFlags: 0
+FieldJustification: Left
+---
+FieldType: Text
+FieldName: topmostSubform[0].Page2[0].List_A_-_Document_Number_1[0]
+FieldNameAlt: List A - Document Number 1
+FieldFlags: 0
+FieldJustification: Left
+---
+FieldType: Text
+FieldName: topmostSubform[0].Page2[0].List_B_-_Document_Number[0]
+FieldNameAlt: List B - Document Number
+FieldFlags: 0
+FieldJustification: Left
+---
+FieldType: Text
+FieldName: topmostSubform[0].Page2[0].List_C_-_Document_Number[0]
+FieldNameAlt: List C - Document Number
+FieldFlags: 0
+FieldJustification: Left
+---
+FieldType: Text
+FieldName: topmostSubform[0].Page2[0].List_A_-_Expiration_Date__if_any___mm_dd_yyyy__1[0]
+FieldNameAlt: List A - Expiration Date (if any) (mm/dd/yyyy) 1
+FieldFlags: 0
+FieldJustification: Left
+---
+FieldType: Text
+FieldName: topmostSubform[0].Page2[0].List_B_-_Expiration_Date__if_any___mm_dd_yyyy_[0]
+FieldNameAlt: List B - Expiration Date (if any) (mm/dd/yyyy)
+FieldFlags: 0
+FieldJustification: Left
+---
+FieldType: Text
+FieldName: topmostSubform[0].Page2[0].List_C_-_Expiration_Date__if_any___mm_dd_yyyy_[0]
+FieldNameAlt: List C - Expiration Date (if any) (mm/dd/yyyy)
+FieldFlags: 0
+FieldJustification: Left
+---
+FieldType: Text
+FieldName: topmostSubform[0].Page2[0].List_A_-_Document_Title_2[0]
+FieldNameAlt: List A - Document Title 2
+FieldFlags: 0
+FieldJustification: Left
+---
+FieldType: Text
+FieldName: topmostSubform[0].Page2[0].List_A_-_Issuing_Authority_2[0]
+FieldNameAlt: List A - Issuing Authority 2
+FieldFlags: 0
+FieldJustification: Left
+---
+FieldType: Text
+FieldName: topmostSubform[0].Page2[0].List_A_-_Document_Number_2[0]
+FieldNameAlt: List A - Document Number 2
+FieldFlags: 0
+FieldJustification: Left
+---
+FieldType: Text
+FieldName: topmostSubform[0].Page2[0].List_A_-_Expiration_Date__if_any___mm_dd_yyyy__2[0]
+FieldNameAlt: List A - Expiration Date (if any) (mm/dd/yyyy) 2
+FieldFlags: 0
+FieldJustification: Left
+---
+FieldType: Text
+FieldName: topmostSubform[0].Page2[0].List_A_-_Document_Title_3[0]
+FieldNameAlt: List A - Document Title 3
+FieldFlags: 0
+FieldJustification: Left
+---
+FieldType: Text
+FieldName: topmostSubform[0].Page2[0].List_A_-_Issuing_Authority_3[0]
+FieldNameAlt: List A - Issuing Authority 3
+FieldFlags: 0
+FieldJustification: Left
+---
+FieldType: Text
+FieldName: topmostSubform[0].Page2[0].List_A_-_Document_Number_3[0]
+FieldNameAlt: List A - Document Number 3
+FieldFlags: 0
+FieldJustification: Left
+---
+FieldType: Text
+FieldName: topmostSubform[0].Page2[0].List_A_-_Expiration_Date__if_any___mm_dd_yyyy__3[0]
+FieldNameAlt: List A - Expiration Date (if any) (mm/dd/yyyy) 3
+FieldFlags: 0
+FieldJustification: Left
+---
+FieldType: Text
+FieldName: topmostSubform[0].Page2[0].Additional_Information[0]
+FieldNameAlt: Additional Information
+FieldFlags: 4096
+FieldJustification: Left
+---
+FieldType: Text
+FieldName: topmostSubform[0].Page2[0].Last_Name_of_Employer_or_Authorized_Representative[0]
+FieldNameAlt: Section 2., Enter Last Name of Employer or Authorized Representative.
+FieldFlags: 0
+FieldJustification: Left
+---
+FieldType: Text
+FieldName: topmostSubform[0].Page2[0].First_Name_of_Employer_or_Authorized_Representative[0]
+FieldNameAlt: Section 2., Enter First Name of Employer or Authorized Representative.
+FieldFlags: 0
+FieldJustification: Left
+---
+FieldType: Text
+FieldName: topmostSubform[0].Page2[0].Employers_Business_or_Organization_Name[0]
+FieldNameAlt: Section 2., Enter Employer's Business or Organization Name.
+FieldFlags: 0
+FieldJustification: Left
+---
+FieldType: Text
+FieldName: topmostSubform[0].Page2[0].Employers_Business_or_Organization_Address_Street_Number_and_Name[0]
+FieldNameAlt: Section 2., Enter Employer's Business or Organization Address (Street Number and Name).
+FieldFlags: 0
+FieldJustification: Left
+---
+FieldType: Text
+FieldName: topmostSubform[0].Page2[0].City_or_Town_of_Employers_Business_or_Organization[0]
+FieldNameAlt: of Employers Business or Organization. City or Town of Employers Business or Organization.
+FieldFlags: 0
+FieldJustification: Left
+---
+FieldType: Text
+FieldName: topmostSubform[0].Page2[0].Last_Name_Family_Name_4[0]
+FieldNameAlt: Section 3., A. New Name (if applicable) Enter Last Name (Family Name).
+FieldFlags: 0
+FieldJustification: Left
+---
+FieldType: Text
+FieldName: topmostSubform[0].Page2[0].First_Name_Given_Name_4[0]
+FieldNameAlt: Section 3., A. New Name (if applicable) Enter First Name (Given Name).
+FieldFlags: 0
+FieldJustification: Left
+---
+FieldType: Text
+FieldName: topmostSubform[0].Page2[0].Middle_Initial_2[0]
+FieldNameAlt: Section 3., A. New Name (if applicable) Enter Middle Initial.
+FieldFlags: 0
+FieldJustification: Left
+---
+FieldType: Text
+FieldName: topmostSubform[0].Page2[0].Date_mmddyyyy[0]
+FieldNameAlt: Section 3., B. Date of Rehire (if applicable) Enter Date (mm/dd/yyyy).
+FieldFlags: 0
+FieldJustification: Left
+---
+FieldType: Text
+FieldName: topmostSubform[0].Page2[0].Document_Title_4[0]
+FieldNameAlt: Section 3., C. Enter Document Title.
+FieldFlags: 0
+FieldJustification: Left
+---
+FieldType: Text
+FieldName: topmostSubform[0].Page2[0].Document_Number_6[0]
+FieldNameAlt: Section 3., C. Enter Document Number.
+FieldFlags: 0
+FieldJustification: Left
+---
+FieldType: Text
+FieldName: topmostSubform[0].Page2[0].Expiration_Date_if_any_mmddyyyy_6[0]
+FieldNameAlt: Section 3., C. Enter Expiration Date (if any) (mm/dd/yyyy).
+FieldFlags: 0
+FieldJustification: Left
+---
+FieldType: Text
+FieldName: topmostSubform[0].Page2[0].Zip_Code_of_Employers_Business_or_Organization[0]
+FieldNameAlt: Section 2., Enter Zip Code of Employers Business or Organization.
+FieldFlags: 0
+FieldJustification: Left
+---
+FieldType: Text
+FieldName: topmostSubform[0].Page2[0].textFieldEmployerTitle[0]
+FieldNameAlt: Section 2., Title of Employer or Authorized Representative
+FieldFlags: 8388608
+FieldJustification: Left
+---
+FieldType: Text
+FieldName: topmostSubform[0].Page2[0].textFieldEmployerName[0]
+FieldNameAlt: Section 3., Name of Employer or Authorized Representative 
+FieldFlags: 8388608
+FieldJustification: Left
+---
+FieldType: Choice
+FieldName: topmostSubform[0].Page2[0].State[0]
+FieldNameAlt: Section 2., Select State from the drop down list.
+FieldFlags: 131072
+FieldValue:  
+FieldValueDefault:  
+FieldJustification: Left
+FieldStateOption: AK
+FieldStateOptionDisplay: AL
+FieldStateOption: ID
+FieldStateOptionDisplay: HI
+FieldStateOption: VI
+FieldStateOptionDisplay: UT
+FieldStateOption: WV
+FieldStateOptionDisplay: WA
+FieldStateOption: TX
+FieldStateOptionDisplay: SD
+FieldStateOption: NY
+FieldStateOptionDisplay: NM
+FieldStateOption: IA
+FieldStateOptionDisplay: GU
+FieldStateOption: OR
+FieldStateOptionDisplay: OH
+FieldStateOption: IL
+FieldStateOptionDisplay: IA
+FieldStateOption: MA
+FieldStateOptionDisplay: KY
+FieldStateOption: MT
+FieldStateOptionDisplay: MP
+FieldStateOption: NM
+FieldStateOptionDisplay: NH
+FieldStateOption: MP
+FieldStateOptionDisplay: MN
+FieldStateOption: NE
+FieldStateOptionDisplay: NC
+FieldStateOption: AL
+FieldStateOptionDisplay: AK
+FieldStateOption: GA
+FieldStateOptionDisplay: DE
+FieldStateOption: OK
+FieldStateOptionDisplay: NY
+FieldStateOption: CO
+FieldStateOptionDisplay: CA
+FieldStateOption: NV
+FieldStateOptionDisplay: NJ
+FieldStateOption: KY
+FieldStateOptionDisplay: IN
+FieldStateOption: FL
+FieldStateOptionDisplay: DC
+FieldStateOption: HI
+FieldStateOptionDisplay: GA
+FieldStateOption: ME
+FieldStateOptionDisplay: MA
+FieldStateOption: MI
+FieldStateOptionDisplay: MD
+FieldStateOption: NJ
+FieldStateOptionDisplay: NE
+FieldStateOption:  
+FieldStateOptionDisplay:  
+FieldStateOption: SD
+FieldStateOptionDisplay: RI
+FieldStateOption: MEX
+FieldStateOptionDisplay: WY
+FieldStateOption: PA
+FieldStateOptionDisplay: OK
+FieldStateOption: DE
+FieldStateOptionDisplay: CT
+FieldStateOption: OH
+FieldStateOptionDisplay: NV
+FieldStateOption: NC
+FieldStateOptionDisplay: MS
+FieldStateOption: LA
+FieldStateOptionDisplay: KS
+FieldStateOption: IN
+FieldStateOptionDisplay: ID
+FieldStateOption: TN
+FieldStateOptionDisplay: SC
+FieldStateOption: AZ
+FieldStateOptionDisplay: AR
+FieldStateOption: GU
+FieldStateOptionDisplay: FL
+FieldStateOption: MN
+FieldStateOptionDisplay: ME
+FieldStateOption: RI
+FieldStateOptionDisplay: PA
+FieldStateOption: CA
+FieldStateOptionDisplay: AZ
+FieldStateOption: CT
+FieldStateOptionDisplay: CO
+FieldStateOption: AR
+FieldStateOptionDisplay: AS
+FieldStateOption: PR
+FieldStateOptionDisplay: OR
+FieldStateOption: WA
+FieldStateOptionDisplay: VI
+FieldStateOption: WI
+FieldStateOptionDisplay: VT
+FieldStateOption: VT
+FieldStateOptionDisplay: VA
+FieldStateOption: CAN
+FieldStateOptionDisplay: WV
+FieldStateOption: WY
+FieldStateOptionDisplay: WI
+FieldStateOption: SC
+FieldStateOptionDisplay: PR
+FieldStateOption: ND
+FieldStateOptionDisplay: MT
+FieldStateOption: MO
+FieldStateOptionDisplay: MI
+FieldStateOption: VA
+FieldStateOptionDisplay: TX
+FieldStateOption: MS
+FieldStateOptionDisplay: MO
+FieldStateOption: NH
+FieldStateOptionDisplay: ND
+FieldStateOption: KS
+FieldStateOptionDisplay: IL
+FieldStateOption: UT
+FieldStateOptionDisplay: TN
+FieldStateOption: MD
+FieldStateOptionDisplay: LA
+---
+FieldType: Text
+FieldName: topmostSubform[0].Page2[0].The_employee_s_first_day_of_employment__mm_dd_yyyy_[0]
+FieldNameAlt: Section 2., Enter the employer's first day of employment (mm/dd/yyyy).
+FieldFlags: 8388608
+FieldJustification: Left"
+  ["_array":"mikehaertl\pdftk\DataFields":private]=>
+  array(75) {
+    [0]=>
+    array(5) {
+      ["FieldType"]=>
+      string(4) "Text"
+      ["FieldName"]=>
+      string(51) "topmostSubform[0].Page1[0].Last_Name_Family_Name[0]"
+      ["FieldNameAlt"]=>
+      string(215) "Section 1. Employee Information and Attestation (Employees must complete and sign Section 1 of Form I-9 no later than the first day of employment, but not before accepting a job offer.) Enter Last Name (Family Name)"
+      ["FieldFlags"]=>
+      string(1) "0"
+      ["FieldJustification"]=>
+      string(4) "Left"
+    }
+    [1]=>
+    array(5) {
+      ["FieldType"]=>
+      string(4) "Text"
+      ["FieldName"]=>
+      string(51) "topmostSubform[0].Page1[0].First_Name_Given_Name[0]"
+      ["FieldNameAlt"]=>
+      string(41) "Section 1., Enter First Name (Given Name)"
+      ["FieldFlags"]=>
+      string(1) "0"
+      ["FieldJustification"]=>
+      string(4) "Left"
+    }
+    [2]=>
+    array(5) {
+      ["FieldType"]=>
+      string(4) "Text"
+      ["FieldName"]=>
+      string(44) "topmostSubform[0].Page1[0].Middle_Initial[0]"
+      ["FieldNameAlt"]=>
+      string(32) "Section 1., Enter Middle Initial"
+      ["FieldFlags"]=>
+      string(1) "0"
+      ["FieldJustification"]=>
+      string(4) "Left"
+    }
+    [3]=>
+    array(5) {
+      ["FieldType"]=>
+      string(4) "Text"
+      ["FieldName"]=>
+      string(58) "topmostSubform[0].Page1[0].Other_Last_Names_Used_if_any[0]"
+      ["FieldNameAlt"]=>
+      string(49) "Section 1., Enter Other Last Names Used (if any)."
+      ["FieldFlags"]=>
+      string(1) "0"
+      ["FieldJustification"]=>
+      string(4) "Left"
+    }
+    [4]=>
+    array(5) {
+      ["FieldType"]=>
+      string(4) "Text"
+      ["FieldName"]=>
+      string(60) "topmostSubform[0].Page1[0].Address_Street_Number_and_Name[0]"
+      ["FieldNameAlt"]=>
+      string(50) "Section 1., Enter Address (Street Number and Name)"
+      ["FieldFlags"]=>
+      string(1) "0"
+      ["FieldJustification"]=>
+      string(4) "Left"
+    }
+    [5]=>
+    array(5) {
+      ["FieldType"]=>
+      string(4) "Text"
+      ["FieldName"]=>
+      string(40) "topmostSubform[0].Page1[0].Apt_Number[0]"
+      ["FieldNameAlt"]=>
+      string(29) "Section 1., Enter Apt. Number"
+      ["FieldFlags"]=>
+      string(1) "0"
+      ["FieldJustification"]=>
+      string(4) "Left"
+    }
+    [6]=>
+    array(5) {
+      ["FieldType"]=>
+      string(4) "Text"
+      ["FieldName"]=>
+      string(42) "topmostSubform[0].Page1[0].City_or_Town[0]"
+      ["FieldNameAlt"]=>
+      string(30) "Section 1., Enter City or Town"
+      ["FieldFlags"]=>
+      string(1) "0"
+      ["FieldJustification"]=>
+      string(4) "Left"
+    }
+    [7]=>
+    array(5) {
+      ["FieldType"]=>
+      string(4) "Text"
+      ["FieldName"]=>
+      string(38) "topmostSubform[0].Page1[0].ZIP_Code[0]"
+      ["FieldNameAlt"]=>
+      string(26) "Section 1., Enter ZIP Code"
+      ["FieldFlags"]=>
+      string(1) "0"
+      ["FieldJustification"]=>
+      string(4) "Left"
+    }
+    [8]=>
+    array(5) {
+      ["FieldType"]=>
+      string(4) "Text"
+      ["FieldName"]=>
+      string(52) "topmostSubform[0].Page1[0].Date_of_Birth_mmddyyyy[0]"
+      ["FieldNameAlt"]=>
+      string(44) "Section 1., Enter Date of Birth (mm/dd/yyyy)"
+      ["FieldFlags"]=>
+      string(1) "0"
+      ["FieldJustification"]=>
+      string(4) "Left"
+    }
+    [9]=>
+    array(6) {
+      ["FieldType"]=>
+      string(4) "Text"
+      ["FieldName"]=>
+      string(77) "topmostSubform[0].Page1[0].U\.S\._Social_Security_Number__First_3_Numbers_[0]"
+      ["FieldNameAlt"]=>
+      string(63) "Section 1., Enter U.S. Social Security Number (First 3 Numbers)"
+      ["FieldFlags"]=>
+      string(8) "25165824"
+      ["FieldJustification"]=>
+      string(4) "Left"
+      ["FieldMaxLength"]=>
+      string(1) "3"
+    }
+    [10]=>
+    array(6) {
+      ["FieldType"]=>
+      string(4) "Text"
+      ["FieldName"]=>
+      string(76) "topmostSubform[0].Page1[0].U\.S\._Social_Security_Number__Next_2_numbers_[0]"
+      ["FieldNameAlt"]=>
+      string(62) "Section 1., Enter U.S. Social Security Number (Next 2 numbers)"
+      ["FieldFlags"]=>
+      string(8) "25165824"
+      ["FieldJustification"]=>
+      string(4) "Left"
+      ["FieldMaxLength"]=>
+      string(1) "2"
+    }
+    [11]=>
+    array(6) {
+      ["FieldType"]=>
+      string(4) "Text"
+      ["FieldName"]=>
+      string(76) "topmostSubform[0].Page1[0].U\.S\._Social_Security_Number__Last_4_numbers_[0]"
+      ["FieldNameAlt"]=>
+      string(62) "Section 1., Enter U.S. Social Security Number (Last 4 numbers)"
+      ["FieldFlags"]=>
+      string(8) "25165824"
+      ["FieldJustification"]=>
+      string(4) "Left"
+      ["FieldMaxLength"]=>
+      string(1) "4"
+    }
+    [12]=>
+    array(5) {
+      ["FieldType"]=>
+      string(4) "Text"
+      ["FieldName"]=>
+      string(53) "topmostSubform[0].Page1[0].Employees_Email_Address[0]"
+      ["FieldNameAlt"]=>
+      string(43) "Section 1., Enter Employee's E-mail Address"
+      ["FieldFlags"]=>
+      string(1) "0"
+      ["FieldJustification"]=>
+      string(4) "Left"
+    }
+    [13]=>
+    array(5) {
+      ["FieldType"]=>
+      string(4) "Text"
+      ["FieldName"]=>
+      string(56) "topmostSubform[0].Page1[0].Employees_Telephone_Number[0]"
+      ["FieldNameAlt"]=>
+      string(45) "Section 1., Enter Employee's Telephone Number"
+      ["FieldFlags"]=>
+      string(1) "0"
+      ["FieldJustification"]=>
+      string(4) "Left"
+    }
+    [14]=>
+    array(6) {
+      ["FieldType"]=>
+      string(6) "Button"
+      ["FieldName"]=>
+      string(65) "topmostSubform[0].Page1[0]._1\._A_citizen_of_the_United_States[0]"
+      ["FieldNameAlt"]=>
+      string(66) "Section 1., Select this Box for: 1. A citizen of the United States"
+      ["FieldFlags"]=>
+      string(1) "0"
+      ["FieldJustification"]=>
+      string(4) "Left"
+      ["FieldStateOption"]=>
+      array(2) {
+        [0]=>
+        string(3) "Yes"
+        [1]=>
+        string(3) "Off"
+      }
+    }
+    [15]=>
+    array(6) {
+      ["FieldType"]=>
+      string(6) "Button"
+      ["FieldName"]=>
+      string(96) "topmostSubform[0].Page1[0]._2\._A_noncitizen_national_of_the_United_States__See_instructions_[0]"
+      ["FieldNameAlt"]=>
+      string(97) "Section 1., Select this Box for: 2. A noncitizen national of the United States (See instructions)"
+      ["FieldFlags"]=>
+      string(1) "0"
+      ["FieldJustification"]=>
+      string(4) "Left"
+      ["FieldStateOption"]=>
+      array(2) {
+        [0]=>
+        string(3) "Yes"
+        [1]=>
+        string(3) "Off"
+      }
+    }
+    [16]=>
+    array(6) {
+      ["FieldType"]=>
+      string(6) "Button"
+      ["FieldName"]=>
+      string(104) "topmostSubform[0].Page1[0]._3\._A_lawful_permanent_resident__Alien_Registration_Number_USCIS_Number__[0]"
+      ["FieldNameAlt"]=>
+      string(105) "Section 1., Select this Box for: 3. A lawful permanent resident (Alien Registration Number/USCIS Number):"
+      ["FieldFlags"]=>
+      string(1) "0"
+      ["FieldJustification"]=>
+      string(4) "Left"
+      ["FieldStateOption"]=>
+      array(2) {
+        [0]=>
+        string(3) "Yes"
+        [1]=>
+        string(3) "Off"
+      }
+    }
+    [17]=>
+    array(5) {
+      ["FieldType"]=>
+      string(4) "Text"
+      ["FieldName"]=>
+      string(69) "topmostSubform[0].Page1[0].Alien_Registration_NumberUSCIS_Number_1[0]"
+      ["FieldNameAlt"]=>
+      string(93) "Section 1., If you check Item Number 3. Enter Alien Registration Number  or U S C I S Number."
+      ["FieldFlags"]=>
+      string(1) "0"
+      ["FieldJustification"]=>
+      string(4) "Left"
+    }
+    [18]=>
+    array(6) {
+      ["FieldType"]=>
+      string(6) "Button"
+      ["FieldName"]=>
+      string(115) "topmostSubform[0].Page1[0]._4\._An_alien_authorized_to_work_until__expiration_date__if_applicable__mmd_dd_yyyy__[0]"
+      ["FieldNameAlt"]=>
+      string(116) "Section 1., Select this Box for:  4. An alien authorized to work until (expiration date, if applicable, mm/dd/yyyy):"
+      ["FieldFlags"]=>
+      string(1) "0"
+      ["FieldJustification"]=>
+      string(4) "Left"
+      ["FieldStateOption"]=>
+      array(2) {
+        [0]=>
+        string(3) "Yes"
+        [1]=>
+        string(3) "Off"
+      }
+    }
+    [19]=>
+    array(5) {
+      ["FieldType"]=>
+      string(4) "Text"
+      ["FieldName"]=>
+      string(72) "topmostSubform[0].Page1[0].expiration_date__if_applicable__mm_dd_yyyy[0]"
+      ["FieldNameAlt"]=>
+      string(90) "Section 1., If you check Item Number 4. Select expiration date, if applicable, mm/dd/yyyy."
+      ["FieldFlags"]=>
+      string(1) "0"
+      ["FieldJustification"]=>
+      string(4) "Left"
+    }
+    [20]=>
+    array(5) {
+      ["FieldType"]=>
+      string(4) "Text"
+      ["FieldName"]=>
+      string(70) "topmostSubform[0].Page1[0]._1_Alien_Registration_NumberUSCIS_Number[0]"
+      ["FieldNameAlt"]=>
+      string(67) "Section 1., 1. Enter Alien Registration Number or U S C I S Number."
+      ["FieldFlags"]=>
+      string(1) "0"
+      ["FieldJustification"]=>
+      string(4) "Left"
+    }
+    [21]=>
+    array(5) {
+      ["FieldType"]=>
+      string(4) "Text"
+      ["FieldName"]=>
+      string(58) "topmostSubform[0].Page1[0]._2_Form_I94_Admission_Number[0]"
+      ["FieldNameAlt"]=>
+      string(48) "Section 1., 2. Enter Form I-94 Admission Number."
+      ["FieldFlags"]=>
+      string(1) "0"
+      ["FieldJustification"]=>
+      string(4) "Left"
+    }
+    [22]=>
+    array(5) {
+      ["FieldType"]=>
+      string(4) "Text"
+      ["FieldName"]=>
+      string(56) "topmostSubform[0].Page1[0]._3_Foreign_Passport_Number[0]"
+      ["FieldNameAlt"]=>
+      string(45) "Section 1., 3. Enter Foreign Passport Number."
+      ["FieldFlags"]=>
+      string(1) "0"
+      ["FieldJustification"]=>
+      string(4) "Left"
+    }
+    [23]=>
+    array(5) {
+      ["FieldType"]=>
+      string(4) "Text"
+      ["FieldName"]=>
+      string(49) "topmostSubform[0].Page1[0].Country_of_Issuance[0]"
+      ["FieldNameAlt"]=>
+      string(38) "Section 1., Enter Country of Issuance."
+      ["FieldFlags"]=>
+      string(7) "8388608"
+      ["FieldJustification"]=>
+      string(4) "Left"
+    }
+    [24]=>
+    array(6) {
+      ["FieldType"]=>
+      string(6) "Button"
+      ["FieldName"]=>
+      string(68) "topmostSubform[0].Page1[0].I_did_not_use_a_preparer_or_translator[0]"
+      ["FieldNameAlt"]=>
+      string(117) "Preparer and/or Translator Certification (check one):  Select this Box for:  I did not use a preparer or translator. "
+      ["FieldFlags"]=>
+      string(1) "0"
+      ["FieldJustification"]=>
+      string(4) "Left"
+      ["FieldStateOption"]=>
+      array(2) {
+        [0]=>
+        string(3) "Yes"
+        [1]=>
+        string(3) "Off"
+      }
+    }
+    [25]=>
+    array(6) {
+      ["FieldType"]=>
+      string(6) "Button"
+      ["FieldName"]=>
+      string(110) "topmostSubform[0].Page1[0].A_preparer_s__and_or_translator_s__assisted_the_employee_in_completing_Section_1[0]"
+      ["FieldNameAlt"]=>
+      string(159) "Preparer and/or Translator Certification (check one):  Select this Box for:  A preparer(s) and/or translator(s) assisted the employee in completing Section 1. "
+      ["FieldFlags"]=>
+      string(1) "0"
+      ["FieldJustification"]=>
+      string(4) "Left"
+      ["FieldStateOption"]=>
+      array(2) {
+        [0]=>
+        string(3) "Yes"
+        [1]=>
+        string(3) "Off"
+      }
+    }
+    [26]=>
+    array(5) {
+      ["FieldType"]=>
+      string(4) "Text"
+      ["FieldName"]=>
+      string(53) "topmostSubform[0].Page1[0].Last_Name_Family_Name_2[0]"
+      ["FieldNameAlt"]=>
+      string(84) "Section 1., Preparer and/or Translator Certification. Enter Last Name (Family Name)."
+      ["FieldFlags"]=>
+      string(1) "0"
+      ["FieldJustification"]=>
+      string(4) "Left"
+    }
+    [27]=>
+    array(5) {
+      ["FieldType"]=>
+      string(4) "Text"
+      ["FieldName"]=>
+      string(53) "topmostSubform[0].Page1[0].First_Name_Given_Name_2[0]"
+      ["FieldNameAlt"]=>
+      string(84) "Section 1., Preparer and/or Translator Certification. Enter First Name (Given Name)."
+      ["FieldFlags"]=>
+      string(1) "0"
+      ["FieldJustification"]=>
+      string(4) "Left"
+    }
+    [28]=>
+    array(5) {
+      ["FieldType"]=>
+      string(4) "Text"
+      ["FieldName"]=>
+      string(62) "topmostSubform[0].Page1[0].Address_Street_Number_and_Name_2[0]"
+      ["FieldNameAlt"]=>
+      string(93) "Section 1., Preparer and/or Translator Certification. Enter Address (Street Number and Name)."
+      ["FieldFlags"]=>
+      string(1) "0"
+      ["FieldJustification"]=>
+      string(4) "Left"
+    }
+    [29]=>
+    array(5) {
+      ["FieldType"]=>
+      string(4) "Text"
+      ["FieldName"]=>
+      string(44) "topmostSubform[0].Page1[0].City_or_Town_2[0]"
+      ["FieldNameAlt"]=>
+      string(73) "Section 1., Preparer and/or Translator Certification. Enter City or Town."
+      ["FieldFlags"]=>
+      string(1) "0"
+      ["FieldJustification"]=>
+      string(4) "Left"
+    }
+    [30]=>
+    array(5) {
+      ["FieldType"]=>
+      string(4) "Text"
+      ["FieldName"]=>
+      string(38) "topmostSubform[0].Page1[0].Zip_Code[0]"
+      ["FieldNameAlt"]=>
+      string(69) "Section 1., Preparer and/or Translator Certification. Enter Zip Code."
+      ["FieldFlags"]=>
+      string(1) "0"
+      ["FieldJustification"]=>
+      string(4) "Left"
+    }
+    [31]=>
+    array(9) {
+      ["FieldType"]=>
+      string(6) "Choice"
+      ["FieldName"]=>
+      string(35) "topmostSubform[0].Page1[0].State[0]"
+      ["FieldNameAlt"]=>
+      string(49) "Section 1., Select State from the drop down list."
+      ["FieldFlags"]=>
+      string(6) "131072"
+      ["FieldValue"]=>
+      string(1) " "
+      ["FieldValueDefault"]=>
+      string(1) " "
+      ["FieldJustification"]=>
+      string(4) "Left"
+      ["FieldStateOption"]=>
+      array(59) {
+        [0]=>
+        string(2) "AK"
+        [1]=>
+        string(2) "ID"
+        [2]=>
+        string(2) "VI"
+        [3]=>
+        string(2) "WV"
+        [4]=>
+        string(2) "TX"
+        [5]=>
+        string(2) "NY"
+        [6]=>
+        string(2) "IA"
+        [7]=>
+        string(2) "OR"
+        [8]=>
+        string(2) "IL"
+        [9]=>
+        string(2) "MA"
+        [10]=>
+        string(2) "MT"
+        [11]=>
+        string(2) "NM"
+        [12]=>
+        string(2) "MP"
+        [13]=>
+        string(2) "NE"
+        [14]=>
+        string(2) "AL"
+        [15]=>
+        string(2) "GA"
+        [16]=>
+        string(2) "OK"
+        [17]=>
+        string(2) "CO"
+        [18]=>
+        string(2) "NV"
+        [19]=>
+        string(2) "KY"
+        [20]=>
+        string(2) "FL"
+        [21]=>
+        string(2) "HI"
+        [22]=>
+        string(2) "ME"
+        [23]=>
+        string(2) "MI"
+        [24]=>
+        string(2) "NJ"
+        [25]=>
+        string(1) "0"
+        [26]=>
+        string(1) " "
+        [27]=>
+        string(2) "SD"
+        [28]=>
+        string(3) "MEX"
+        [29]=>
+        string(2) "PA"
+        [30]=>
+        string(2) "DE"
+        [31]=>
+        string(2) "OH"
+        [32]=>
+        string(2) "NC"
+        [33]=>
+        string(2) "LA"
+        [34]=>
+        string(2) "IN"
+        [35]=>
+        string(2) "TN"
+        [36]=>
+        string(2) "AZ"
+        [37]=>
+        string(2) "GU"
+        [38]=>
+        string(2) "MN"
+        [39]=>
+        string(2) "RI"
+        [40]=>
+        string(2) "CA"
+        [41]=>
+        string(2) "CT"
+        [42]=>
+        string(2) "AR"
+        [43]=>
+        string(2) "PR"
+        [44]=>
+        string(2) "WA"
+        [45]=>
+        string(2) "WI"
+        [46]=>
+        string(2) "VT"
+        [47]=>
+        string(3) "CAN"
+        [48]=>
+        string(2) "WY"
+        [49]=>
+        string(1) "1"
+        [50]=>
+        string(2) "SC"
+        [51]=>
+        string(2) "ND"
+        [52]=>
+        string(2) "MO"
+        [53]=>
+        string(2) "VA"
+        [54]=>
+        string(2) "MS"
+        [55]=>
+        string(2) "NH"
+        [56]=>
+        string(2) "KS"
+        [57]=>
+        string(2) "UT"
+        [58]=>
+        string(2) "MD"
+      }
+      ["FieldStateOptionDisplay"]=>
+      array(59) {
+        [0]=>
+        string(2) "AL"
+        [1]=>
+        string(2) "HI"
+        [2]=>
+        string(2) "UT"
+        [3]=>
+        string(2) "WA"
+        [4]=>
+        string(2) "SD"
+        [5]=>
+        string(2) "NM"
+        [6]=>
+        string(2) "GU"
+        [7]=>
+        string(2) "OH"
+        [8]=>
+        string(2) "IA"
+        [9]=>
+        string(2) "KY"
+        [10]=>
+        string(2) "MP"
+        [11]=>
+        string(2) "NH"
+        [12]=>
+        string(2) "MN"
+        [13]=>
+        string(2) "NC"
+        [14]=>
+        string(2) "AK"
+        [15]=>
+        string(2) "DE"
+        [16]=>
+        string(2) "NY"
+        [17]=>
+        string(2) "CA"
+        [18]=>
+        string(2) "NJ"
+        [19]=>
+        string(2) "IN"
+        [20]=>
+        string(2) "DC"
+        [21]=>
+        string(2) "GA"
+        [22]=>
+        string(2) "MA"
+        [23]=>
+        string(2) "MD"
+        [24]=>
+        string(2) "NE"
+        [25]=>
+        string(3) "CAN"
+        [26]=>
+        string(1) " "
+        [27]=>
+        string(2) "RI"
+        [28]=>
+        string(2) "WY"
+        [29]=>
+        string(2) "OK"
+        [30]=>
+        string(2) "CT"
+        [31]=>
+        string(2) "NV"
+        [32]=>
+        string(2) "MS"
+        [33]=>
+        string(2) "KS"
+        [34]=>
+        string(2) "ID"
+        [35]=>
+        string(2) "SC"
+        [36]=>
+        string(2) "AR"
+        [37]=>
+        string(2) "FL"
+        [38]=>
+        string(2) "ME"
+        [39]=>
+        string(2) "PA"
+        [40]=>
+        string(2) "AZ"
+        [41]=>
+        string(2) "CO"
+        [42]=>
+        string(2) "AS"
+        [43]=>
+        string(2) "OR"
+        [44]=>
+        string(2) "VI"
+        [45]=>
+        string(2) "VT"
+        [46]=>
+        string(2) "VA"
+        [47]=>
+        string(2) "WV"
+        [48]=>
+        string(2) "WI"
+        [49]=>
+        string(3) "MEX"
+        [50]=>
+        string(2) "PR"
+        [51]=>
+        string(2) "MT"
+        [52]=>
+        string(2) "MI"
+        [53]=>
+        string(2) "TX"
+        [54]=>
+        string(2) "MO"
+        [55]=>
+        string(2) "ND"
+        [56]=>
+        string(2) "IL"
+        [57]=>
+        string(2) "TN"
+        [58]=>
+        string(2) "LA"
+      }
+    }
+    [32]=>
+    array(9) {
+      ["FieldType"]=>
+      string(6) "Choice"
+      ["FieldName"]=>
+      string(35) "topmostSubform[0].Page1[0].State[1]"
+      ["FieldNameAlt"]=>
+      string(91) "Section 1., Preparer and/or Translator Certification. Select State from the drop down list."
+      ["FieldFlags"]=>
+      string(6) "131072"
+      ["FieldValue"]=>
+      string(1) " "
+      ["FieldValueDefault"]=>
+      string(1) " "
+      ["FieldJustification"]=>
+      string(4) "Left"
+      ["FieldStateOption"]=>
+      array(59) {
+        [0]=>
+        string(2) "AK"
+        [1]=>
+        string(2) "ID"
+        [2]=>
+        string(2) "VI"
+        [3]=>
+        string(2) "WV"
+        [4]=>
+        string(2) "TX"
+        [5]=>
+        string(2) "NY"
+        [6]=>
+        string(2) "IA"
+        [7]=>
+        string(2) "OR"
+        [8]=>
+        string(2) "IL"
+        [9]=>
+        string(2) "MA"
+        [10]=>
+        string(2) "MT"
+        [11]=>
+        string(2) "NM"
+        [12]=>
+        string(2) "MP"
+        [13]=>
+        string(2) "NE"
+        [14]=>
+        string(2) "AL"
+        [15]=>
+        string(2) "GA"
+        [16]=>
+        string(2) "OK"
+        [17]=>
+        string(2) "CO"
+        [18]=>
+        string(2) "NV"
+        [19]=>
+        string(2) "KY"
+        [20]=>
+        string(2) "FL"
+        [21]=>
+        string(2) "HI"
+        [22]=>
+        string(2) "ME"
+        [23]=>
+        string(2) "MI"
+        [24]=>
+        string(2) "NJ"
+        [25]=>
+        string(1) "0"
+        [26]=>
+        string(1) " "
+        [27]=>
+        string(2) "SD"
+        [28]=>
+        string(3) "MEX"
+        [29]=>
+        string(2) "PA"
+        [30]=>
+        string(2) "DE"
+        [31]=>
+        string(2) "OH"
+        [32]=>
+        string(2) "NC"
+        [33]=>
+        string(2) "LA"
+        [34]=>
+        string(2) "IN"
+        [35]=>
+        string(2) "TN"
+        [36]=>
+        string(2) "AZ"
+        [37]=>
+        string(2) "GU"
+        [38]=>
+        string(2) "MN"
+        [39]=>
+        string(2) "RI"
+        [40]=>
+        string(2) "CA"
+        [41]=>
+        string(2) "CT"
+        [42]=>
+        string(2) "AR"
+        [43]=>
+        string(2) "PR"
+        [44]=>
+        string(2) "WA"
+        [45]=>
+        string(2) "WI"
+        [46]=>
+        string(2) "VT"
+        [47]=>
+        string(3) "CAN"
+        [48]=>
+        string(2) "WY"
+        [49]=>
+        string(1) "1"
+        [50]=>
+        string(2) "SC"
+        [51]=>
+        string(2) "ND"
+        [52]=>
+        string(2) "MO"
+        [53]=>
+        string(2) "VA"
+        [54]=>
+        string(2) "MS"
+        [55]=>
+        string(2) "NH"
+        [56]=>
+        string(2) "KS"
+        [57]=>
+        string(2) "UT"
+        [58]=>
+        string(2) "MD"
+      }
+      ["FieldStateOptionDisplay"]=>
+      array(59) {
+        [0]=>
+        string(2) "AL"
+        [1]=>
+        string(2) "HI"
+        [2]=>
+        string(2) "UT"
+        [3]=>
+        string(2) "WA"
+        [4]=>
+        string(2) "SD"
+        [5]=>
+        string(2) "NM"
+        [6]=>
+        string(2) "GU"
+        [7]=>
+        string(2) "OH"
+        [8]=>
+        string(2) "IA"
+        [9]=>
+        string(2) "KY"
+        [10]=>
+        string(2) "MP"
+        [11]=>
+        string(2) "NH"
+        [12]=>
+        string(2) "MN"
+        [13]=>
+        string(2) "NC"
+        [14]=>
+        string(2) "AK"
+        [15]=>
+        string(2) "DE"
+        [16]=>
+        string(2) "NY"
+        [17]=>
+        string(2) "CA"
+        [18]=>
+        string(2) "NJ"
+        [19]=>
+        string(2) "IN"
+        [20]=>
+        string(2) "DC"
+        [21]=>
+        string(2) "GA"
+        [22]=>
+        string(2) "MA"
+        [23]=>
+        string(2) "MD"
+        [24]=>
+        string(2) "NE"
+        [25]=>
+        string(3) "CAN"
+        [26]=>
+        string(1) " "
+        [27]=>
+        string(2) "RI"
+        [28]=>
+        string(2) "WY"
+        [29]=>
+        string(2) "OK"
+        [30]=>
+        string(2) "CT"
+        [31]=>
+        string(2) "NV"
+        [32]=>
+        string(2) "MS"
+        [33]=>
+        string(2) "KS"
+        [34]=>
+        string(2) "ID"
+        [35]=>
+        string(2) "SC"
+        [36]=>
+        string(2) "AR"
+        [37]=>
+        string(2) "FL"
+        [38]=>
+        string(2) "ME"
+        [39]=>
+        string(2) "PA"
+        [40]=>
+        string(2) "AZ"
+        [41]=>
+        string(2) "CO"
+        [42]=>
+        string(2) "AS"
+        [43]=>
+        string(2) "OR"
+        [44]=>
+        string(2) "VI"
+        [45]=>
+        string(2) "VT"
+        [46]=>
+        string(2) "VA"
+        [47]=>
+        string(2) "WV"
+        [48]=>
+        string(2) "WI"
+        [49]=>
+        string(3) "MEX"
+        [50]=>
+        string(2) "PR"
+        [51]=>
+        string(2) "MT"
+        [52]=>
+        string(2) "MI"
+        [53]=>
+        string(2) "TX"
+        [54]=>
+        string(2) "MO"
+        [55]=>
+        string(2) "ND"
+        [56]=>
+        string(2) "IL"
+        [57]=>
+        string(2) "TN"
+        [58]=>
+        string(2) "LA"
+      }
+    }
+    [33]=>
+    array(5) {
+      ["FieldType"]=>
+      string(4) "Text"
+      ["FieldName"]=>
+      string(53) "topmostSubform[0].Page2[0].Last_Name_Family_Name_3[0]"
+      ["FieldNameAlt"]=>
+      string(78) "Section 2., Employee Information from Section 1. Enter Last Name (Family Name)"
+      ["FieldFlags"]=>
+      string(1) "0"
+      ["FieldJustification"]=>
+      string(4) "Left"
+    }
+    [34]=>
+    array(5) {
+      ["FieldType"]=>
+      string(4) "Text"
+      ["FieldName"]=>
+      string(53) "topmostSubform[0].Page2[0].First_Name_Given_Name_3[0]"
+      ["FieldNameAlt"]=>
+      string(80) "Section 2., Employee Information from Section 1. Enter  First Name (Given Name)."
+      ["FieldFlags"]=>
+      string(1) "0"
+      ["FieldJustification"]=>
+      string(4) "Left"
+    }
+    [35]=>
+    array(5) {
+      ["FieldType"]=>
+      string(4) "Text"
+      ["FieldName"]=>
+      string(32) "topmostSubform[0].Page2[0].MI[0]"
+      ["FieldNameAlt"]=>
+      string(71) "Section 2., Employee Information from Section 1. Enter  Middle Initial."
+      ["FieldFlags"]=>
+      string(1) "0"
+      ["FieldJustification"]=>
+      string(4) "Left"
+    }
+    [36]=>
+    array(5) {
+      ["FieldType"]=>
+      string(4) "Text"
+      ["FieldName"]=>
+      string(59) "topmostSubform[0].Page2[0].CitizenshipImmigration_Status[0]"
+      ["FieldNameAlt"]=>
+      string(89) "Section 2., Employee Information from Section 1. Enter Citizenship or Immigration Status."
+      ["FieldFlags"]=>
+      string(1) "0"
+      ["FieldJustification"]=>
+      string(4) "Left"
+    }
+    [37]=>
+    array(5) {
+      ["FieldType"]=>
+      string(4) "Text"
+      ["FieldName"]=>
+      string(55) "topmostSubform[0].Page2[0].List_A_-_Document_Title_1[0]"
+      ["FieldNameAlt"]=>
+      string(25) "List A - Document Title 1"
+      ["FieldFlags"]=>
+      string(1) "0"
+      ["FieldJustification"]=>
+      string(4) "Left"
+    }
+    [38]=>
+    array(5) {
+      ["FieldType"]=>
+      string(4) "Text"
+      ["FieldName"]=>
+      string(53) "topmostSubform[0].Page2[0].List_B_-_Document_Title[0]"
+      ["FieldNameAlt"]=>
+      string(23) "List B - Document Title"
+      ["FieldFlags"]=>
+      string(1) "0"
+      ["FieldJustification"]=>
+      string(4) "Left"
+    }
+    [39]=>
+    array(5) {
+      ["FieldType"]=>
+      string(4) "Text"
+      ["FieldName"]=>
+      string(53) "topmostSubform[0].Page2[0].List_C_-_Document_Title[0]"
+      ["FieldNameAlt"]=>
+      string(23) "List C - Document Title"
+      ["FieldFlags"]=>
+      string(1) "0"
+      ["FieldJustification"]=>
+      string(4) "Left"
+    }
+    [40]=>
+    array(5) {
+      ["FieldType"]=>
+      string(4) "Text"
+      ["FieldName"]=>
+      string(58) "topmostSubform[0].Page2[0].List_A_-_Issuing_Authority_1[0]"
+      ["FieldNameAlt"]=>
+      string(28) "List A - Issuing Authority 1"
+      ["FieldFlags"]=>
+      string(1) "0"
+      ["FieldJustification"]=>
+      string(4) "Left"
+    }
+    [41]=>
+    array(5) {
+      ["FieldType"]=>
+      string(4) "Text"
+      ["FieldName"]=>
+      string(56) "topmostSubform[0].Page2[0].List_B_-_Issuing_Authority[0]"
+      ["FieldNameAlt"]=>
+      string(26) "List B - Issuing Authority"
+      ["FieldFlags"]=>
+      string(1) "0"
+      ["FieldJustification"]=>
+      string(4) "Left"
+    }
+    [42]=>
+    array(5) {
+      ["FieldType"]=>
+      string(4) "Text"
+      ["FieldName"]=>
+      string(56) "topmostSubform[0].Page2[0].List_C_-_Issuing_Authority[0]"
+      ["FieldNameAlt"]=>
+      string(26) "List C - Issuing Authority"
+      ["FieldFlags"]=>
+      string(1) "0"
+      ["FieldJustification"]=>
+      string(4) "Left"
+    }
+    [43]=>
+    array(5) {
+      ["FieldType"]=>
+      string(4) "Text"
+      ["FieldName"]=>
+      string(56) "topmostSubform[0].Page2[0].List_A_-_Document_Number_1[0]"
+      ["FieldNameAlt"]=>
+      string(26) "List A - Document Number 1"
+      ["FieldFlags"]=>
+      string(1) "0"
+      ["FieldJustification"]=>
+      string(4) "Left"
+    }
+    [44]=>
+    array(5) {
+      ["FieldType"]=>
+      string(4) "Text"
+      ["FieldName"]=>
+      string(54) "topmostSubform[0].Page2[0].List_B_-_Document_Number[0]"
+      ["FieldNameAlt"]=>
+      string(24) "List B - Document Number"
+      ["FieldFlags"]=>
+      string(1) "0"
+      ["FieldJustification"]=>
+      string(4) "Left"
+    }
+    [45]=>
+    array(5) {
+      ["FieldType"]=>
+      string(4) "Text"
+      ["FieldName"]=>
+      string(54) "topmostSubform[0].Page2[0].List_C_-_Document_Number[0]"
+      ["FieldNameAlt"]=>
+      string(24) "List C - Document Number"
+      ["FieldFlags"]=>
+      string(1) "0"
+      ["FieldJustification"]=>
+      string(4) "Left"
+    }
+    [46]=>
+    array(5) {
+      ["FieldType"]=>
+      string(4) "Text"
+      ["FieldName"]=>
+      string(78) "topmostSubform[0].Page2[0].List_A_-_Expiration_Date__if_any___mm_dd_yyyy__1[0]"
+      ["FieldNameAlt"]=>
+      string(48) "List A - Expiration Date (if any) (mm/dd/yyyy) 1"
+      ["FieldFlags"]=>
+      string(1) "0"
+      ["FieldJustification"]=>
+      string(4) "Left"
+    }
+    [47]=>
+    array(5) {
+      ["FieldType"]=>
+      string(4) "Text"
+      ["FieldName"]=>
+      string(76) "topmostSubform[0].Page2[0].List_B_-_Expiration_Date__if_any___mm_dd_yyyy_[0]"
+      ["FieldNameAlt"]=>
+      string(46) "List B - Expiration Date (if any) (mm/dd/yyyy)"
+      ["FieldFlags"]=>
+      string(1) "0"
+      ["FieldJustification"]=>
+      string(4) "Left"
+    }
+    [48]=>
+    array(5) {
+      ["FieldType"]=>
+      string(4) "Text"
+      ["FieldName"]=>
+      string(76) "topmostSubform[0].Page2[0].List_C_-_Expiration_Date__if_any___mm_dd_yyyy_[0]"
+      ["FieldNameAlt"]=>
+      string(46) "List C - Expiration Date (if any) (mm/dd/yyyy)"
+      ["FieldFlags"]=>
+      string(1) "0"
+      ["FieldJustification"]=>
+      string(4) "Left"
+    }
+    [49]=>
+    array(5) {
+      ["FieldType"]=>
+      string(4) "Text"
+      ["FieldName"]=>
+      string(55) "topmostSubform[0].Page2[0].List_A_-_Document_Title_2[0]"
+      ["FieldNameAlt"]=>
+      string(25) "List A - Document Title 2"
+      ["FieldFlags"]=>
+      string(1) "0"
+      ["FieldJustification"]=>
+      string(4) "Left"
+    }
+    [50]=>
+    array(5) {
+      ["FieldType"]=>
+      string(4) "Text"
+      ["FieldName"]=>
+      string(58) "topmostSubform[0].Page2[0].List_A_-_Issuing_Authority_2[0]"
+      ["FieldNameAlt"]=>
+      string(28) "List A - Issuing Authority 2"
+      ["FieldFlags"]=>
+      string(1) "0"
+      ["FieldJustification"]=>
+      string(4) "Left"
+    }
+    [51]=>
+    array(5) {
+      ["FieldType"]=>
+      string(4) "Text"
+      ["FieldName"]=>
+      string(56) "topmostSubform[0].Page2[0].List_A_-_Document_Number_2[0]"
+      ["FieldNameAlt"]=>
+      string(26) "List A - Document Number 2"
+      ["FieldFlags"]=>
+      string(1) "0"
+      ["FieldJustification"]=>
+      string(4) "Left"
+    }
+    [52]=>
+    array(5) {
+      ["FieldType"]=>
+      string(4) "Text"
+      ["FieldName"]=>
+      string(78) "topmostSubform[0].Page2[0].List_A_-_Expiration_Date__if_any___mm_dd_yyyy__2[0]"
+      ["FieldNameAlt"]=>
+      string(48) "List A - Expiration Date (if any) (mm/dd/yyyy) 2"
+      ["FieldFlags"]=>
+      string(1) "0"
+      ["FieldJustification"]=>
+      string(4) "Left"
+    }
+    [53]=>
+    array(5) {
+      ["FieldType"]=>
+      string(4) "Text"
+      ["FieldName"]=>
+      string(55) "topmostSubform[0].Page2[0].List_A_-_Document_Title_3[0]"
+      ["FieldNameAlt"]=>
+      string(25) "List A - Document Title 3"
+      ["FieldFlags"]=>
+      string(1) "0"
+      ["FieldJustification"]=>
+      string(4) "Left"
+    }
+    [54]=>
+    array(5) {
+      ["FieldType"]=>
+      string(4) "Text"
+      ["FieldName"]=>
+      string(58) "topmostSubform[0].Page2[0].List_A_-_Issuing_Authority_3[0]"
+      ["FieldNameAlt"]=>
+      string(28) "List A - Issuing Authority 3"
+      ["FieldFlags"]=>
+      string(1) "0"
+      ["FieldJustification"]=>
+      string(4) "Left"
+    }
+    [55]=>
+    array(5) {
+      ["FieldType"]=>
+      string(4) "Text"
+      ["FieldName"]=>
+      string(56) "topmostSubform[0].Page2[0].List_A_-_Document_Number_3[0]"
+      ["FieldNameAlt"]=>
+      string(26) "List A - Document Number 3"
+      ["FieldFlags"]=>
+      string(1) "0"
+      ["FieldJustification"]=>
+      string(4) "Left"
+    }
+    [56]=>
+    array(5) {
+      ["FieldType"]=>
+      string(4) "Text"
+      ["FieldName"]=>
+      string(78) "topmostSubform[0].Page2[0].List_A_-_Expiration_Date__if_any___mm_dd_yyyy__3[0]"
+      ["FieldNameAlt"]=>
+      string(48) "List A - Expiration Date (if any) (mm/dd/yyyy) 3"
+      ["FieldFlags"]=>
+      string(1) "0"
+      ["FieldJustification"]=>
+      string(4) "Left"
+    }
+    [57]=>
+    array(5) {
+      ["FieldType"]=>
+      string(4) "Text"
+      ["FieldName"]=>
+      string(52) "topmostSubform[0].Page2[0].Additional_Information[0]"
+      ["FieldNameAlt"]=>
+      string(22) "Additional Information"
+      ["FieldFlags"]=>
+      string(4) "4096"
+      ["FieldJustification"]=>
+      string(4) "Left"
+    }
+    [58]=>
+    array(5) {
+      ["FieldType"]=>
+      string(4) "Text"
+      ["FieldName"]=>
+      string(80) "topmostSubform[0].Page2[0].Last_Name_of_Employer_or_Authorized_Representative[0]"
+      ["FieldNameAlt"]=>
+      string(69) "Section 2., Enter Last Name of Employer or Authorized Representative."
+      ["FieldFlags"]=>
+      string(1) "0"
+      ["FieldJustification"]=>
+      string(4) "Left"
+    }
+    [59]=>
+    array(5) {
+      ["FieldType"]=>
+      string(4) "Text"
+      ["FieldName"]=>
+      string(81) "topmostSubform[0].Page2[0].First_Name_of_Employer_or_Authorized_Representative[0]"
+      ["FieldNameAlt"]=>
+      string(70) "Section 2., Enter First Name of Employer or Authorized Representative."
+      ["FieldFlags"]=>
+      string(1) "0"
+      ["FieldJustification"]=>
+      string(4) "Left"
+    }
+    [60]=>
+    array(5) {
+      ["FieldType"]=>
+      string(4) "Text"
+      ["FieldName"]=>
+      string(69) "topmostSubform[0].Page2[0].Employers_Business_or_Organization_Name[0]"
+      ["FieldNameAlt"]=>
+      string(59) "Section 2., Enter Employer's Business or Organization Name."
+      ["FieldFlags"]=>
+      string(1) "0"
+      ["FieldJustification"]=>
+      string(4) "Left"
+    }
+    [61]=>
+    array(5) {
+      ["FieldType"]=>
+      string(4) "Text"
+      ["FieldName"]=>
+      string(95) "topmostSubform[0].Page2[0].Employers_Business_or_Organization_Address_Street_Number_and_Name[0]"
+      ["FieldNameAlt"]=>
+      string(87) "Section 2., Enter Employer's Business or Organization Address (Street Number and Name)."
+      ["FieldFlags"]=>
+      string(1) "0"
+      ["FieldJustification"]=>
+      string(4) "Left"
+    }
+    [62]=>
+    array(5) {
+      ["FieldType"]=>
+      string(4) "Text"
+      ["FieldName"]=>
+      string(80) "topmostSubform[0].Page2[0].City_or_Town_of_Employers_Business_or_Organization[0]"
+      ["FieldNameAlt"]=>
+      string(90) "of Employers Business or Organization. City or Town of Employers Business or Organization."
+      ["FieldFlags"]=>
+      string(1) "0"
+      ["FieldJustification"]=>
+      string(4) "Left"
+    }
+    [63]=>
+    array(5) {
+      ["FieldType"]=>
+      string(4) "Text"
+      ["FieldName"]=>
+      string(53) "topmostSubform[0].Page2[0].Last_Name_Family_Name_4[0]"
+      ["FieldNameAlt"]=>
+      string(70) "Section 3., A. New Name (if applicable) Enter Last Name (Family Name)."
+      ["FieldFlags"]=>
+      string(1) "0"
+      ["FieldJustification"]=>
+      string(4) "Left"
+    }
+    [64]=>
+    array(5) {
+      ["FieldType"]=>
+      string(4) "Text"
+      ["FieldName"]=>
+      string(53) "topmostSubform[0].Page2[0].First_Name_Given_Name_4[0]"
+      ["FieldNameAlt"]=>
+      string(70) "Section 3., A. New Name (if applicable) Enter First Name (Given Name)."
+      ["FieldFlags"]=>
+      string(1) "0"
+      ["FieldJustification"]=>
+      string(4) "Left"
+    }
+    [65]=>
+    array(5) {
+      ["FieldType"]=>
+      string(4) "Text"
+      ["FieldName"]=>
+      string(46) "topmostSubform[0].Page2[0].Middle_Initial_2[0]"
+      ["FieldNameAlt"]=>
+      string(61) "Section 3., A. New Name (if applicable) Enter Middle Initial."
+      ["FieldFlags"]=>
+      string(1) "0"
+      ["FieldJustification"]=>
+      string(4) "Left"
+    }
+    [66]=>
+    array(5) {
+      ["FieldType"]=>
+      string(4) "Text"
+      ["FieldName"]=>
+      string(43) "topmostSubform[0].Page2[0].Date_mmddyyyy[0]"
+      ["FieldNameAlt"]=>
+      string(70) "Section 3., B. Date of Rehire (if applicable) Enter Date (mm/dd/yyyy)."
+      ["FieldFlags"]=>
+      string(1) "0"
+      ["FieldJustification"]=>
+      string(4) "Left"
+    }
+    [67]=>
+    array(5) {
+      ["FieldType"]=>
+      string(4) "Text"
+      ["FieldName"]=>
+      string(46) "topmostSubform[0].Page2[0].Document_Title_4[0]"
+      ["FieldNameAlt"]=>
+      string(36) "Section 3., C. Enter Document Title."
+      ["FieldFlags"]=>
+      string(1) "0"
+      ["FieldJustification"]=>
+      string(4) "Left"
+    }
+    [68]=>
+    array(5) {
+      ["FieldType"]=>
+      string(4) "Text"
+      ["FieldName"]=>
+      string(47) "topmostSubform[0].Page2[0].Document_Number_6[0]"
+      ["FieldNameAlt"]=>
+      string(37) "Section 3., C. Enter Document Number."
+      ["FieldFlags"]=>
+      string(1) "0"
+      ["FieldJustification"]=>
+      string(4) "Left"
+    }
+    [69]=>
+    array(5) {
+      ["FieldType"]=>
+      string(4) "Text"
+      ["FieldName"]=>
+      string(63) "topmostSubform[0].Page2[0].Expiration_Date_if_any_mmddyyyy_6[0]"
+      ["FieldNameAlt"]=>
+      string(59) "Section 3., C. Enter Expiration Date (if any) (mm/dd/yyyy)."
+      ["FieldFlags"]=>
+      string(1) "0"
+      ["FieldJustification"]=>
+      string(4) "Left"
+    }
+    [70]=>
+    array(5) {
+      ["FieldType"]=>
+      string(4) "Text"
+      ["FieldName"]=>
+      string(76) "topmostSubform[0].Page2[0].Zip_Code_of_Employers_Business_or_Organization[0]"
+      ["FieldNameAlt"]=>
+      string(65) "Section 2., Enter Zip Code of Employers Business or Organization."
+      ["FieldFlags"]=>
+      string(1) "0"
+      ["FieldJustification"]=>
+      string(4) "Left"
+    }
+    [71]=>
+    array(5) {
+      ["FieldType"]=>
+      string(4) "Text"
+      ["FieldName"]=>
+      string(52) "topmostSubform[0].Page2[0].textFieldEmployerTitle[0]"
+      ["FieldNameAlt"]=>
+      string(58) "Section 2., Title of Employer or Authorized Representative"
+      ["FieldFlags"]=>
+      string(7) "8388608"
+      ["FieldJustification"]=>
+      string(4) "Left"
+    }
+    [72]=>
+    array(5) {
+      ["FieldType"]=>
+      string(4) "Text"
+      ["FieldName"]=>
+      string(51) "topmostSubform[0].Page2[0].textFieldEmployerName[0]"
+      ["FieldNameAlt"]=>
+      string(58) "Section 3., Name of Employer or Authorized Representative "
+      ["FieldFlags"]=>
+      string(7) "8388608"
+      ["FieldJustification"]=>
+      string(4) "Left"
+    }
+    [73]=>
+    array(9) {
+      ["FieldType"]=>
+      string(6) "Choice"
+      ["FieldName"]=>
+      string(35) "topmostSubform[0].Page2[0].State[0]"
+      ["FieldNameAlt"]=>
+      string(49) "Section 2., Select State from the drop down list."
+      ["FieldFlags"]=>
+      string(6) "131072"
+      ["FieldValue"]=>
+      string(1) " "
+      ["FieldValueDefault"]=>
+      string(1) " "
+      ["FieldJustification"]=>
+      string(4) "Left"
+      ["FieldStateOption"]=>
+      array(57) {
+        [0]=>
+        string(2) "AK"
+        [1]=>
+        string(2) "ID"
+        [2]=>
+        string(2) "VI"
+        [3]=>
+        string(2) "WV"
+        [4]=>
+        string(2) "TX"
+        [5]=>
+        string(2) "NY"
+        [6]=>
+        string(2) "IA"
+        [7]=>
+        string(2) "OR"
+        [8]=>
+        string(2) "IL"
+        [9]=>
+        string(2) "MA"
+        [10]=>
+        string(2) "MT"
+        [11]=>
+        string(2) "NM"
+        [12]=>
+        string(2) "MP"
+        [13]=>
+        string(2) "NE"
+        [14]=>
+        string(2) "AL"
+        [15]=>
+        string(2) "GA"
+        [16]=>
+        string(2) "OK"
+        [17]=>
+        string(2) "CO"
+        [18]=>
+        string(2) "NV"
+        [19]=>
+        string(2) "KY"
+        [20]=>
+        string(2) "FL"
+        [21]=>
+        string(2) "HI"
+        [22]=>
+        string(2) "ME"
+        [23]=>
+        string(2) "MI"
+        [24]=>
+        string(2) "NJ"
+        [25]=>
+        string(1) " "
+        [26]=>
+        string(2) "SD"
+        [27]=>
+        string(3) "MEX"
+        [28]=>
+        string(2) "PA"
+        [29]=>
+        string(2) "DE"
+        [30]=>
+        string(2) "OH"
+        [31]=>
+        string(2) "NC"
+        [32]=>
+        string(2) "LA"
+        [33]=>
+        string(2) "IN"
+        [34]=>
+        string(2) "TN"
+        [35]=>
+        string(2) "AZ"
+        [36]=>
+        string(2) "GU"
+        [37]=>
+        string(2) "MN"
+        [38]=>
+        string(2) "RI"
+        [39]=>
+        string(2) "CA"
+        [40]=>
+        string(2) "CT"
+        [41]=>
+        string(2) "AR"
+        [42]=>
+        string(2) "PR"
+        [43]=>
+        string(2) "WA"
+        [44]=>
+        string(2) "WI"
+        [45]=>
+        string(2) "VT"
+        [46]=>
+        string(3) "CAN"
+        [47]=>
+        string(2) "WY"
+        [48]=>
+        string(2) "SC"
+        [49]=>
+        string(2) "ND"
+        [50]=>
+        string(2) "MO"
+        [51]=>
+        string(2) "VA"
+        [52]=>
+        string(2) "MS"
+        [53]=>
+        string(2) "NH"
+        [54]=>
+        string(2) "KS"
+        [55]=>
+        string(2) "UT"
+        [56]=>
+        string(2) "MD"
+      }
+      ["FieldStateOptionDisplay"]=>
+      array(57) {
+        [0]=>
+        string(2) "AL"
+        [1]=>
+        string(2) "HI"
+        [2]=>
+        string(2) "UT"
+        [3]=>
+        string(2) "WA"
+        [4]=>
+        string(2) "SD"
+        [5]=>
+        string(2) "NM"
+        [6]=>
+        string(2) "GU"
+        [7]=>
+        string(2) "OH"
+        [8]=>
+        string(2) "IA"
+        [9]=>
+        string(2) "KY"
+        [10]=>
+        string(2) "MP"
+        [11]=>
+        string(2) "NH"
+        [12]=>
+        string(2) "MN"
+        [13]=>
+        string(2) "NC"
+        [14]=>
+        string(2) "AK"
+        [15]=>
+        string(2) "DE"
+        [16]=>
+        string(2) "NY"
+        [17]=>
+        string(2) "CA"
+        [18]=>
+        string(2) "NJ"
+        [19]=>
+        string(2) "IN"
+        [20]=>
+        string(2) "DC"
+        [21]=>
+        string(2) "GA"
+        [22]=>
+        string(2) "MA"
+        [23]=>
+        string(2) "MD"
+        [24]=>
+        string(2) "NE"
+        [25]=>
+        string(1) " "
+        [26]=>
+        string(2) "RI"
+        [27]=>
+        string(2) "WY"
+        [28]=>
+        string(2) "OK"
+        [29]=>
+        string(2) "CT"
+        [30]=>
+        string(2) "NV"
+        [31]=>
+        string(2) "MS"
+        [32]=>
+        string(2) "KS"
+        [33]=>
+        string(2) "ID"
+        [34]=>
+        string(2) "SC"
+        [35]=>
+        string(2) "AR"
+        [36]=>
+        string(2) "FL"
+        [37]=>
+        string(2) "ME"
+        [38]=>
+        string(2) "PA"
+        [39]=>
+        string(2) "AZ"
+        [40]=>
+        string(2) "CO"
+        [41]=>
+        string(2) "AS"
+        [42]=>
+        string(2) "OR"
+        [43]=>
+        string(2) "VI"
+        [44]=>
+        string(2) "VT"
+        [45]=>
+        string(2) "VA"
+        [46]=>
+        string(2) "WV"
+        [47]=>
+        string(2) "WI"
+        [48]=>
+        string(2) "PR"
+        [49]=>
+        string(2) "MT"
+        [50]=>
+        string(2) "MI"
+        [51]=>
+        string(2) "TX"
+        [52]=>
+        string(2) "MO"
+        [53]=>
+        string(2) "ND"
+        [54]=>
+        string(2) "IL"
+        [55]=>
+        string(2) "TN"
+        [56]=>
+        string(2) "LA"
+      }
+    }
+    [74]=>
+    array(5) {
+      ["FieldType"]=>
+      string(4) "Text"
+      ["FieldName"]=>
+      string(81) "topmostSubform[0].Page2[0].The_employee_s_first_day_of_employment__mm_dd_yyyy_[0]"
+      ["FieldNameAlt"]=>
+      string(70) "Section 2., Enter the employer's first day of employment (mm/dd/yyyy)."
+      ["FieldFlags"]=>
+      string(7) "8388608"
+      ["FieldJustification"]=>
+      string(4) "Left"
+    }
+  }
+  ["storage":"ArrayObject":private]=>
+  array(75) {
+    [0]=>
+    array(5) {
+      ["FieldType"]=>
+      string(4) "Text"
+      ["FieldName"]=>
+      string(51) "topmostSubform[0].Page1[0].Last_Name_Family_Name[0]"
+      ["FieldNameAlt"]=>
+      string(215) "Section 1. Employee Information and Attestation (Employees must complete and sign Section 1 of Form I-9 no later than the first day of employment, but not before accepting a job offer.) Enter Last Name (Family Name)"
+      ["FieldFlags"]=>
+      string(1) "0"
+      ["FieldJustification"]=>
+      string(4) "Left"
+    }
+    [1]=>
+    array(5) {
+      ["FieldType"]=>
+      string(4) "Text"
+      ["FieldName"]=>
+      string(51) "topmostSubform[0].Page1[0].First_Name_Given_Name[0]"
+      ["FieldNameAlt"]=>
+      string(41) "Section 1., Enter First Name (Given Name)"
+      ["FieldFlags"]=>
+      string(1) "0"
+      ["FieldJustification"]=>
+      string(4) "Left"
+    }
+    [2]=>
+    array(5) {
+      ["FieldType"]=>
+      string(4) "Text"
+      ["FieldName"]=>
+      string(44) "topmostSubform[0].Page1[0].Middle_Initial[0]"
+      ["FieldNameAlt"]=>
+      string(32) "Section 1., Enter Middle Initial"
+      ["FieldFlags"]=>
+      string(1) "0"
+      ["FieldJustification"]=>
+      string(4) "Left"
+    }
+    [3]=>
+    array(5) {
+      ["FieldType"]=>
+      string(4) "Text"
+      ["FieldName"]=>
+      string(58) "topmostSubform[0].Page1[0].Other_Last_Names_Used_if_any[0]"
+      ["FieldNameAlt"]=>
+      string(49) "Section 1., Enter Other Last Names Used (if any)."
+      ["FieldFlags"]=>
+      string(1) "0"
+      ["FieldJustification"]=>
+      string(4) "Left"
+    }
+    [4]=>
+    array(5) {
+      ["FieldType"]=>
+      string(4) "Text"
+      ["FieldName"]=>
+      string(60) "topmostSubform[0].Page1[0].Address_Street_Number_and_Name[0]"
+      ["FieldNameAlt"]=>
+      string(50) "Section 1., Enter Address (Street Number and Name)"
+      ["FieldFlags"]=>
+      string(1) "0"
+      ["FieldJustification"]=>
+      string(4) "Left"
+    }
+    [5]=>
+    array(5) {
+      ["FieldType"]=>
+      string(4) "Text"
+      ["FieldName"]=>
+      string(40) "topmostSubform[0].Page1[0].Apt_Number[0]"
+      ["FieldNameAlt"]=>
+      string(29) "Section 1., Enter Apt. Number"
+      ["FieldFlags"]=>
+      string(1) "0"
+      ["FieldJustification"]=>
+      string(4) "Left"
+    }
+    [6]=>
+    array(5) {
+      ["FieldType"]=>
+      string(4) "Text"
+      ["FieldName"]=>
+      string(42) "topmostSubform[0].Page1[0].City_or_Town[0]"
+      ["FieldNameAlt"]=>
+      string(30) "Section 1., Enter City or Town"
+      ["FieldFlags"]=>
+      string(1) "0"
+      ["FieldJustification"]=>
+      string(4) "Left"
+    }
+    [7]=>
+    array(5) {
+      ["FieldType"]=>
+      string(4) "Text"
+      ["FieldName"]=>
+      string(38) "topmostSubform[0].Page1[0].ZIP_Code[0]"
+      ["FieldNameAlt"]=>
+      string(26) "Section 1., Enter ZIP Code"
+      ["FieldFlags"]=>
+      string(1) "0"
+      ["FieldJustification"]=>
+      string(4) "Left"
+    }
+    [8]=>
+    array(5) {
+      ["FieldType"]=>
+      string(4) "Text"
+      ["FieldName"]=>
+      string(52) "topmostSubform[0].Page1[0].Date_of_Birth_mmddyyyy[0]"
+      ["FieldNameAlt"]=>
+      string(44) "Section 1., Enter Date of Birth (mm/dd/yyyy)"
+      ["FieldFlags"]=>
+      string(1) "0"
+      ["FieldJustification"]=>
+      string(4) "Left"
+    }
+    [9]=>
+    array(6) {
+      ["FieldType"]=>
+      string(4) "Text"
+      ["FieldName"]=>
+      string(77) "topmostSubform[0].Page1[0].U\.S\._Social_Security_Number__First_3_Numbers_[0]"
+      ["FieldNameAlt"]=>
+      string(63) "Section 1., Enter U.S. Social Security Number (First 3 Numbers)"
+      ["FieldFlags"]=>
+      string(8) "25165824"
+      ["FieldJustification"]=>
+      string(4) "Left"
+      ["FieldMaxLength"]=>
+      string(1) "3"
+    }
+    [10]=>
+    array(6) {
+      ["FieldType"]=>
+      string(4) "Text"
+      ["FieldName"]=>
+      string(76) "topmostSubform[0].Page1[0].U\.S\._Social_Security_Number__Next_2_numbers_[0]"
+      ["FieldNameAlt"]=>
+      string(62) "Section 1., Enter U.S. Social Security Number (Next 2 numbers)"
+      ["FieldFlags"]=>
+      string(8) "25165824"
+      ["FieldJustification"]=>
+      string(4) "Left"
+      ["FieldMaxLength"]=>
+      string(1) "2"
+    }
+    [11]=>
+    array(6) {
+      ["FieldType"]=>
+      string(4) "Text"
+      ["FieldName"]=>
+      string(76) "topmostSubform[0].Page1[0].U\.S\._Social_Security_Number__Last_4_numbers_[0]"
+      ["FieldNameAlt"]=>
+      string(62) "Section 1., Enter U.S. Social Security Number (Last 4 numbers)"
+      ["FieldFlags"]=>
+      string(8) "25165824"
+      ["FieldJustification"]=>
+      string(4) "Left"
+      ["FieldMaxLength"]=>
+      string(1) "4"
+    }
+    [12]=>
+    array(5) {
+      ["FieldType"]=>
+      string(4) "Text"
+      ["FieldName"]=>
+      string(53) "topmostSubform[0].Page1[0].Employees_Email_Address[0]"
+      ["FieldNameAlt"]=>
+      string(43) "Section 1., Enter Employee's E-mail Address"
+      ["FieldFlags"]=>
+      string(1) "0"
+      ["FieldJustification"]=>
+      string(4) "Left"
+    }
+    [13]=>
+    array(5) {
+      ["FieldType"]=>
+      string(4) "Text"
+      ["FieldName"]=>
+      string(56) "topmostSubform[0].Page1[0].Employees_Telephone_Number[0]"
+      ["FieldNameAlt"]=>
+      string(45) "Section 1., Enter Employee's Telephone Number"
+      ["FieldFlags"]=>
+      string(1) "0"
+      ["FieldJustification"]=>
+      string(4) "Left"
+    }
+    [14]=>
+    array(6) {
+      ["FieldType"]=>
+      string(6) "Button"
+      ["FieldName"]=>
+      string(65) "topmostSubform[0].Page1[0]._1\._A_citizen_of_the_United_States[0]"
+      ["FieldNameAlt"]=>
+      string(66) "Section 1., Select this Box for: 1. A citizen of the United States"
+      ["FieldFlags"]=>
+      string(1) "0"
+      ["FieldJustification"]=>
+      string(4) "Left"
+      ["FieldStateOption"]=>
+      array(2) {
+        [0]=>
+        string(3) "Yes"
+        [1]=>
+        string(3) "Off"
+      }
+    }
+    [15]=>
+    array(6) {
+      ["FieldType"]=>
+      string(6) "Button"
+      ["FieldName"]=>
+      string(96) "topmostSubform[0].Page1[0]._2\._A_noncitizen_national_of_the_United_States__See_instructions_[0]"
+      ["FieldNameAlt"]=>
+      string(97) "Section 1., Select this Box for: 2. A noncitizen national of the United States (See instructions)"
+      ["FieldFlags"]=>
+      string(1) "0"
+      ["FieldJustification"]=>
+      string(4) "Left"
+      ["FieldStateOption"]=>
+      array(2) {
+        [0]=>
+        string(3) "Yes"
+        [1]=>
+        string(3) "Off"
+      }
+    }
+    [16]=>
+    array(6) {
+      ["FieldType"]=>
+      string(6) "Button"
+      ["FieldName"]=>
+      string(104) "topmostSubform[0].Page1[0]._3\._A_lawful_permanent_resident__Alien_Registration_Number_USCIS_Number__[0]"
+      ["FieldNameAlt"]=>
+      string(105) "Section 1., Select this Box for: 3. A lawful permanent resident (Alien Registration Number/USCIS Number):"
+      ["FieldFlags"]=>
+      string(1) "0"
+      ["FieldJustification"]=>
+      string(4) "Left"
+      ["FieldStateOption"]=>
+      array(2) {
+        [0]=>
+        string(3) "Yes"
+        [1]=>
+        string(3) "Off"
+      }
+    }
+    [17]=>
+    array(5) {
+      ["FieldType"]=>
+      string(4) "Text"
+      ["FieldName"]=>
+      string(69) "topmostSubform[0].Page1[0].Alien_Registration_NumberUSCIS_Number_1[0]"
+      ["FieldNameAlt"]=>
+      string(93) "Section 1., If you check Item Number 3. Enter Alien Registration Number  or U S C I S Number."
+      ["FieldFlags"]=>
+      string(1) "0"
+      ["FieldJustification"]=>
+      string(4) "Left"
+    }
+    [18]=>
+    array(6) {
+      ["FieldType"]=>
+      string(6) "Button"
+      ["FieldName"]=>
+      string(115) "topmostSubform[0].Page1[0]._4\._An_alien_authorized_to_work_until__expiration_date__if_applicable__mmd_dd_yyyy__[0]"
+      ["FieldNameAlt"]=>
+      string(116) "Section 1., Select this Box for:  4. An alien authorized to work until (expiration date, if applicable, mm/dd/yyyy):"
+      ["FieldFlags"]=>
+      string(1) "0"
+      ["FieldJustification"]=>
+      string(4) "Left"
+      ["FieldStateOption"]=>
+      array(2) {
+        [0]=>
+        string(3) "Yes"
+        [1]=>
+        string(3) "Off"
+      }
+    }
+    [19]=>
+    array(5) {
+      ["FieldType"]=>
+      string(4) "Text"
+      ["FieldName"]=>
+      string(72) "topmostSubform[0].Page1[0].expiration_date__if_applicable__mm_dd_yyyy[0]"
+      ["FieldNameAlt"]=>
+      string(90) "Section 1., If you check Item Number 4. Select expiration date, if applicable, mm/dd/yyyy."
+      ["FieldFlags"]=>
+      string(1) "0"
+      ["FieldJustification"]=>
+      string(4) "Left"
+    }
+    [20]=>
+    array(5) {
+      ["FieldType"]=>
+      string(4) "Text"
+      ["FieldName"]=>
+      string(70) "topmostSubform[0].Page1[0]._1_Alien_Registration_NumberUSCIS_Number[0]"
+      ["FieldNameAlt"]=>
+      string(67) "Section 1., 1. Enter Alien Registration Number or U S C I S Number."
+      ["FieldFlags"]=>
+      string(1) "0"
+      ["FieldJustification"]=>
+      string(4) "Left"
+    }
+    [21]=>
+    array(5) {
+      ["FieldType"]=>
+      string(4) "Text"
+      ["FieldName"]=>
+      string(58) "topmostSubform[0].Page1[0]._2_Form_I94_Admission_Number[0]"
+      ["FieldNameAlt"]=>
+      string(48) "Section 1., 2. Enter Form I-94 Admission Number."
+      ["FieldFlags"]=>
+      string(1) "0"
+      ["FieldJustification"]=>
+      string(4) "Left"
+    }
+    [22]=>
+    array(5) {
+      ["FieldType"]=>
+      string(4) "Text"
+      ["FieldName"]=>
+      string(56) "topmostSubform[0].Page1[0]._3_Foreign_Passport_Number[0]"
+      ["FieldNameAlt"]=>
+      string(45) "Section 1., 3. Enter Foreign Passport Number."
+      ["FieldFlags"]=>
+      string(1) "0"
+      ["FieldJustification"]=>
+      string(4) "Left"
+    }
+    [23]=>
+    array(5) {
+      ["FieldType"]=>
+      string(4) "Text"
+      ["FieldName"]=>
+      string(49) "topmostSubform[0].Page1[0].Country_of_Issuance[0]"
+      ["FieldNameAlt"]=>
+      string(38) "Section 1., Enter Country of Issuance."
+      ["FieldFlags"]=>
+      string(7) "8388608"
+      ["FieldJustification"]=>
+      string(4) "Left"
+    }
+    [24]=>
+    array(6) {
+      ["FieldType"]=>
+      string(6) "Button"
+      ["FieldName"]=>
+      string(68) "topmostSubform[0].Page1[0].I_did_not_use_a_preparer_or_translator[0]"
+      ["FieldNameAlt"]=>
+      string(117) "Preparer and/or Translator Certification (check one):  Select this Box for:  I did not use a preparer or translator. "
+      ["FieldFlags"]=>
+      string(1) "0"
+      ["FieldJustification"]=>
+      string(4) "Left"
+      ["FieldStateOption"]=>
+      array(2) {
+        [0]=>
+        string(3) "Yes"
+        [1]=>
+        string(3) "Off"
+      }
+    }
+    [25]=>
+    array(6) {
+      ["FieldType"]=>
+      string(6) "Button"
+      ["FieldName"]=>
+      string(110) "topmostSubform[0].Page1[0].A_preparer_s__and_or_translator_s__assisted_the_employee_in_completing_Section_1[0]"
+      ["FieldNameAlt"]=>
+      string(159) "Preparer and/or Translator Certification (check one):  Select this Box for:  A preparer(s) and/or translator(s) assisted the employee in completing Section 1. "
+      ["FieldFlags"]=>
+      string(1) "0"
+      ["FieldJustification"]=>
+      string(4) "Left"
+      ["FieldStateOption"]=>
+      array(2) {
+        [0]=>
+        string(3) "Yes"
+        [1]=>
+        string(3) "Off"
+      }
+    }
+    [26]=>
+    array(5) {
+      ["FieldType"]=>
+      string(4) "Text"
+      ["FieldName"]=>
+      string(53) "topmostSubform[0].Page1[0].Last_Name_Family_Name_2[0]"
+      ["FieldNameAlt"]=>
+      string(84) "Section 1., Preparer and/or Translator Certification. Enter Last Name (Family Name)."
+      ["FieldFlags"]=>
+      string(1) "0"
+      ["FieldJustification"]=>
+      string(4) "Left"
+    }
+    [27]=>
+    array(5) {
+      ["FieldType"]=>
+      string(4) "Text"
+      ["FieldName"]=>
+      string(53) "topmostSubform[0].Page1[0].First_Name_Given_Name_2[0]"
+      ["FieldNameAlt"]=>
+      string(84) "Section 1., Preparer and/or Translator Certification. Enter First Name (Given Name)."
+      ["FieldFlags"]=>
+      string(1) "0"
+      ["FieldJustification"]=>
+      string(4) "Left"
+    }
+    [28]=>
+    array(5) {
+      ["FieldType"]=>
+      string(4) "Text"
+      ["FieldName"]=>
+      string(62) "topmostSubform[0].Page1[0].Address_Street_Number_and_Name_2[0]"
+      ["FieldNameAlt"]=>
+      string(93) "Section 1., Preparer and/or Translator Certification. Enter Address (Street Number and Name)."
+      ["FieldFlags"]=>
+      string(1) "0"
+      ["FieldJustification"]=>
+      string(4) "Left"
+    }
+    [29]=>
+    array(5) {
+      ["FieldType"]=>
+      string(4) "Text"
+      ["FieldName"]=>
+      string(44) "topmostSubform[0].Page1[0].City_or_Town_2[0]"
+      ["FieldNameAlt"]=>
+      string(73) "Section 1., Preparer and/or Translator Certification. Enter City or Town."
+      ["FieldFlags"]=>
+      string(1) "0"
+      ["FieldJustification"]=>
+      string(4) "Left"
+    }
+    [30]=>
+    array(5) {
+      ["FieldType"]=>
+      string(4) "Text"
+      ["FieldName"]=>
+      string(38) "topmostSubform[0].Page1[0].Zip_Code[0]"
+      ["FieldNameAlt"]=>
+      string(69) "Section 1., Preparer and/or Translator Certification. Enter Zip Code."
+      ["FieldFlags"]=>
+      string(1) "0"
+      ["FieldJustification"]=>
+      string(4) "Left"
+    }
+    [31]=>
+    array(9) {
+      ["FieldType"]=>
+      string(6) "Choice"
+      ["FieldName"]=>
+      string(35) "topmostSubform[0].Page1[0].State[0]"
+      ["FieldNameAlt"]=>
+      string(49) "Section 1., Select State from the drop down list."
+      ["FieldFlags"]=>
+      string(6) "131072"
+      ["FieldValue"]=>
+      string(1) " "
+      ["FieldValueDefault"]=>
+      string(1) " "
+      ["FieldJustification"]=>
+      string(4) "Left"
+      ["FieldStateOption"]=>
+      array(59) {
+        [0]=>
+        string(2) "AK"
+        [1]=>
+        string(2) "ID"
+        [2]=>
+        string(2) "VI"
+        [3]=>
+        string(2) "WV"
+        [4]=>
+        string(2) "TX"
+        [5]=>
+        string(2) "NY"
+        [6]=>
+        string(2) "IA"
+        [7]=>
+        string(2) "OR"
+        [8]=>
+        string(2) "IL"
+        [9]=>
+        string(2) "MA"
+        [10]=>
+        string(2) "MT"
+        [11]=>
+        string(2) "NM"
+        [12]=>
+        string(2) "MP"
+        [13]=>
+        string(2) "NE"
+        [14]=>
+        string(2) "AL"
+        [15]=>
+        string(2) "GA"
+        [16]=>
+        string(2) "OK"
+        [17]=>
+        string(2) "CO"
+        [18]=>
+        string(2) "NV"
+        [19]=>
+        string(2) "KY"
+        [20]=>
+        string(2) "FL"
+        [21]=>
+        string(2) "HI"
+        [22]=>
+        string(2) "ME"
+        [23]=>
+        string(2) "MI"
+        [24]=>
+        string(2) "NJ"
+        [25]=>
+        string(1) "0"
+        [26]=>
+        string(1) " "
+        [27]=>
+        string(2) "SD"
+        [28]=>
+        string(3) "MEX"
+        [29]=>
+        string(2) "PA"
+        [30]=>
+        string(2) "DE"
+        [31]=>
+        string(2) "OH"
+        [32]=>
+        string(2) "NC"
+        [33]=>
+        string(2) "LA"
+        [34]=>
+        string(2) "IN"
+        [35]=>
+        string(2) "TN"
+        [36]=>
+        string(2) "AZ"
+        [37]=>
+        string(2) "GU"
+        [38]=>
+        string(2) "MN"
+        [39]=>
+        string(2) "RI"
+        [40]=>
+        string(2) "CA"
+        [41]=>
+        string(2) "CT"
+        [42]=>
+        string(2) "AR"
+        [43]=>
+        string(2) "PR"
+        [44]=>
+        string(2) "WA"
+        [45]=>
+        string(2) "WI"
+        [46]=>
+        string(2) "VT"
+        [47]=>
+        string(3) "CAN"
+        [48]=>
+        string(2) "WY"
+        [49]=>
+        string(1) "1"
+        [50]=>
+        string(2) "SC"
+        [51]=>
+        string(2) "ND"
+        [52]=>
+        string(2) "MO"
+        [53]=>
+        string(2) "VA"
+        [54]=>
+        string(2) "MS"
+        [55]=>
+        string(2) "NH"
+        [56]=>
+        string(2) "KS"
+        [57]=>
+        string(2) "UT"
+        [58]=>
+        string(2) "MD"
+      }
+      ["FieldStateOptionDisplay"]=>
+      array(59) {
+        [0]=>
+        string(2) "AL"
+        [1]=>
+        string(2) "HI"
+        [2]=>
+        string(2) "UT"
+        [3]=>
+        string(2) "WA"
+        [4]=>
+        string(2) "SD"
+        [5]=>
+        string(2) "NM"
+        [6]=>
+        string(2) "GU"
+        [7]=>
+        string(2) "OH"
+        [8]=>
+        string(2) "IA"
+        [9]=>
+        string(2) "KY"
+        [10]=>
+        string(2) "MP"
+        [11]=>
+        string(2) "NH"
+        [12]=>
+        string(2) "MN"
+        [13]=>
+        string(2) "NC"
+        [14]=>
+        string(2) "AK"
+        [15]=>
+        string(2) "DE"
+        [16]=>
+        string(2) "NY"
+        [17]=>
+        string(2) "CA"
+        [18]=>
+        string(2) "NJ"
+        [19]=>
+        string(2) "IN"
+        [20]=>
+        string(2) "DC"
+        [21]=>
+        string(2) "GA"
+        [22]=>
+        string(2) "MA"
+        [23]=>
+        string(2) "MD"
+        [24]=>
+        string(2) "NE"
+        [25]=>
+        string(3) "CAN"
+        [26]=>
+        string(1) " "
+        [27]=>
+        string(2) "RI"
+        [28]=>
+        string(2) "WY"
+        [29]=>
+        string(2) "OK"
+        [30]=>
+        string(2) "CT"
+        [31]=>
+        string(2) "NV"
+        [32]=>
+        string(2) "MS"
+        [33]=>
+        string(2) "KS"
+        [34]=>
+        string(2) "ID"
+        [35]=>
+        string(2) "SC"
+        [36]=>
+        string(2) "AR"
+        [37]=>
+        string(2) "FL"
+        [38]=>
+        string(2) "ME"
+        [39]=>
+        string(2) "PA"
+        [40]=>
+        string(2) "AZ"
+        [41]=>
+        string(2) "CO"
+        [42]=>
+        string(2) "AS"
+        [43]=>
+        string(2) "OR"
+        [44]=>
+        string(2) "VI"
+        [45]=>
+        string(2) "VT"
+        [46]=>
+        string(2) "VA"
+        [47]=>
+        string(2) "WV"
+        [48]=>
+        string(2) "WI"
+        [49]=>
+        string(3) "MEX"
+        [50]=>
+        string(2) "PR"
+        [51]=>
+        string(2) "MT"
+        [52]=>
+        string(2) "MI"
+        [53]=>
+        string(2) "TX"
+        [54]=>
+        string(2) "MO"
+        [55]=>
+        string(2) "ND"
+        [56]=>
+        string(2) "IL"
+        [57]=>
+        string(2) "TN"
+        [58]=>
+        string(2) "LA"
+      }
+    }
+    [32]=>
+    array(9) {
+      ["FieldType"]=>
+      string(6) "Choice"
+      ["FieldName"]=>
+      string(35) "topmostSubform[0].Page1[0].State[1]"
+      ["FieldNameAlt"]=>
+      string(91) "Section 1., Preparer and/or Translator Certification. Select State from the drop down list."
+      ["FieldFlags"]=>
+      string(6) "131072"
+      ["FieldValue"]=>
+      string(1) " "
+      ["FieldValueDefault"]=>
+      string(1) " "
+      ["FieldJustification"]=>
+      string(4) "Left"
+      ["FieldStateOption"]=>
+      array(59) {
+        [0]=>
+        string(2) "AK"
+        [1]=>
+        string(2) "ID"
+        [2]=>
+        string(2) "VI"
+        [3]=>
+        string(2) "WV"
+        [4]=>
+        string(2) "TX"
+        [5]=>
+        string(2) "NY"
+        [6]=>
+        string(2) "IA"
+        [7]=>
+        string(2) "OR"
+        [8]=>
+        string(2) "IL"
+        [9]=>
+        string(2) "MA"
+        [10]=>
+        string(2) "MT"
+        [11]=>
+        string(2) "NM"
+        [12]=>
+        string(2) "MP"
+        [13]=>
+        string(2) "NE"
+        [14]=>
+        string(2) "AL"
+        [15]=>
+        string(2) "GA"
+        [16]=>
+        string(2) "OK"
+        [17]=>
+        string(2) "CO"
+        [18]=>
+        string(2) "NV"
+        [19]=>
+        string(2) "KY"
+        [20]=>
+        string(2) "FL"
+        [21]=>
+        string(2) "HI"
+        [22]=>
+        string(2) "ME"
+        [23]=>
+        string(2) "MI"
+        [24]=>
+        string(2) "NJ"
+        [25]=>
+        string(1) "0"
+        [26]=>
+        string(1) " "
+        [27]=>
+        string(2) "SD"
+        [28]=>
+        string(3) "MEX"
+        [29]=>
+        string(2) "PA"
+        [30]=>
+        string(2) "DE"
+        [31]=>
+        string(2) "OH"
+        [32]=>
+        string(2) "NC"
+        [33]=>
+        string(2) "LA"
+        [34]=>
+        string(2) "IN"
+        [35]=>
+        string(2) "TN"
+        [36]=>
+        string(2) "AZ"
+        [37]=>
+        string(2) "GU"
+        [38]=>
+        string(2) "MN"
+        [39]=>
+        string(2) "RI"
+        [40]=>
+        string(2) "CA"
+        [41]=>
+        string(2) "CT"
+        [42]=>
+        string(2) "AR"
+        [43]=>
+        string(2) "PR"
+        [44]=>
+        string(2) "WA"
+        [45]=>
+        string(2) "WI"
+        [46]=>
+        string(2) "VT"
+        [47]=>
+        string(3) "CAN"
+        [48]=>
+        string(2) "WY"
+        [49]=>
+        string(1) "1"
+        [50]=>
+        string(2) "SC"
+        [51]=>
+        string(2) "ND"
+        [52]=>
+        string(2) "MO"
+        [53]=>
+        string(2) "VA"
+        [54]=>
+        string(2) "MS"
+        [55]=>
+        string(2) "NH"
+        [56]=>
+        string(2) "KS"
+        [57]=>
+        string(2) "UT"
+        [58]=>
+        string(2) "MD"
+      }
+      ["FieldStateOptionDisplay"]=>
+      array(59) {
+        [0]=>
+        string(2) "AL"
+        [1]=>
+        string(2) "HI"
+        [2]=>
+        string(2) "UT"
+        [3]=>
+        string(2) "WA"
+        [4]=>
+        string(2) "SD"
+        [5]=>
+        string(2) "NM"
+        [6]=>
+        string(2) "GU"
+        [7]=>
+        string(2) "OH"
+        [8]=>
+        string(2) "IA"
+        [9]=>
+        string(2) "KY"
+        [10]=>
+        string(2) "MP"
+        [11]=>
+        string(2) "NH"
+        [12]=>
+        string(2) "MN"
+        [13]=>
+        string(2) "NC"
+        [14]=>
+        string(2) "AK"
+        [15]=>
+        string(2) "DE"
+        [16]=>
+        string(2) "NY"
+        [17]=>
+        string(2) "CA"
+        [18]=>
+        string(2) "NJ"
+        [19]=>
+        string(2) "IN"
+        [20]=>
+        string(2) "DC"
+        [21]=>
+        string(2) "GA"
+        [22]=>
+        string(2) "MA"
+        [23]=>
+        string(2) "MD"
+        [24]=>
+        string(2) "NE"
+        [25]=>
+        string(3) "CAN"
+        [26]=>
+        string(1) " "
+        [27]=>
+        string(2) "RI"
+        [28]=>
+        string(2) "WY"
+        [29]=>
+        string(2) "OK"
+        [30]=>
+        string(2) "CT"
+        [31]=>
+        string(2) "NV"
+        [32]=>
+        string(2) "MS"
+        [33]=>
+        string(2) "KS"
+        [34]=>
+        string(2) "ID"
+        [35]=>
+        string(2) "SC"
+        [36]=>
+        string(2) "AR"
+        [37]=>
+        string(2) "FL"
+        [38]=>
+        string(2) "ME"
+        [39]=>
+        string(2) "PA"
+        [40]=>
+        string(2) "AZ"
+        [41]=>
+        string(2) "CO"
+        [42]=>
+        string(2) "AS"
+        [43]=>
+        string(2) "OR"
+        [44]=>
+        string(2) "VI"
+        [45]=>
+        string(2) "VT"
+        [46]=>
+        string(2) "VA"
+        [47]=>
+        string(2) "WV"
+        [48]=>
+        string(2) "WI"
+        [49]=>
+        string(3) "MEX"
+        [50]=>
+        string(2) "PR"
+        [51]=>
+        string(2) "MT"
+        [52]=>
+        string(2) "MI"
+        [53]=>
+        string(2) "TX"
+        [54]=>
+        string(2) "MO"
+        [55]=>
+        string(2) "ND"
+        [56]=>
+        string(2) "IL"
+        [57]=>
+        string(2) "TN"
+        [58]=>
+        string(2) "LA"
+      }
+    }
+    [33]=>
+    array(5) {
+      ["FieldType"]=>
+      string(4) "Text"
+      ["FieldName"]=>
+      string(53) "topmostSubform[0].Page2[0].Last_Name_Family_Name_3[0]"
+      ["FieldNameAlt"]=>
+      string(78) "Section 2., Employee Information from Section 1. Enter Last Name (Family Name)"
+      ["FieldFlags"]=>
+      string(1) "0"
+      ["FieldJustification"]=>
+      string(4) "Left"
+    }
+    [34]=>
+    array(5) {
+      ["FieldType"]=>
+      string(4) "Text"
+      ["FieldName"]=>
+      string(53) "topmostSubform[0].Page2[0].First_Name_Given_Name_3[0]"
+      ["FieldNameAlt"]=>
+      string(80) "Section 2., Employee Information from Section 1. Enter  First Name (Given Name)."
+      ["FieldFlags"]=>
+      string(1) "0"
+      ["FieldJustification"]=>
+      string(4) "Left"
+    }
+    [35]=>
+    array(5) {
+      ["FieldType"]=>
+      string(4) "Text"
+      ["FieldName"]=>
+      string(32) "topmostSubform[0].Page2[0].MI[0]"
+      ["FieldNameAlt"]=>
+      string(71) "Section 2., Employee Information from Section 1. Enter  Middle Initial."
+      ["FieldFlags"]=>
+      string(1) "0"
+      ["FieldJustification"]=>
+      string(4) "Left"
+    }
+    [36]=>
+    array(5) {
+      ["FieldType"]=>
+      string(4) "Text"
+      ["FieldName"]=>
+      string(59) "topmostSubform[0].Page2[0].CitizenshipImmigration_Status[0]"
+      ["FieldNameAlt"]=>
+      string(89) "Section 2., Employee Information from Section 1. Enter Citizenship or Immigration Status."
+      ["FieldFlags"]=>
+      string(1) "0"
+      ["FieldJustification"]=>
+      string(4) "Left"
+    }
+    [37]=>
+    array(5) {
+      ["FieldType"]=>
+      string(4) "Text"
+      ["FieldName"]=>
+      string(55) "topmostSubform[0].Page2[0].List_A_-_Document_Title_1[0]"
+      ["FieldNameAlt"]=>
+      string(25) "List A - Document Title 1"
+      ["FieldFlags"]=>
+      string(1) "0"
+      ["FieldJustification"]=>
+      string(4) "Left"
+    }
+    [38]=>
+    array(5) {
+      ["FieldType"]=>
+      string(4) "Text"
+      ["FieldName"]=>
+      string(53) "topmostSubform[0].Page2[0].List_B_-_Document_Title[0]"
+      ["FieldNameAlt"]=>
+      string(23) "List B - Document Title"
+      ["FieldFlags"]=>
+      string(1) "0"
+      ["FieldJustification"]=>
+      string(4) "Left"
+    }
+    [39]=>
+    array(5) {
+      ["FieldType"]=>
+      string(4) "Text"
+      ["FieldName"]=>
+      string(53) "topmostSubform[0].Page2[0].List_C_-_Document_Title[0]"
+      ["FieldNameAlt"]=>
+      string(23) "List C - Document Title"
+      ["FieldFlags"]=>
+      string(1) "0"
+      ["FieldJustification"]=>
+      string(4) "Left"
+    }
+    [40]=>
+    array(5) {
+      ["FieldType"]=>
+      string(4) "Text"
+      ["FieldName"]=>
+      string(58) "topmostSubform[0].Page2[0].List_A_-_Issuing_Authority_1[0]"
+      ["FieldNameAlt"]=>
+      string(28) "List A - Issuing Authority 1"
+      ["FieldFlags"]=>
+      string(1) "0"
+      ["FieldJustification"]=>
+      string(4) "Left"
+    }
+    [41]=>
+    array(5) {
+      ["FieldType"]=>
+      string(4) "Text"
+      ["FieldName"]=>
+      string(56) "topmostSubform[0].Page2[0].List_B_-_Issuing_Authority[0]"
+      ["FieldNameAlt"]=>
+      string(26) "List B - Issuing Authority"
+      ["FieldFlags"]=>
+      string(1) "0"
+      ["FieldJustification"]=>
+      string(4) "Left"
+    }
+    [42]=>
+    array(5) {
+      ["FieldType"]=>
+      string(4) "Text"
+      ["FieldName"]=>
+      string(56) "topmostSubform[0].Page2[0].List_C_-_Issuing_Authority[0]"
+      ["FieldNameAlt"]=>
+      string(26) "List C - Issuing Authority"
+      ["FieldFlags"]=>
+      string(1) "0"
+      ["FieldJustification"]=>
+      string(4) "Left"
+    }
+    [43]=>
+    array(5) {
+      ["FieldType"]=>
+      string(4) "Text"
+      ["FieldName"]=>
+      string(56) "topmostSubform[0].Page2[0].List_A_-_Document_Number_1[0]"
+      ["FieldNameAlt"]=>
+      string(26) "List A - Document Number 1"
+      ["FieldFlags"]=>
+      string(1) "0"
+      ["FieldJustification"]=>
+      string(4) "Left"
+    }
+    [44]=>
+    array(5) {
+      ["FieldType"]=>
+      string(4) "Text"
+      ["FieldName"]=>
+      string(54) "topmostSubform[0].Page2[0].List_B_-_Document_Number[0]"
+      ["FieldNameAlt"]=>
+      string(24) "List B - Document Number"
+      ["FieldFlags"]=>
+      string(1) "0"
+      ["FieldJustification"]=>
+      string(4) "Left"
+    }
+    [45]=>
+    array(5) {
+      ["FieldType"]=>
+      string(4) "Text"
+      ["FieldName"]=>
+      string(54) "topmostSubform[0].Page2[0].List_C_-_Document_Number[0]"
+      ["FieldNameAlt"]=>
+      string(24) "List C - Document Number"
+      ["FieldFlags"]=>
+      string(1) "0"
+      ["FieldJustification"]=>
+      string(4) "Left"
+    }
+    [46]=>
+    array(5) {
+      ["FieldType"]=>
+      string(4) "Text"
+      ["FieldName"]=>
+      string(78) "topmostSubform[0].Page2[0].List_A_-_Expiration_Date__if_any___mm_dd_yyyy__1[0]"
+      ["FieldNameAlt"]=>
+      string(48) "List A - Expiration Date (if any) (mm/dd/yyyy) 1"
+      ["FieldFlags"]=>
+      string(1) "0"
+      ["FieldJustification"]=>
+      string(4) "Left"
+    }
+    [47]=>
+    array(5) {
+      ["FieldType"]=>
+      string(4) "Text"
+      ["FieldName"]=>
+      string(76) "topmostSubform[0].Page2[0].List_B_-_Expiration_Date__if_any___mm_dd_yyyy_[0]"
+      ["FieldNameAlt"]=>
+      string(46) "List B - Expiration Date (if any) (mm/dd/yyyy)"
+      ["FieldFlags"]=>
+      string(1) "0"
+      ["FieldJustification"]=>
+      string(4) "Left"
+    }
+    [48]=>
+    array(5) {
+      ["FieldType"]=>
+      string(4) "Text"
+      ["FieldName"]=>
+      string(76) "topmostSubform[0].Page2[0].List_C_-_Expiration_Date__if_any___mm_dd_yyyy_[0]"
+      ["FieldNameAlt"]=>
+      string(46) "List C - Expiration Date (if any) (mm/dd/yyyy)"
+      ["FieldFlags"]=>
+      string(1) "0"
+      ["FieldJustification"]=>
+      string(4) "Left"
+    }
+    [49]=>
+    array(5) {
+      ["FieldType"]=>
+      string(4) "Text"
+      ["FieldName"]=>
+      string(55) "topmostSubform[0].Page2[0].List_A_-_Document_Title_2[0]"
+      ["FieldNameAlt"]=>
+      string(25) "List A - Document Title 2"
+      ["FieldFlags"]=>
+      string(1) "0"
+      ["FieldJustification"]=>
+      string(4) "Left"
+    }
+    [50]=>
+    array(5) {
+      ["FieldType"]=>
+      string(4) "Text"
+      ["FieldName"]=>
+      string(58) "topmostSubform[0].Page2[0].List_A_-_Issuing_Authority_2[0]"
+      ["FieldNameAlt"]=>
+      string(28) "List A - Issuing Authority 2"
+      ["FieldFlags"]=>
+      string(1) "0"
+      ["FieldJustification"]=>
+      string(4) "Left"
+    }
+    [51]=>
+    array(5) {
+      ["FieldType"]=>
+      string(4) "Text"
+      ["FieldName"]=>
+      string(56) "topmostSubform[0].Page2[0].List_A_-_Document_Number_2[0]"
+      ["FieldNameAlt"]=>
+      string(26) "List A - Document Number 2"
+      ["FieldFlags"]=>
+      string(1) "0"
+      ["FieldJustification"]=>
+      string(4) "Left"
+    }
+    [52]=>
+    array(5) {
+      ["FieldType"]=>
+      string(4) "Text"
+      ["FieldName"]=>
+      string(78) "topmostSubform[0].Page2[0].List_A_-_Expiration_Date__if_any___mm_dd_yyyy__2[0]"
+      ["FieldNameAlt"]=>
+      string(48) "List A - Expiration Date (if any) (mm/dd/yyyy) 2"
+      ["FieldFlags"]=>
+      string(1) "0"
+      ["FieldJustification"]=>
+      string(4) "Left"
+    }
+    [53]=>
+    array(5) {
+      ["FieldType"]=>
+      string(4) "Text"
+      ["FieldName"]=>
+      string(55) "topmostSubform[0].Page2[0].List_A_-_Document_Title_3[0]"
+      ["FieldNameAlt"]=>
+      string(25) "List A - Document Title 3"
+      ["FieldFlags"]=>
+      string(1) "0"
+      ["FieldJustification"]=>
+      string(4) "Left"
+    }
+    [54]=>
+    array(5) {
+      ["FieldType"]=>
+      string(4) "Text"
+      ["FieldName"]=>
+      string(58) "topmostSubform[0].Page2[0].List_A_-_Issuing_Authority_3[0]"
+      ["FieldNameAlt"]=>
+      string(28) "List A - Issuing Authority 3"
+      ["FieldFlags"]=>
+      string(1) "0"
+      ["FieldJustification"]=>
+      string(4) "Left"
+    }
+    [55]=>
+    array(5) {
+      ["FieldType"]=>
+      string(4) "Text"
+      ["FieldName"]=>
+      string(56) "topmostSubform[0].Page2[0].List_A_-_Document_Number_3[0]"
+      ["FieldNameAlt"]=>
+      string(26) "List A - Document Number 3"
+      ["FieldFlags"]=>
+      string(1) "0"
+      ["FieldJustification"]=>
+      string(4) "Left"
+    }
+    [56]=>
+    array(5) {
+      ["FieldType"]=>
+      string(4) "Text"
+      ["FieldName"]=>
+      string(78) "topmostSubform[0].Page2[0].List_A_-_Expiration_Date__if_any___mm_dd_yyyy__3[0]"
+      ["FieldNameAlt"]=>
+      string(48) "List A - Expiration Date (if any) (mm/dd/yyyy) 3"
+      ["FieldFlags"]=>
+      string(1) "0"
+      ["FieldJustification"]=>
+      string(4) "Left"
+    }
+    [57]=>
+    array(5) {
+      ["FieldType"]=>
+      string(4) "Text"
+      ["FieldName"]=>
+      string(52) "topmostSubform[0].Page2[0].Additional_Information[0]"
+      ["FieldNameAlt"]=>
+      string(22) "Additional Information"
+      ["FieldFlags"]=>
+      string(4) "4096"
+      ["FieldJustification"]=>
+      string(4) "Left"
+    }
+    [58]=>
+    array(5) {
+      ["FieldType"]=>
+      string(4) "Text"
+      ["FieldName"]=>
+      string(80) "topmostSubform[0].Page2[0].Last_Name_of_Employer_or_Authorized_Representative[0]"
+      ["FieldNameAlt"]=>
+      string(69) "Section 2., Enter Last Name of Employer or Authorized Representative."
+      ["FieldFlags"]=>
+      string(1) "0"
+      ["FieldJustification"]=>
+      string(4) "Left"
+    }
+    [59]=>
+    array(5) {
+      ["FieldType"]=>
+      string(4) "Text"
+      ["FieldName"]=>
+      string(81) "topmostSubform[0].Page2[0].First_Name_of_Employer_or_Authorized_Representative[0]"
+      ["FieldNameAlt"]=>
+      string(70) "Section 2., Enter First Name of Employer or Authorized Representative."
+      ["FieldFlags"]=>
+      string(1) "0"
+      ["FieldJustification"]=>
+      string(4) "Left"
+    }
+    [60]=>
+    array(5) {
+      ["FieldType"]=>
+      string(4) "Text"
+      ["FieldName"]=>
+      string(69) "topmostSubform[0].Page2[0].Employers_Business_or_Organization_Name[0]"
+      ["FieldNameAlt"]=>
+      string(59) "Section 2., Enter Employer's Business or Organization Name."
+      ["FieldFlags"]=>
+      string(1) "0"
+      ["FieldJustification"]=>
+      string(4) "Left"
+    }
+    [61]=>
+    array(5) {
+      ["FieldType"]=>
+      string(4) "Text"
+      ["FieldName"]=>
+      string(95) "topmostSubform[0].Page2[0].Employers_Business_or_Organization_Address_Street_Number_and_Name[0]"
+      ["FieldNameAlt"]=>
+      string(87) "Section 2., Enter Employer's Business or Organization Address (Street Number and Name)."
+      ["FieldFlags"]=>
+      string(1) "0"
+      ["FieldJustification"]=>
+      string(4) "Left"
+    }
+    [62]=>
+    array(5) {
+      ["FieldType"]=>
+      string(4) "Text"
+      ["FieldName"]=>
+      string(80) "topmostSubform[0].Page2[0].City_or_Town_of_Employers_Business_or_Organization[0]"
+      ["FieldNameAlt"]=>
+      string(90) "of Employers Business or Organization. City or Town of Employers Business or Organization."
+      ["FieldFlags"]=>
+      string(1) "0"
+      ["FieldJustification"]=>
+      string(4) "Left"
+    }
+    [63]=>
+    array(5) {
+      ["FieldType"]=>
+      string(4) "Text"
+      ["FieldName"]=>
+      string(53) "topmostSubform[0].Page2[0].Last_Name_Family_Name_4[0]"
+      ["FieldNameAlt"]=>
+      string(70) "Section 3., A. New Name (if applicable) Enter Last Name (Family Name)."
+      ["FieldFlags"]=>
+      string(1) "0"
+      ["FieldJustification"]=>
+      string(4) "Left"
+    }
+    [64]=>
+    array(5) {
+      ["FieldType"]=>
+      string(4) "Text"
+      ["FieldName"]=>
+      string(53) "topmostSubform[0].Page2[0].First_Name_Given_Name_4[0]"
+      ["FieldNameAlt"]=>
+      string(70) "Section 3., A. New Name (if applicable) Enter First Name (Given Name)."
+      ["FieldFlags"]=>
+      string(1) "0"
+      ["FieldJustification"]=>
+      string(4) "Left"
+    }
+    [65]=>
+    array(5) {
+      ["FieldType"]=>
+      string(4) "Text"
+      ["FieldName"]=>
+      string(46) "topmostSubform[0].Page2[0].Middle_Initial_2[0]"
+      ["FieldNameAlt"]=>
+      string(61) "Section 3., A. New Name (if applicable) Enter Middle Initial."
+      ["FieldFlags"]=>
+      string(1) "0"
+      ["FieldJustification"]=>
+      string(4) "Left"
+    }
+    [66]=>
+    array(5) {
+      ["FieldType"]=>
+      string(4) "Text"
+      ["FieldName"]=>
+      string(43) "topmostSubform[0].Page2[0].Date_mmddyyyy[0]"
+      ["FieldNameAlt"]=>
+      string(70) "Section 3., B. Date of Rehire (if applicable) Enter Date (mm/dd/yyyy)."
+      ["FieldFlags"]=>
+      string(1) "0"
+      ["FieldJustification"]=>
+      string(4) "Left"
+    }
+    [67]=>
+    array(5) {
+      ["FieldType"]=>
+      string(4) "Text"
+      ["FieldName"]=>
+      string(46) "topmostSubform[0].Page2[0].Document_Title_4[0]"
+      ["FieldNameAlt"]=>
+      string(36) "Section 3., C. Enter Document Title."
+      ["FieldFlags"]=>
+      string(1) "0"
+      ["FieldJustification"]=>
+      string(4) "Left"
+    }
+    [68]=>
+    array(5) {
+      ["FieldType"]=>
+      string(4) "Text"
+      ["FieldName"]=>
+      string(47) "topmostSubform[0].Page2[0].Document_Number_6[0]"
+      ["FieldNameAlt"]=>
+      string(37) "Section 3., C. Enter Document Number."
+      ["FieldFlags"]=>
+      string(1) "0"
+      ["FieldJustification"]=>
+      string(4) "Left"
+    }
+    [69]=>
+    array(5) {
+      ["FieldType"]=>
+      string(4) "Text"
+      ["FieldName"]=>
+      string(63) "topmostSubform[0].Page2[0].Expiration_Date_if_any_mmddyyyy_6[0]"
+      ["FieldNameAlt"]=>
+      string(59) "Section 3., C. Enter Expiration Date (if any) (mm/dd/yyyy)."
+      ["FieldFlags"]=>
+      string(1) "0"
+      ["FieldJustification"]=>
+      string(4) "Left"
+    }
+    [70]=>
+    array(5) {
+      ["FieldType"]=>
+      string(4) "Text"
+      ["FieldName"]=>
+      string(76) "topmostSubform[0].Page2[0].Zip_Code_of_Employers_Business_or_Organization[0]"
+      ["FieldNameAlt"]=>
+      string(65) "Section 2., Enter Zip Code of Employers Business or Organization."
+      ["FieldFlags"]=>
+      string(1) "0"
+      ["FieldJustification"]=>
+      string(4) "Left"
+    }
+    [71]=>
+    array(5) {
+      ["FieldType"]=>
+      string(4) "Text"
+      ["FieldName"]=>
+      string(52) "topmostSubform[0].Page2[0].textFieldEmployerTitle[0]"
+      ["FieldNameAlt"]=>
+      string(58) "Section 2., Title of Employer or Authorized Representative"
+      ["FieldFlags"]=>
+      string(7) "8388608"
+      ["FieldJustification"]=>
+      string(4) "Left"
+    }
+    [72]=>
+    array(5) {
+      ["FieldType"]=>
+      string(4) "Text"
+      ["FieldName"]=>
+      string(51) "topmostSubform[0].Page2[0].textFieldEmployerName[0]"
+      ["FieldNameAlt"]=>
+      string(58) "Section 3., Name of Employer or Authorized Representative "
+      ["FieldFlags"]=>
+      string(7) "8388608"
+      ["FieldJustification"]=>
+      string(4) "Left"
+    }
+    [73]=>
+    array(9) {
+      ["FieldType"]=>
+      string(6) "Choice"
+      ["FieldName"]=>
+      string(35) "topmostSubform[0].Page2[0].State[0]"
+      ["FieldNameAlt"]=>
+      string(49) "Section 2., Select State from the drop down list."
+      ["FieldFlags"]=>
+      string(6) "131072"
+      ["FieldValue"]=>
+      string(1) " "
+      ["FieldValueDefault"]=>
+      string(1) " "
+      ["FieldJustification"]=>
+      string(4) "Left"
+      ["FieldStateOption"]=>
+      array(57) {
+        [0]=>
+        string(2) "AK"
+        [1]=>
+        string(2) "ID"
+        [2]=>
+        string(2) "VI"
+        [3]=>
+        string(2) "WV"
+        [4]=>
+        string(2) "TX"
+        [5]=>
+        string(2) "NY"
+        [6]=>
+        string(2) "IA"
+        [7]=>
+        string(2) "OR"
+        [8]=>
+        string(2) "IL"
+        [9]=>
+        string(2) "MA"
+        [10]=>
+        string(2) "MT"
+        [11]=>
+        string(2) "NM"
+        [12]=>
+        string(2) "MP"
+        [13]=>
+        string(2) "NE"
+        [14]=>
+        string(2) "AL"
+        [15]=>
+        string(2) "GA"
+        [16]=>
+        string(2) "OK"
+        [17]=>
+        string(2) "CO"
+        [18]=>
+        string(2) "NV"
+        [19]=>
+        string(2) "KY"
+        [20]=>
+        string(2) "FL"
+        [21]=>
+        string(2) "HI"
+        [22]=>
+        string(2) "ME"
+        [23]=>
+        string(2) "MI"
+        [24]=>
+        string(2) "NJ"
+        [25]=>
+        string(1) " "
+        [26]=>
+        string(2) "SD"
+        [27]=>
+        string(3) "MEX"
+        [28]=>
+        string(2) "PA"
+        [29]=>
+        string(2) "DE"
+        [30]=>
+        string(2) "OH"
+        [31]=>
+        string(2) "NC"
+        [32]=>
+        string(2) "LA"
+        [33]=>
+        string(2) "IN"
+        [34]=>
+        string(2) "TN"
+        [35]=>
+        string(2) "AZ"
+        [36]=>
+        string(2) "GU"
+        [37]=>
+        string(2) "MN"
+        [38]=>
+        string(2) "RI"
+        [39]=>
+        string(2) "CA"
+        [40]=>
+        string(2) "CT"
+        [41]=>
+        string(2) "AR"
+        [42]=>
+        string(2) "PR"
+        [43]=>
+        string(2) "WA"
+        [44]=>
+        string(2) "WI"
+        [45]=>
+        string(2) "VT"
+        [46]=>
+        string(3) "CAN"
+        [47]=>
+        string(2) "WY"
+        [48]=>
+        string(2) "SC"
+        [49]=>
+        string(2) "ND"
+        [50]=>
+        string(2) "MO"
+        [51]=>
+        string(2) "VA"
+        [52]=>
+        string(2) "MS"
+        [53]=>
+        string(2) "NH"
+        [54]=>
+        string(2) "KS"
+        [55]=>
+        string(2) "UT"
+        [56]=>
+        string(2) "MD"
+      }
+      ["FieldStateOptionDisplay"]=>
+      array(57) {
+        [0]=>
+        string(2) "AL"
+        [1]=>
+        string(2) "HI"
+        [2]=>
+        string(2) "UT"
+        [3]=>
+        string(2) "WA"
+        [4]=>
+        string(2) "SD"
+        [5]=>
+        string(2) "NM"
+        [6]=>
+        string(2) "GU"
+        [7]=>
+        string(2) "OH"
+        [8]=>
+        string(2) "IA"
+        [9]=>
+        string(2) "KY"
+        [10]=>
+        string(2) "MP"
+        [11]=>
+        string(2) "NH"
+        [12]=>
+        string(2) "MN"
+        [13]=>
+        string(2) "NC"
+        [14]=>
+        string(2) "AK"
+        [15]=>
+        string(2) "DE"
+        [16]=>
+        string(2) "NY"
+        [17]=>
+        string(2) "CA"
+        [18]=>
+        string(2) "NJ"
+        [19]=>
+        string(2) "IN"
+        [20]=>
+        string(2) "DC"
+        [21]=>
+        string(2) "GA"
+        [22]=>
+        string(2) "MA"
+        [23]=>
+        string(2) "MD"
+        [24]=>
+        string(2) "NE"
+        [25]=>
+        string(1) " "
+        [26]=>
+        string(2) "RI"
+        [27]=>
+        string(2) "WY"
+        [28]=>
+        string(2) "OK"
+        [29]=>
+        string(2) "CT"
+        [30]=>
+        string(2) "NV"
+        [31]=>
+        string(2) "MS"
+        [32]=>
+        string(2) "KS"
+        [33]=>
+        string(2) "ID"
+        [34]=>
+        string(2) "SC"
+        [35]=>
+        string(2) "AR"
+        [36]=>
+        string(2) "FL"
+        [37]=>
+        string(2) "ME"
+        [38]=>
+        string(2) "PA"
+        [39]=>
+        string(2) "AZ"
+        [40]=>
+        string(2) "CO"
+        [41]=>
+        string(2) "AS"
+        [42]=>
+        string(2) "OR"
+        [43]=>
+        string(2) "VI"
+        [44]=>
+        string(2) "VT"
+        [45]=>
+        string(2) "VA"
+        [46]=>
+        string(2) "WV"
+        [47]=>
+        string(2) "WI"
+        [48]=>
+        string(2) "PR"
+        [49]=>
+        string(2) "MT"
+        [50]=>
+        string(2) "MI"
+        [51]=>
+        string(2) "TX"
+        [52]=>
+        string(2) "MO"
+        [53]=>
+        string(2) "ND"
+        [54]=>
+        string(2) "IL"
+        [55]=>
+        string(2) "TN"
+        [56]=>
+        string(2) "LA"
+      }
+    }
+    [74]=>
+    array(5) {
+      ["FieldType"]=>
+      string(4) "Text"
+      ["FieldName"]=>
+      string(81) "topmostSubform[0].Page2[0].The_employee_s_first_day_of_employment__mm_dd_yyyy_[0]"
+      ["FieldNameAlt"]=>
+      string(70) "Section 2., Enter the employer's first day of employment (mm/dd/yyyy)."
+      ["FieldFlags"]=>
+      string(7) "8388608"
+      ["FieldJustification"]=>
+      string(4) "Left"
+    }
+  }
+}
