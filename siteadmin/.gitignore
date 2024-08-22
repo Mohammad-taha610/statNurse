@@ -10,3 +10,5 @@
 # Ensure Git doesn't ignore the submodules themselves
 !vendor/nursestat/sacore/.git
 !vendor/nursestat/sahtmldocument/.git
+
+/siteadmin/modules/sa/system/src/other/GeoLite2-City.mmdb
